@@ -2,4 +2,5 @@ pandas
 numpy
 panel
 bokeh
+holoviews
 biopython
