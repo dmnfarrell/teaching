@@ -1,0 +1,21 @@
+name: testapp
+version: '0.1'
+#version-script: git describe --abbrev=1 --tags
+summary: python test package
+description: |
+ test app for python
+
+base: core18
+grade: stable
+confinement: strict
+
+apps:
+  testapp:
+    command: bin/hello
+    plugs: [home,network-bind]
+parts:
+  testapp:
+    plugin: python
+    python-version: python3
+    source: .
+    stage-packages: [ncbi-blast+]
