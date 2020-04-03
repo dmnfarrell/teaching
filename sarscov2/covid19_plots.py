@@ -52,9 +52,6 @@ def bokeh_plot_map(gdf, column=None, title=''):
         tooltips=x, point_policy='follow_mouse')
     #Instantiate LinearColorMapper that linearly maps numbers in a range, into a sequence of colors.
     color_mapper = LogColorMapper(palette = palette, low = vals.min(), high = vals.max())
-    #color_bar = ColorBar(color_mapper=color_mapper, label_standoff=8, width=500, height=20, 
-    #                     location=(0,0), orientation='horizontal')
-
     tools = ['wheel_zoom,pan,reset',hover]
     p = figure(title = title, plot_height=400 , width=650, toolbar_location='right', tools=tools)
     p.xgrid.grid_line_color = None
@@ -62,9 +59,8 @@ def bokeh_plot_map(gdf, column=None, title=''):
     #Add patch renderer to figure
     p.patches('xs','ys', source=geosource, fill_alpha=1, line_width=0.5, line_color='black',  
               fill_color={'field' :column , 'transform': color_mapper})
-    #Specify figure layout.
-    #p.add_layout(color_bar, 'below')
     p.toolbar.logo = None
+    p.background_fill_color = "#e1e1ea"
     p.sizing_mode = 'stretch_width'
     return p
 
@@ -123,24 +119,23 @@ def summary_plot(event=None):
     
     #countries = list(set(common[:5] + country_select.value[:10]))    
     scale = scale_select.value
-    x = summary[:12]
+    x = summary[:20]
     #x = summary[summary.countriesAndTerritories.isin(countries)]
     hover = HoverTool(tooltips=[
                 ('Cases', '@cases'),
-                ('Deaths', '@deaths')]
+                ('Deaths', '@deaths'),
+                ('Population','@popData2018')]
             )
-    p = figure(plot_width=250,plot_height=500, x_range=list(x.countriesAndTerritories),               
-               y_axis_type=scale, title='Total', tools=[hover])
+    p = figure(plot_width=300,plot_height=500, y_range=list(x.countriesAndTerritories),               
+               x_axis_type=scale, title='Total Cases', tools=[hover])
     
     source = ColumnDataSource(summary)
-    p.vbar(x='countriesAndTerritories', top='cases', bottom=0.01, width=0.9, source=source)  
+    p.hbar(y='countriesAndTerritories', right='cases', left=0.01, height=0.9, color='orange', source=source)  
     p.xaxis.major_label_orientation = 45
     p.background_fill_color = "#e1e1ea"
     p.toolbar.logo = None
-    #p.sizing_mode = 'stretch_both'
     summary_pane.object = p
     return 
-    
     
 def update(event):
     df = get_data()
@@ -173,7 +168,9 @@ mp = bokeh_plot_map(gdf, 'cases')
 map_pane = pn.pane.Bokeh(mp,sizing_mode='stretch_width')
 
 title = pn.pane.HTML('<h2>COVID-19 ECDC data</h2><b>https://www.ecdc.europa.eu/</b>')
-app = pn.Column(pn.Row(pn.Column(title,country_select,scale_select,plot_select),plot_pane,summary_pane,sizing_mode='stretch_height'), map_pane)
-app
+helptxt = pn.pane.HTML('<p><small>ctrl-click for multiple selections</small></p>')
+info = pn.pane.HTML('<a href="http://dmnfarrell.github.io/plotting/ecdc-covid19-dashboard-panel">link to original article</a>')
+app = pn.Column(pn.Row(pn.Column(title,country_select,scale_select,plot_select,helptxt),plot_pane,summary_pane,
+                       sizing_mode='stretch_height'), map_pane, info)
 
-app.servable()
+app.servable(title='COVID-19 ECDC dashboard')
