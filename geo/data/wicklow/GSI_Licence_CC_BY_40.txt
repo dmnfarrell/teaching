@@ -1,0 +1,7 @@
+Data that is produced directly by the Geological Survey Ireland (GSI) is free for use under the conditions of Creative Commons Attribution 4.0 International license. 
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Under the CC-BY Licence, users must acknowledge the source of the Information in their product or application. 
+
+Please use this specific attribution statement:
+“Contains Irish Public Sector Data (Geological Survey) licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) licence"
