@@ -1,0 +1,830 @@
+mutation,count,protein
+D614G,792,Spike glycoprotein
+P214L,769,Replicase polyprotein 1ab
+Q57H,386,Protein 3a
+R203K+G204R,288,Nucleoprotein
+G251V,225,Protein 3a
+P1327L+Y1364C,222,Replicase polyprotein 1ab
+T248I,165,Replicase polyprotein 1a
+L3589F,61,Replicase polyprotein 1a
+T175M,46,Membrane protein
+I722V+P748S+L3589F,44,Replicase polyprotein 1a
+D431N,38,Replicase polyprotein 1a
+D3G,33,Membrane protein
+G196V,28,Protein 3a
+F3054Y,27,Replicase polyprotein 1a
+S81L,24,Protein 7a
+D58E+P954L,21,Replicase polyprotein 1a
+F1657L+V1973L,21,Replicase polyprotein 1ab
+V13L,20,Protein 3a
+G375D+A859T,20,Replicase polyprotein 1a
+L3M,17,Protein 3a
+P13L+S197L,16,Nucleoprotein
+Q57H+A99V,16,Protein 3a
+V483A,15,Spike glycoprotein
+S197L,15,Nucleoprotein
+S193I,14,Nucleoprotein
+S1498F,14,Replicase polyprotein 1a
+P748S+L3589F,13,Replicase polyprotein 1a
+D614G+P1263L,13,Spike glycoprotein
+T205I,12,Nucleoprotein
+P13L,12,Nucleoprotein
+H400R+L3589F,12,Replicase polyprotein 1a
+S194L,11,Nucleoprotein
+T1229I+G3261S,11,Replicase polyprotein 1a
+A2168V,10,Replicase polyprotein 1ab
+S202N,10,Nucleoprotein
+H93Y,10,Protein 3a
+T248I+A1335V,9,Replicase polyprotein 1a
+P214L+A1744V,9,Replicase polyprotein 1ab
+T248I+S3867L,9,Replicase polyprotein 1a
+K3336R,9,Replicase polyprotein 1a
+T1999K+L3589F,9,Replicase polyprotein 1a
+F173L+T248I,9,Replicase polyprotein 1a
+G1083V,9,Replicase polyprotein 1a
+V361I+L3589F,8,Replicase polyprotein 1a
+G1124V,8,Spike glycoprotein
+P214L+V1049L,8,Replicase polyprotein 1ab
+P214L+S2330R,8,Replicase polyprotein 1ab
+D614G+G1124V,7,Spike glycoprotein
+D1019E,7,Replicase polyprotein 1a
+D614G+A879S,7,Spike glycoprotein
+Y1364C,7,Replicase polyprotein 1ab
+P254S+V361I+L3589F,6,Replicase polyprotein 1a
+L3M+G251V,6,Protein 3a
+P214L+A340V+V2271L,6,Replicase polyprotein 1ab
+T248I+A3512V,6,Replicase polyprotein 1a
+S188P,5,Nucleoprotein
+T14I,5,Protein 3a
+Q57H+K67N,5,Protein 3a
+A156S,5,Nucleoprotein
+L952P,5,Replicase polyprotein 1a
+Q2685H,5,Replicase polyprotein 1a
+T1609I+L3589F,5,Replicase polyprotein 1a
+S2225F,5,Replicase polyprotein 1a
+P254S+V361I+-3585L+L3586F+L3590F,5,Replicase polyprotein 1a
+P731S+D1019E,5,Replicase polyprotein 1a
+L1582F,5,Replicase polyprotein 1a
+I722V+P748S+S2220I+V2221I+L2952F+L3589F,4,Replicase polyprotein 1a
+P214L+K698R,4,Replicase polyprotein 1ab
+F1657L,4,Replicase polyprotein 1ab
+P214L+A841V,4,Replicase polyprotein 1ab
+P214L+V2078F+G2562V,4,Replicase polyprotein 1ab
+V1393L,4,Replicase polyprotein 1ab
+P214L+S325F,4,Replicase polyprotein 1ab
+G3261S,4,Replicase polyprotein 1a
+T248I+R2415K,4,Replicase polyprotein 1a
+V361I+G3055C+L3589F,4,Replicase polyprotein 1a
+T2136I,4,Replicase polyprotein 1a
+P199L,4,Nucleoprotein
+R203K+G204R+I292T,4,Nucleoprotein
+S221L+D614G,4,Spike glycoprotein
+T248I+G1083V,4,Replicase polyprotein 1a
+S2086F,4,Replicase polyprotein 1a
+S183Y,4,Nucleoprotein
+P214L+L999F,3,Replicase polyprotein 1ab
+N228Y,3,Nucleoprotein
+R32H,3,Nucleoprotein
+L96F,3,Protein 7a
+S214I,3,Membrane protein
+R185C,3,Nucleoprotein
+P214L+H1113Y,3,Replicase polyprotein 1ab
+P214L+G665S,3,Replicase polyprotein 1ab
+T248I+V361I+L3589F,3,Replicase polyprotein 1a
+V872I,3,Replicase polyprotein 1ab
+A2032V,3,Replicase polyprotein 1ab
+G375D+A859T+A2232V,3,Replicase polyprotein 1a
+V39I+D431N,3,Replicase polyprotein 1a
+T333I+L3589F,3,Replicase polyprotein 1a
+T248I+M568V,3,Replicase polyprotein 1a
+T1823I,3,Replicase polyprotein 1a
+T248I+T534I,3,Replicase polyprotein 1a
+Y101C,3,Replicase polyprotein 1a
+I2521V,3,Replicase polyprotein 1a
+F2821L+G3261S,3,Replicase polyprotein 1a
+R190C+V361I+M2779I+L3589F,3,Replicase polyprotein 1a
+L2045F,3,Replicase polyprotein 1a
+T248I+L3335F,3,Replicase polyprotein 1a
+N255H+V361I+L3589F,3,Replicase polyprotein 1a
+D431N+I530V+L2592F,3,Replicase polyprotein 1a
+C214Y+S411G,3,Replicase polyprotein 1a
+V1010L,3,Replicase polyprotein 1ab
+P214L+V2271L,3,Replicase polyprotein 1ab
+G362E,3,Replicase polyprotein 1a
+P214L+A340V,3,Replicase polyprotein 1ab
+S71F,3,Spike glycoprotein
+L46F,3,Protein 3a
+D1260N,3,Spike glycoprotein
+V367F,3,Spike glycoprotein
+V88A+G251V,3,Protein 3a
+D614G+Q675H,3,Spike glycoprotein
+A54S,3,Protein 3a
+H655Y,3,Spike glycoprotein
+D614G+D936Y,3,Spike glycoprotein
+T791I,3,Spike glycoprotein
+D614G+S939F,2,Spike glycoprotein
+M153T+V1040F,2,Spike glycoprotein
+Y145H+D614G,2,Spike glycoprotein
+H49Y,2,Spike glycoprotein
+F157S,2,Spike glycoprotein
+A522V,2,Spike glycoprotein
+S50L+D614G,2,Spike glycoprotein
+S438F+D614G,2,Spike glycoprotein
+D1163G,2,Spike glycoprotein
+S255F+D614G,2,Spike glycoprotein
+D614G+D839Y,2,Spike glycoprotein
+G476S,2,Spike glycoprotein
+P214L+A2234V,2,Replicase polyprotein 1ab
+D614G+M1229I,2,Spike glycoprotein
+Q239K+D614G,2,Spike glycoprotein
+P214L+L1917F,2,Replicase polyprotein 1ab
+P214L+P1751S,2,Replicase polyprotein 1ab
+P1327L+Y1364C+F2172L,2,Replicase polyprotein 1ab
+R2086K,2,Replicase polyprotein 1ab
+T1999I,2,Replicase polyprotein 1ab
+P214L+L2311F,2,Replicase polyprotein 1ab
+P900L+P1327L+Y1364C,2,Replicase polyprotein 1ab
+P214L+K2479N,2,Replicase polyprotein 1ab
+C1254F,2,Spike glycoprotein
+I197V,2,Spike glycoprotein
+D614G+A831V,2,Spike glycoprotein
+H763Y,2,Replicase polyprotein 1ab
+P214L+L1601F,2,Replicase polyprotein 1ab
+D1769G,2,Replicase polyprotein 1ab
+P1187S+P1327L+Y1364C+T1373A+V1960F,2,Replicase polyprotein 1ab
+T1411I,2,Replicase polyprotein 1ab
+P214L+M1399I,2,Replicase polyprotein 1ab
+P214L+P2431S,2,Replicase polyprotein 1ab
+P214L+S1101Y+T1597I+V2271L,2,Replicase polyprotein 1ab
+T32I+P214L,2,Replicase polyprotein 1ab
+R1215C,2,Replicase polyprotein 1ab
+P214L+R2584I,2,Replicase polyprotein 1ab
+R203K+G204R+K373N,2,Nucleoprotein
+P326L,2,Nucleoprotein
+R203K+G204R+G328V,2,Nucleoprotein
+Q289H,2,Nucleoprotein
+S188L,2,Nucleoprotein
+R203K,2,Nucleoprotein
+R195K,2,Nucleoprotein
+I146F,2,Nucleoprotein
+P199S,2,Nucleoprotein
+S327L,2,Nucleoprotein
+A119V,2,Nucleoprotein
+R191L+R203K+G204R,2,Nucleoprotein
+A13T,2,Protein 7a
+T271I,2,Nucleoprotein
+T248I+A1281V+A3512V,2,Replicase polyprotein 1a
+R3306C,2,Replicase polyprotein 1a
+I722V+P748S+R2932H+L3589F,2,Replicase polyprotein 1a
+P2127T,2,Replicase polyprotein 1a
+P2001S,2,Replicase polyprotein 1a
+A337V,2,Replicase polyprotein 1a
+P2127L,2,Replicase polyprotein 1a
+H2681Y,2,Replicase polyprotein 1a
+N2388S+L3589F,2,Replicase polyprotein 1a
+G3829S,2,Replicase polyprotein 1a
+T248I+S359L+D979Y,2,Replicase polyprotein 1a
+D431N+S4102L,2,Replicase polyprotein 1a
+T248I+S3868F,2,Replicase polyprotein 1a
+T248I+R831K,2,Replicase polyprotein 1a
+V361I+K839R+L3589F,2,Replicase polyprotein 1a
+A2693V,2,Replicase polyprotein 1a
+P254S+V361I+L3589F+A3839V,2,Replicase polyprotein 1a
+T248I+A1266V+S3867L,2,Replicase polyprotein 1a
+S927L+G1083V+L3589F,2,Replicase polyprotein 1a
+S301L,2,Replicase polyprotein 1a
+G375D+A859T+S1451F,2,Replicase polyprotein 1a
+G502S,2,Replicase polyprotein 1a
+I444V,2,Replicase polyprotein 1a
+S366G+H400R+L3589F,2,Replicase polyprotein 1a
+I351T+S2225F+L3589F,2,Replicase polyprotein 1a
+A2063V,2,Replicase polyprotein 1a
+I722V+P748S+P2588S+A3439T+R3525C+L3589F,2,Replicase polyprotein 1a
+I722V+P748S+A2232V+L3589F+V3697I,2,Replicase polyprotein 1a
+S927L+L3589F,2,Replicase polyprotein 1a
+K67N,2,Protein 3a
+D265Y,2,Protein 3a
+G254R,2,Protein 3a
+A54V+G196V,2,Protein 3a
+Y189C,2,Protein 3a
+T9K+G254R,2,Protein 3a
+L3M+Q57H,2,Protein 3a
+G44V+Q57H,2,Protein 3a
+K61N,2,Protein 3a
+T1636I,2,Replicase polyprotein 1a
+L53F+Q57H,2,Protein 3a
+W131L,2,Protein 3a
+V93F,2,Protein 7a
+V104F,2,Protein 7a
+N2586D,2,Replicase polyprotein 1a
+E20K+S2207F,2,Replicase polyprotein 1a
+T248I+V643A,2,Replicase polyprotein 1a
+E335D+L3589F,2,Replicase polyprotein 1a
+T248I+L3589F,2,Replicase polyprotein 1a
+G1083V+L3589F,2,Replicase polyprotein 1a
+T248I+T736I,2,Replicase polyprotein 1a
+K317N,1,Replicase polyprotein 1ab
+P214L+S538I,1,Replicase polyprotein 1ab
+P214L+N382S,1,Replicase polyprotein 1ab
+T1102I+P1327L+Y1364C,1,Replicase polyprotein 1ab
+G375D+A859T+Q3842H,1,Replicase polyprotein 1a
+K820R,1,Replicase polyprotein 1a
+I722V+P748S+-3585L+L3586F+L3590F,1,Replicase polyprotein 1a
+K275T,1,Replicase polyprotein 1a
+T1018I,1,Replicase polyprotein 1a
+T248I+V2596F,1,Replicase polyprotein 1a
+S1334G+M3599I,1,Replicase polyprotein 1a
+E24D+I722V+P748S+L3589F+G3687V,1,Replicase polyprotein 1a
+D206N,1,Replicase polyprotein 1a
+M1752I+L3589F,1,Replicase polyprotein 1a
+S1595L,1,Replicase polyprotein 1a
+N3708S,1,Replicase polyprotein 1a
+L452F,1,Replicase polyprotein 1a
+K2494N+A2570V,1,Replicase polyprotein 1a
+T1837I,1,Replicase polyprotein 1a
+A2570V,1,Replicase polyprotein 1a
+I722V+P748S+A2232V+T2800I+L3589F+V3697I,1,Replicase polyprotein 1a
+I722V+P748S+P2588S+L3589F,1,Replicase polyprotein 1a
+L437F,1,Replicase polyprotein 1a
+N837S+T2104I+L3589F,1,Replicase polyprotein 1a
+M3263I+M3635I,1,Replicase polyprotein 1a
+I722V+P748S+A2232V+L3589F,1,Replicase polyprotein 1a
+A3738T,1,Replicase polyprotein 1a
+I722V+P748S+E1532D+L3589F,1,Replicase polyprotein 1a
+R3351H,1,Replicase polyprotein 1a
+T248I+I635V,1,Replicase polyprotein 1a
+T1224I+A2693V,1,Replicase polyprotein 1a
+A297V,1,Replicase polyprotein 1ab
+I722V+P748S+L3589F+G3687V,1,Replicase polyprotein 1a
+P1327L+Y1364C+A2122V,1,Replicase polyprotein 1ab
+E920D,1,Replicase polyprotein 1a
+N3520D,1,Replicase polyprotein 1a
+A2977V,1,Replicase polyprotein 1a
+T1847A,1,Replicase polyprotein 1a
+Y1717C,1,Replicase polyprotein 1a
+T248I+P3183S,1,Replicase polyprotein 1a
+E1874A,1,Replicase polyprotein 1a
+G375D+A859T+A2232V+L3589F,1,Replicase polyprotein 1a
+I1590V,1,Replicase polyprotein 1a
+V361I+A3126V+L3589F,1,Replicase polyprotein 1a
+H400Y,1,Replicase polyprotein 1a
+A538V,1,Replicase polyprotein 1a
+T248I+P3354S,1,Replicase polyprotein 1a
+E737D+A1297T+P2038S+L3589F,1,Replicase polyprotein 1a
+Q981H,1,Replicase polyprotein 1a
+A3053V,1,Replicase polyprotein 1a
+P1141L,1,Replicase polyprotein 1a
+H357Y,1,Replicase polyprotein 1a
+T928I,1,Replicase polyprotein 1a
+K1081R,1,Replicase polyprotein 1a
+G375D+A718V+A859T,1,Replicase polyprotein 1a
+L3024F+L3589F,1,Replicase polyprotein 1a
+T1609I+T3442M+L3589F,1,Replicase polyprotein 1a
+S2614A,1,Replicase polyprotein 1a
+R7C,1,Replicase polyprotein 1a
+P2117L,1,Replicase polyprotein 1a
+T248I+P1623S,1,Replicase polyprotein 1a
+E70D+S301L+A886V+A3941V,1,Replicase polyprotein 1a
+S301L+P1794S,1,Replicase polyprotein 1a
+T4354N,1,Replicase polyprotein 1a
+T248I+L563F+A718V+L3934F,1,Replicase polyprotein 1a
+G3261S+D4300E,1,Replicase polyprotein 1a
+S2295L,1,Replicase polyprotein 1a
+T248I+L4165F,1,Replicase polyprotein 1a
+H2340Y+N2388S+L3589F,1,Replicase polyprotein 1a
+R270K+D431N,1,Replicase polyprotein 1a
+T592I+L3589F,1,Replicase polyprotein 1a
+T248I+A1266V,1,Replicase polyprotein 1a
+V3643A,1,Replicase polyprotein 1a
+K1185N,1,Replicase polyprotein 1a
+P180S+D431N+V991F,1,Replicase polyprotein 1a
+E737D+P2038S+L3589F,1,Replicase polyprotein 1a
+N2579D,1,Replicase polyprotein 1a
+K1843N,1,Replicase polyprotein 1a
+M68V,1,Replicase polyprotein 1a
+P2062L,1,Replicase polyprotein 1a
+T2149I,1,Replicase polyprotein 1a
+A3941V,1,Replicase polyprotein 1a
+L434F,1,Replicase polyprotein 1a
+T248I+N1045S,1,Replicase polyprotein 1a
+L952F,1,Replicase polyprotein 1a
+E2072D,1,Replicase polyprotein 1a
+T736A+N3520D,1,Replicase polyprotein 1a
+I2227T,1,Replicase polyprotein 1a
+T3471I,1,Replicase polyprotein 1a
+T248I+P3378L,1,Replicase polyprotein 1a
+T248I+P2029L,1,Replicase polyprotein 1a
+T2950I,1,Replicase polyprotein 1a
+V1374I,1,Replicase polyprotein 1a
+G3317S,1,Replicase polyprotein 1a
+T4142I,1,Replicase polyprotein 1a
+T248I+S2787I,1,Replicase polyprotein 1a
+-3585L+L3586F+L3590F,1,Replicase polyprotein 1a
+P2001S+A3126V,1,Replicase polyprotein 1a
+T248I+L563F,1,Replicase polyprotein 1a
+A3203V,1,Replicase polyprotein 1a
+G391S,1,Replicase polyprotein 1a
+I459V+P2062L,1,Replicase polyprotein 1a
+I654T+P2127S,1,Replicase polyprotein 1a
+I2214L,1,Replicase polyprotein 1a
+L2671F,1,Replicase polyprotein 1a
+M2177T,1,Replicase polyprotein 1a
+T2107I+L3812F,1,Replicase polyprotein 1a
+A673V,1,Replicase polyprotein 1a
+P1769L,1,Replicase polyprotein 1a
+K1393R,1,Replicase polyprotein 1a
+T248I+M2779V,1,Replicase polyprotein 1a
+T2166I,1,Replicase polyprotein 1a
+T710I,1,Replicase polyprotein 1a
+H400R+T3041I,1,Replicase polyprotein 1a
+H400R+T3041I+L3589F,1,Replicase polyprotein 1a
+G711S,1,Replicase polyprotein 1a
+N372D,1,Replicase polyprotein 1a
+Y3705C,1,Replicase polyprotein 1a
+S4136P,1,Replicase polyprotein 1a
+P214L+L1079F,1,Replicase polyprotein 1ab
+P214L+Q1409R,1,Replicase polyprotein 1ab
+A144T+P1327L+Y1364C,1,Replicase polyprotein 1ab
+P1327L+Y1364C+D1769Y+M1925I,1,Replicase polyprotein 1ab
+R170S+P214L,1,Replicase polyprotein 1ab
+P214L+T2332I,1,Replicase polyprotein 1ab
+P214L+D2079N,1,Replicase polyprotein 1ab
+R170S+P1327L+Y1364C,1,Replicase polyprotein 1ab
+P214L+T1555I,1,Replicase polyprotein 1ab
+P214L+T535M,1,Replicase polyprotein 1ab
+P214L+E327G+S2330R,1,Replicase polyprotein 1ab
+P214L+V2591F,1,Replicase polyprotein 1ab
+A1638V,1,Replicase polyprotein 1ab
+A1784V,1,Replicase polyprotein 1ab
+P214L+T697I,1,Replicase polyprotein 1ab
+D1289N,1,Replicase polyprotein 1ab
+P214L+V1393L,1,Replicase polyprotein 1ab
+P214L+Y1648C,1,Replicase polyprotein 1ab
+P214L+P1470L,1,Replicase polyprotein 1ab
+N1862T,1,Replicase polyprotein 1ab
+P214L+H463Y+S2330R,1,Replicase polyprotein 1ab
+P214L+V739L,1,Replicase polyprotein 1ab
+P700R,1,Replicase polyprotein 1ab
+P214L+V1171L,1,Replicase polyprotein 1ab
+P1327L+Y1364C+S1452G,1,Replicase polyprotein 1ab
+G877C+A2168V,1,Replicase polyprotein 1ab
+T1174A+P1327L+Y1364C,1,Replicase polyprotein 1ab
+K158N+P214L+A1795V,1,Replicase polyprotein 1ab
+R2208C,1,Replicase polyprotein 1ab
+P1327L+Y1364C+A1795V,1,Replicase polyprotein 1ab
+V190F+P1327L+Y1364C,1,Replicase polyprotein 1ab
+T534I,1,Replicase polyprotein 1ab
+P214L+K1963N,1,Replicase polyprotein 1ab
+P118L+P214L,1,Replicase polyprotein 1ab
+P214L+V367F+A472T,1,Replicase polyprotein 1ab
+M1297V,1,Replicase polyprotein 1ab
+P214L+V1438L,1,Replicase polyprotein 1ab
+E2064D,1,Replicase polyprotein 1ab
+P214L+P995S,1,Replicase polyprotein 1ab
+P214L+M647I,1,Replicase polyprotein 1ab
+P214L+S897A,1,Replicase polyprotein 1ab
+A1543V,1,Replicase polyprotein 1ab
+P214L+D770Y+F1641Y,1,Replicase polyprotein 1ab
+G2374R,1,Replicase polyprotein 1ab
+P214L+T1630I,1,Replicase polyprotein 1ab
+P214L+T293I,1,Replicase polyprotein 1ab
+P214L+H1450Y,1,Replicase polyprotein 1ab
+P214L+S2499F,1,Replicase polyprotein 1ab
+P1327L+Y1364C+V2464A,1,Replicase polyprotein 1ab
+N2495D,1,Replicase polyprotein 1ab
+P214L+A1649V,1,Replicase polyprotein 1ab
+P1327L+Y1364C+I1699T,1,Replicase polyprotein 1ab
+P214L+T1984I,1,Replicase polyprotein 1ab
+P1327L+Y1364C+L1601F,1,Replicase polyprotein 1ab
+H856Q+P901L+P1327L+Y1364C,1,Replicase polyprotein 1ab
+P214L+A1191V,1,Replicase polyprotein 1ab
+S1927L,1,Replicase polyprotein 1ab
+T167M,1,Replicase polyprotein 1ab
+P214L+A340V+E1877D+V2271L,1,Replicase polyprotein 1ab
+S923I+L1601F,1,Replicase polyprotein 1ab
+P214L+P2512L+R2513N,1,Replicase polyprotein 1ab
+I1255T+P1327L+Y1364C,1,Replicase polyprotein 1ab
+P214L+D695Y,1,Replicase polyprotein 1ab
+A1115S,1,Replicase polyprotein 1ab
+R140W,1,Replicase polyprotein 1ab
+P214L+P1867S,1,Replicase polyprotein 1ab
+P214L+L1120I,1,Replicase polyprotein 1ab
+D2170Y,1,Replicase polyprotein 1ab
+P214L+A841V+M1097I+D1769Y,1,Replicase polyprotein 1ab
+P2016L,1,Replicase polyprotein 1ab
+V65I,1,Replicase polyprotein 1ab
+M271I,1,Replicase polyprotein 1ab
+P214L+D2170N,1,Replicase polyprotein 1ab
+F1657L+S1885P+V1973L,1,Replicase polyprotein 1ab
+P214L+T2390M,1,Replicase polyprotein 1ab
+P214L+R1505I,1,Replicase polyprotein 1ab
+P214L+P901S,1,Replicase polyprotein 1ab
+P214L+S1291L,1,Replicase polyprotein 1ab
+A144V,1,Replicase polyprotein 1ab
+P214L+S1173L,1,Replicase polyprotein 1ab
+M1252I,1,Replicase polyprotein 1ab
+P214L+Q1778H,1,Replicase polyprotein 1ab
+P901S+Y1364C,1,Replicase polyprotein 1ab
+K2457R,1,Replicase polyprotein 1ab
+P1564S,1,Replicase polyprotein 1ab
+E2007D,1,Replicase polyprotein 1ab
+I62L+F1657L+V1973L,1,Replicase polyprotein 1ab
+P214L+P1327S,1,Replicase polyprotein 1ab
+D45Y+P214L+A1744V,1,Replicase polyprotein 1ab
+P214L+D2163G,1,Replicase polyprotein 1ab
+F1298V+T1440I,1,Replicase polyprotein 1ab
+A1032V+M1752I+L3589F,1,Replicase polyprotein 1a
+P214L+S1931I,1,Replicase polyprotein 1ab
+P1524S,1,Replicase polyprotein 1a
+T248I+K3912N,1,Replicase polyprotein 1a
+A639V,1,Replicase polyprotein 1a
+T3073N,1,Replicase polyprotein 1a
+D58E+P954L+M4054I,1,Replicase polyprotein 1a
+P2588S,1,Replicase polyprotein 1a
+N1307S+L3589F,1,Replicase polyprotein 1a
+T761I+A1119T,1,Replicase polyprotein 1ab
+P214L+T1203I,1,Replicase polyprotein 1ab
+P787L+S2005P,1,Replicase polyprotein 1a
+P214L+V1711F,1,Replicase polyprotein 1ab
+P214L+Q1970H,1,Replicase polyprotein 1ab
+V2078F,1,Replicase polyprotein 1ab
+P214L+D716G,1,Replicase polyprotein 1ab
+P214L+H1879Y+S2239F,1,Replicase polyprotein 1ab
+P214L+R240G+K698R,1,Replicase polyprotein 1ab
+R1215C+P1627L+K2457R,1,Replicase polyprotein 1ab
+D52Y+P214L,1,Replicase polyprotein 1ab
+P214L+D1083Y,1,Replicase polyprotein 1ab
+V1740F,1,Replicase polyprotein 1ab
+P214L+Y374H,1,Replicase polyprotein 1ab
+P214L+N1962S,1,Replicase polyprotein 1ab
+P214L+T1674I,1,Replicase polyprotein 1ab
+P214L+S859P,1,Replicase polyprotein 1ab
+P214L+G2080S,1,Replicase polyprotein 1ab
+P214L+K1168R+M1297I,1,Replicase polyprotein 1ab
+P214L+E1142D,1,Replicase polyprotein 1ab
+D58E+P954L+P2933S,1,Replicase polyprotein 1a
+P787L,1,Replicase polyprotein 1a
+A551S,1,Replicase polyprotein 1ab
+I2094V,1,Replicase polyprotein 1ab
+A291S+P1327L+Y1364C,1,Replicase polyprotein 1ab
+P1327L+Y1364C+P1545L,1,Replicase polyprotein 1ab
+S120N+P1327L+Y1364C,1,Replicase polyprotein 1ab
+P214L+S1308L,1,Replicase polyprotein 1ab
+P214L+G2410C,1,Replicase polyprotein 1ab
+D52V,1,Replicase polyprotein 1ab
+P214L+A2122V,1,Replicase polyprotein 1ab
+P1721S,1,Replicase polyprotein 1ab
+P214L+D2223Y,1,Replicase polyprotein 1ab
+L999F,1,Replicase polyprotein 1ab
+T248I+M2940I,1,Replicase polyprotein 1a
+Q335H+P1327L+Y1364C,1,Replicase polyprotein 1ab
+P214L+D336N,1,Replicase polyprotein 1ab
+N625T,1,Replicase polyprotein 1ab
+T1037I,1,Replicase polyprotein 1ab
+P1327L+Y1364C+M1739I,1,Replicase polyprotein 1ab
+P214L+A1332V,1,Replicase polyprotein 1ab
+P214L+Q885H,1,Replicase polyprotein 1ab
+P2853L,1,Replicase polyprotein 1a
+S1998R+T1999K+L3589F,1,Replicase polyprotein 1a
+A3437V+L3466F,1,Replicase polyprotein 1a
+D58E+P954L+L1362F,1,Replicase polyprotein 1a
+T248I+H2108Y,1,Replicase polyprotein 1a
+D58E+S228A+P954L,1,Replicase polyprotein 1a
+P3345L,1,Replicase polyprotein 1a
+C2271Y+L3589F,1,Replicase polyprotein 1a
+P4244L,1,Replicase polyprotein 1a
+A2231T,1,Replicase polyprotein 1a
+P214L+M1482K,1,Replicase polyprotein 1ab
+D431N+A1456V,1,Replicase polyprotein 1a
+V2926I,1,Replicase polyprotein 1a
+A4268S,1,Replicase polyprotein 1a
+T928I+L3589F,1,Replicase polyprotein 1a
+A3006V+L3589F,1,Replicase polyprotein 1a
+Y1401C,1,Replicase polyprotein 1a
+P214L+V479L,1,Replicase polyprotein 1ab
+A3669V,1,Replicase polyprotein 1a
+D1019E+A2977V+L3627F,1,Replicase polyprotein 1a
+T248I+K4159N,1,Replicase polyprotein 1a
+D614G+A846V,1,Spike glycoprotein
+T76I,1,Spike glycoprotein
+D614G,1,Spike glycoprotein
+T547I,1,Spike glycoprotein
+D614G+A706V,1,Spike glycoprotein
+S254F,1,Spike glycoprotein
+D614G+P1162A,1,Spike glycoprotein
+D614G+I1132V,1,Spike glycoprotein
+A435S+D614G,1,Spike glycoprotein
+S940F,1,Spike glycoprotein
+A930V,1,Spike glycoprotein
+R408I,1,Spike glycoprotein
+P1143L,1,Spike glycoprotein
+D614G+G1219C,1,Spike glycoprotein
+D614G+N679Y+S680P,1,Spike glycoprotein
+S94F+D614G+Q675H,1,Spike glycoprotein
+D808N,1,Spike glycoprotein
+S1252F,1,Spike glycoprotein
+-267Y+D615G,1,Spike glycoprotein
+Q321L+D614G,1,Spike glycoprotein
+D614G+R765L,1,Spike glycoprotein
+D614G+V622I,1,Spike glycoprotein
+V1264L,1,Spike glycoprotein
+P1162L,1,Spike glycoprotein
+V772I,1,Spike glycoprotein
+S50L+D614G+G1124V,1,Spike glycoprotein
+A570V,1,Spike glycoprotein
+S50L,1,Spike glycoprotein
+V70F,1,Spike glycoprotein
+D614G+V615F,1,Spike glycoprotein
+D614G+A845V,1,Spike glycoprotein
+D614G+V976F+E1150D,1,Spike glycoprotein
+D467V+I468F+D614G,1,Spike glycoprotein
+H146Y+D614G,1,Spike glycoprotein
+D614G+Q677H+V1230L,1,Spike glycoprotein
+I472V+D614G,1,Spike glycoprotein
+T22I,1,Spike glycoprotein
+I934M,1,Spike glycoprotein
+D614G+D1260N,1,Spike glycoprotein
+A892S+E1207D,1,Spike glycoprotein
+I722V+P748S+P1675L+L3589F,1,Replicase polyprotein 1a
+A27V,1,Spike glycoprotein
+A85S,1,Membrane protein
+A2S,1,Membrane protein
+D3Y,1,Membrane protein
+C86F,1,Membrane protein
+L164M,1,Membrane protein
+P142S,1,Nucleoprotein
+R209T,1,Nucleoprotein
+A381T,1,Nucleoprotein
+R185L,1,Nucleoprotein
+D401Y,1,Nucleoprotein
+D340N,1,Nucleoprotein
+G18V+T205I,1,Nucleoprotein
+R203K+G204R+D377G,1,Nucleoprotein
+T334I,1,Nucleoprotein
+R203K+G204R+S327L,1,Nucleoprotein
+P151S+R203K+G204R,1,Nucleoprotein
+N27Y+R203K+G204R,1,Nucleoprotein
+C64F,1,Membrane protein
+S94I,1,Membrane protein
+V70F,1,Membrane protein
+D614G+P631S,1,Spike glycoprotein
+W258L,1,Spike glycoprotein
+I468T,1,Spike glycoprotein
+N354D+D364Y,1,Spike glycoprotein
+M731I,1,Spike glycoprotein
+D215H,1,Spike glycoprotein
+P491R,1,Spike glycoprotein
+Q675R,1,Spike glycoprotein
+D614G+V1176F,1,Spike glycoprotein
+V70I,1,Membrane protein
+D1259H,1,Spike glycoprotein
+T29I,1,Spike glycoprotein
+R21I+D614G,1,Spike glycoprotein
+D936Y,1,Spike glycoprotein
+A522S,1,Spike glycoprotein
+G25V,1,Membrane protein
+R158C,1,Membrane protein
+D614G+A647S,1,Spike glycoprotein
+G446V+D614G,1,Spike glycoprotein
+A623V,1,Spike glycoprotein
+D614G+A623V,1,Spike glycoprotein
+N144D+G251V,1,Protein 3a
+L95F,1,Protein 3a
+S74F,1,Protein 3a
+Q57H+M260K,1,Protein 3a
+V13L+H78Y,1,Protein 3a
+L52I,1,Protein 3a
+Q57H+P262S,1,Protein 3a
+A72S,1,Protein 3a
+V13L+T268M,1,Protein 3a
+M5I+G251V,1,Protein 3a
+S195P+G251V,1,Protein 3a
+T269M,1,Protein 3a
+Q57H+W131C,1,Protein 3a
+Q57H+L129F,1,Protein 3a
+L127I,1,Protein 3a
+G172C,1,Protein 3a
+K16N,1,Protein 3a
+G100C+G196V,1,Protein 3a
+V50I,1,Protein 3a
+R134L,1,Protein 3a
+E41G,1,Protein 7a
+A13V,1,Protein 7a
+T14I,1,Protein 7a
+V29L,1,Protein 7a
+A50V,1,Protein 7a
+T28I,1,Protein 7a
+G38V,1,Protein 7a
+H47Y+Y97H,1,Protein 7a
+V74F,1,Protein 7a
+G100C,1,Protein 3a
+A105S,1,Protein 7a
+Q57H+L95F,1,Protein 3a
+W131C,1,Protein 3a
+Q57H+T151I,1,Protein 3a
+V48G+Q57H,1,Protein 3a
+G224C+G251V,1,Protein 3a
+Q57H+K75R,1,Protein 3a
+S26P,1,Protein 3a
+V225F+Q245P,1,Protein 3a
+F56C,1,Protein 3a
+D614G+N703S,1,Spike glycoprotein
+W64L,1,Spike glycoprotein
+V860F,1,Spike glycoprotein
+D614G+G769V,1,Spike glycoprotein
+D1165G,1,Spike glycoprotein
+M177I+D614G,1,Spike glycoprotein
+S494P+D614G,1,Spike glycoprotein
+L5F+D614G,1,Spike glycoprotein
+C1250Y,1,Spike glycoprotein
+T29I+D614G+S704L+G1124V,1,Spike glycoprotein
+C1250F,1,Spike glycoprotein
+V483I,1,Spike glycoprotein
+H146Y,1,Spike glycoprotein
+D614G+H1058L+C1236F,1,Spike glycoprotein
+F338L,1,Spike glycoprotein
+N439K+D614G,1,Spike glycoprotein
+G142A+D614G,1,Spike glycoprotein
+I714L,1,Spike glycoprotein
+Q677H,1,Spike glycoprotein
+S60F,1,Protein 3a
+R30C,1,Protein 3a
+A54V+Q57H,1,Protein 3a
+H78Y+H204N,1,Protein 3a
+F43I+Y189H+G251V,1,Protein 3a
+S165F,1,Protein 3a
+S171L,1,Protein 3a
+L3M+V13L,1,Protein 3a
+V13L+T175I,1,Protein 3a
+Q185H,1,Protein 3a
+D614G+D936Y+A1020V,1,Spike glycoprotein
+T89I,1,Protein 3a
+L216F+D614G,1,Spike glycoprotein
+A575S+D614G+A623S,1,Spike glycoprotein
+E309Q+D614G,1,Spike glycoprotein
+T240I,1,Spike glycoprotein
+D614G+Q787R,1,Spike glycoprotein
+D614G+T1066N,1,Spike glycoprotein
+R203K+G204R+A211S,1,Nucleoprotein
+G243C,1,Nucleoprotein
+S193I+R203K+G204R,1,Nucleoprotein
+V9M+G972V,1,Replicase polyprotein 1a
+D58E+P954L+G1083V+G1688C+G2825V,1,Replicase polyprotein 1a
+L1017F+G1083V+L3589F,1,Replicase polyprotein 1a
+K1331N,1,Replicase polyprotein 1a
+H2782Y,1,Replicase polyprotein 1a
+T2136I+G3740V,1,Replicase polyprotein 1a
+T248I+G1083V+A2063V+S3867L,1,Replicase polyprotein 1a
+D431N+A3253V,1,Replicase polyprotein 1a
+T248I+S2955F,1,Replicase polyprotein 1a
+Q1575K+P1845S,1,Replicase polyprotein 1a
+T1743I,1,Replicase polyprotein 1a
+G375D+A859T+I2210V,1,Replicase polyprotein 1a
+T248I+M568V+P1769L,1,Replicase polyprotein 1a
+D58E+P954L+T1990I,1,Replicase polyprotein 1a
+I3131V,1,Replicase polyprotein 1a
+A1415V,1,Replicase polyprotein 1a
+T248I+S3867L,1,Replicase polyprotein 1a
+P254S+V361I+G1083V+L3589F,1,Replicase polyprotein 1a
+D1019E+L3627F,1,Replicase polyprotein 1a
+T248I+G1083V+S3867L,1,Replicase polyprotein 1a
+M2242I,1,Replicase polyprotein 1a
+G2517V,1,Replicase polyprotein 1a
+T2169A,1,Replicase polyprotein 1a
+A3501V,1,Replicase polyprotein 1a
+T248I+T386I,1,Replicase polyprotein 1a
+K2126R,1,Replicase polyprotein 1a
+T1823I+T2136I,1,Replicase polyprotein 1a
+G972V,1,Replicase polyprotein 1a
+T1805I,1,Replicase polyprotein 1a
+G375D+A859T+Q1275R,1,Replicase polyprotein 1a
+T1580I+M3112I,1,Replicase polyprotein 1a
+V3332I,1,Replicase polyprotein 1a
+D431N+T1564M,1,Replicase polyprotein 1a
+E220A+L1017F+L3589F,1,Replicase polyprotein 1a
+G1083V+G2825V,1,Replicase polyprotein 1a
+G3740S,1,Replicase polyprotein 1a
+T248I+G1083V+A3512V,1,Replicase polyprotein 1a
+G1083V+T1999K+L3589F,1,Replicase polyprotein 1a
+G763V+G1083V+F3054Y+G3740V,1,Replicase polyprotein 1a
+G375D+A859T+G1083V+G3740V,1,Replicase polyprotein 1a
+Q1575K,1,Replicase polyprotein 1a
+G375D+A859T+S3547L+M3695V,1,Replicase polyprotein 1a
+N145Y+E737D+I2521V,1,Replicase polyprotein 1a
+D431N+I530V+V603I+T1837I+L2592F,1,Replicase polyprotein 1a
+P1904L+L3589F,1,Replicase polyprotein 1a
+D431N+P2127L+T3562I,1,Replicase polyprotein 1a
+D431N+E1396D,1,Replicase polyprotein 1a
+T1999K,1,Replicase polyprotein 1a
+I722V+P748S+A2537V+L3589F,1,Replicase polyprotein 1a
+K1177R,1,Replicase polyprotein 1a
+T2104I,1,Replicase polyprotein 1a
+K1216E,1,Replicase polyprotein 1a
+T248I+K1034Q,1,Replicase polyprotein 1a
+T248I+Q3315H+S3867L,1,Replicase polyprotein 1a
+T248I+E738K+L3335F,1,Replicase polyprotein 1a
+T248I+L3043F+I3602T,1,Replicase polyprotein 1a
+A1690S,1,Replicase polyprotein 1a
+F3054Y+K3336R,1,Replicase polyprotein 1a
+D431N+H2503R,1,Replicase polyprotein 1a
+S927L,1,Replicase polyprotein 1a
+T248I+G711C,1,Replicase polyprotein 1a
+D431N+V579I+V3507A,1,Replicase polyprotein 1a
+E20K+G1083V+S2207F,1,Replicase polyprotein 1a
+T248I+G877S+S3867L,1,Replicase polyprotein 1a
+T248I+E978K,1,Replicase polyprotein 1a
+A2232V,1,Replicase polyprotein 1a
+R107C,1,Replicase polyprotein 1a
+D431N+S2066I,1,Replicase polyprotein 1a
+I722V+P748S+A3203V+L3589F,1,Replicase polyprotein 1a
+D431N+T729A,1,Replicase polyprotein 1a
+I722V+P748S+K3336R+L3589F,1,Replicase polyprotein 1a
+M3652V,1,Replicase polyprotein 1a
+D1019E+P1203T+L3627F,1,Replicase polyprotein 1a
+V610F,1,Replicase polyprotein 1a
+K1213N,1,Replicase polyprotein 1a
+V2235A,1,Replicase polyprotein 1a
+N4025S,1,Replicase polyprotein 1a
+P344S,1,Replicase polyprotein 1a
+N2388S,1,Replicase polyprotein 1a
+V9M+T248I,1,Replicase polyprotein 1a
+L139F,1,Nucleoprotein
+N1307S+K2572R+L3589F,1,Replicase polyprotein 1a
+G200S,1,Nucleoprotein
+A414S,1,Nucleoprotein
+L331F,1,Nucleoprotein
+P383L,1,Nucleoprotein
+S186F,1,Nucleoprotein
+G34W,1,Nucleoprotein
+A182V,1,Nucleoprotein
+A12V,1,Nucleoprotein
+D402Y,1,Nucleoprotein
+A208G,1,Nucleoprotein
+S232T,1,Nucleoprotein
+A119V+S327L,1,Nucleoprotein
+N192K,1,Nucleoprotein
+P199T,1,Nucleoprotein
+S190I,1,Nucleoprotein
+T325I,1,Nucleoprotein
+I157T+R203K,1,Nucleoprotein
+S235P,1,Nucleoprotein
+L121H,1,Nucleoprotein
+E378Q,1,Nucleoprotein
+Q181E+R203K+G204R,1,Nucleoprotein
+S255F+T334I,1,Nucleoprotein
+R95L+R203K+G204R,1,Nucleoprotein
+Q163K+S197L,1,Nucleoprotein
+S180G+R203K+G204R,1,Nucleoprotein
+A218V,1,Nucleoprotein
+D22G,1,Nucleoprotein
+R203K+G204R,1,Nucleoprotein
+S202I,1,Nucleoprotein
+D343V,1,Nucleoprotein
+G30V,1,Nucleoprotein
+R195I,1,Nucleoprotein
+P207L,1,Nucleoprotein
+P344S,1,Nucleoprotein
+P151L+Q272R,1,Nucleoprotein
+R203K+G204R+D377Y,1,Nucleoprotein
+T148I,1,Nucleoprotein
+G238C,1,Nucleoprotein
+G34E,1,Nucleoprotein
+M101I,1,Nucleoprotein
+P875L,1,Replicase polyprotein 1a
+V527L+L3589F,1,Replicase polyprotein 1a
+L4S+K500R,1,Replicase polyprotein 1a
+R381C+K2126R,1,Replicase polyprotein 1a
+S3229F+M3510V,1,Replicase polyprotein 1a
+I722V+P748S+L3589F+L3960F,1,Replicase polyprotein 1a
+H1091Y,1,Replicase polyprotein 1a
+I722V+P748S+K1778N+L3589F,1,Replicase polyprotein 1a
+L3589F,1,Replicase polyprotein 1a
+S118N+R190C+V361I+M2779I+L3589F,1,Replicase polyprotein 1a
+H308Y+L1093F+A1456V,1,Replicase polyprotein 1a
+G3524R+L3589F,1,Replicase polyprotein 1a
+K781N+L3589F,1,Replicase polyprotein 1a
+V2010A+T4073I,1,Replicase polyprotein 1a
+G310D,1,Replicase polyprotein 1a
+N261S,1,Replicase polyprotein 1a
+V527A,1,Replicase polyprotein 1a
+G375D+A469V+A859T,1,Replicase polyprotein 1a
+P1904L+K3307R+L3589F,1,Replicase polyprotein 1a
+T24N+R203K+G204R,1,Nucleoprotein
+F173L+T248I,1,Replicase polyprotein 1a
+A35V+R203K+G204R,1,Nucleoprotein
+G34W+R203K+G204R,1,Nucleoprotein
+R203K+G204R+Q229H,1,Nucleoprotein
+R191C,1,Nucleoprotein
+C3874Y,1,Replicase polyprotein 1a
+D58G,1,Replicase polyprotein 1a
+T248I+V474M,1,Replicase polyprotein 1a
+T3436I,1,Replicase polyprotein 1a
+S532F+G3829S,1,Replicase polyprotein 1a
+D177Y,1,Replicase polyprotein 1a
+S2256P,1,Replicase polyprotein 1a
+G32D,1,Replicase polyprotein 1a
+T248I+T2283I,1,Replicase polyprotein 1a
+T248I+R3976C,1,Replicase polyprotein 1a
+I722V+P748S+T764I+L3589F,1,Replicase polyprotein 1a
+T248I+A1980V,1,Replicase polyprotein 1a
+P214L+S1059G,1,Replicase polyprotein 1ab
