@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 """
-    Qt widgets for snpgenie.
-    Created Jan 2020
+    Toytree viewer.
+    Created Jan 2021
     Copyright (C) Damien Farrell
 
     This program is free software; you can redistribute it and/or
@@ -22,7 +22,6 @@
 
 import sys, os, io
 import numpy as np
-import pandas as pd
 import string
 try:
     from PySide2 import QtCore
@@ -126,7 +125,6 @@ class TreeViewer(QMainWindow):
         self.file_menu = QMenu('File', parent)
         self.file_menu.addAction('Import Tree', self.load_tree)
         self.file_menu.addAction('Load Test Tree', self.test_tree)
-        self.file_menu.addAction('Show Newick', self.show_newick)
         self.file_menu.addAction('Export Image', self.export_image)
         self.menubar.addMenu(self.file_menu)
         self.tree_menu = QMenu('Tree', parent)
@@ -180,7 +178,6 @@ class TreeViewer(QMainWindow):
         item = self.tipitems.itemAt( pos )
         menu = QMenu(self.tipitems)
         colorAction = menu.addAction("Set Color")
-        nodecolorAction = menu.addAction("Set Node Color")
         rootAction = menu.addAction("Root On")
         dropAction = menu.addAction("Drop Tips")
         action = menu.exec_(self.tipitems.mapToGlobal(pos))
@@ -188,8 +185,6 @@ class TreeViewer(QMainWindow):
             self.root_tree()
         elif action == colorAction:
             self.set_color()
-        elif action == nodecolorAction:
-            self.set_color('node')
         elif action == dropAction:
             self.drop_tips()
 
@@ -235,12 +230,6 @@ class TreeViewer(QMainWindow):
             html = f.read()
             self.browser.setHtml(html)
         self.canvas = canvas
-        return
-
-    def show_newick(self):
-
-        txt = self.tree.newick
-        ed = PlainTextEditor(self,txt)
         return
 
     def root_tree(self):
@@ -351,38 +340,6 @@ class TreeViewer(QMainWindow):
         self.tree = self.tree.drop_tips(names=names).ladderize()
         self.update()
         return
-
-class PlainTextEditor(QPlainTextEdit):
-    def __init__(self, parent=None, **kwargs):
-        super(PlainTextEditor, self).__init__(parent, **kwargs)
-        font = QFont("Monospace")
-        font.setPointSize(10)
-        font.setStyleHint(QFont.TypeWriter)
-        self.setFont(font)
-        return
-
-    def zoom(self, delta):
-        if delta < 0:
-            self.zoomOut(1)
-        elif delta > 0:
-            self.zoomIn(1)
-
-    def contextMenuEvent(self, event):
-
-        menu = QMenu(self)
-        copyAction = menu.addAction("Copy")
-        clearAction = menu.addAction("Clear")
-        zoominAction = menu.addAction("Zoom In")
-        zoomoutAction = menu.addAction("Zoom Out")
-        action = menu.exec_(self.mapToGlobal(event.pos()))
-        if action == copyAction:
-            self.copy()
-        elif action == clearAction:
-            self.clear()
-        elif action == zoominAction:
-            self.zoom(1)
-        elif action == zoomoutAction:
-            self.zoom(-1)
 
 class MultipleInputDialog(QDialog):
     """Qdialog with multiple inputs"""
