@@ -1,0 +1,3195 @@
+"SUMLEV","REGION","DIVISION","STATE","COUNTY","STNAME","CTYNAME","POPESTIMATE2020"
+40,3,6,1,0,"Alabama","Alabama",4921532
+50,3,6,1,1,"Alabama","Autauga County",56145
+50,3,6,1,3,"Alabama","Baldwin County",229287
+50,3,6,1,5,"Alabama","Barbour County",24589
+50,3,6,1,7,"Alabama","Bibb County",22136
+50,3,6,1,9,"Alabama","Blount County",57879
+50,3,6,1,11,"Alabama","Bullock County",9976
+50,3,6,1,13,"Alabama","Butler County",19504
+50,3,6,1,15,"Alabama","Calhoun County",113469
+50,3,6,1,17,"Alabama","Chambers County",32865
+50,3,6,1,19,"Alabama","Cherokee County",26294
+50,3,6,1,21,"Alabama","Chilton County",44397
+50,3,6,1,23,"Alabama","Choctaw County",12418
+50,3,6,1,25,"Alabama","Clarke County",23291
+50,3,6,1,27,"Alabama","Clay County",13112
+50,3,6,1,29,"Alabama","Cleburne County",14967
+50,3,6,1,31,"Alabama","Coffee County",53230
+50,3,6,1,33,"Alabama","Colbert County",55411
+50,3,6,1,35,"Alabama","Conecuh County",11851
+50,3,6,1,37,"Alabama","Coosa County",10650
+50,3,6,1,39,"Alabama","Covington County",36930
+50,3,6,1,41,"Alabama","Crenshaw County",13681
+50,3,6,1,43,"Alabama","Cullman County",84515
+50,3,6,1,45,"Alabama","Dale County",48959
+50,3,6,1,47,"Alabama","Dallas County",36098
+50,3,6,1,49,"Alabama","DeKalb County",71658
+50,3,6,1,51,"Alabama","Elmore County",82158
+50,3,6,1,53,"Alabama","Escambia County",36281
+50,3,6,1,55,"Alabama","Etowah County",102371
+50,3,6,1,57,"Alabama","Fayette County",16241
+50,3,6,1,59,"Alabama","Franklin County",31507
+50,3,6,1,61,"Alabama","Geneva County",26411
+50,3,6,1,63,"Alabama","Greene County",7990
+50,3,6,1,65,"Alabama","Hale County",14670
+50,3,6,1,67,"Alabama","Henry County",17223
+50,3,6,1,69,"Alabama","Houston County",106580
+50,3,6,1,71,"Alabama","Jackson County",51582
+50,3,6,1,73,"Alabama","Jefferson County",655342
+50,3,6,1,75,"Alabama","Lamar County",13764
+50,3,6,1,77,"Alabama","Lauderdale County",93368
+50,3,6,1,79,"Alabama","Lawrence County",32857
+50,3,6,1,81,"Alabama","Lee County",166831
+50,3,6,1,83,"Alabama","Limestone County",102228
+50,3,6,1,85,"Alabama","Lowndes County",9641
+50,3,6,1,87,"Alabama","Macon County",17895
+50,3,6,1,89,"Alabama","Madison County",379453
+50,3,6,1,91,"Alabama","Marengo County",18733
+50,3,6,1,93,"Alabama","Marion County",29703
+50,3,6,1,95,"Alabama","Marshall County",96990
+50,3,6,1,97,"Alabama","Mobile County",412716
+50,3,6,1,99,"Alabama","Monroe County",20459
+50,3,6,1,101,"Alabama","Montgomery County",224639
+50,3,6,1,103,"Alabama","Morgan County",119883
+50,3,6,1,105,"Alabama","Perry County",8687
+50,3,6,1,107,"Alabama","Pickens County",19793
+50,3,6,1,109,"Alabama","Pike County",32966
+50,3,6,1,111,"Alabama","Randolph County",22920
+50,3,6,1,113,"Alabama","Russell County",58237
+50,3,6,1,115,"Alabama","St. Clair County",90739
+50,3,6,1,117,"Alabama","Shelby County",221428
+50,3,6,1,119,"Alabama","Sumter County",12225
+50,3,6,1,121,"Alabama","Talladega County",79985
+50,3,6,1,123,"Alabama","Tallapoosa County",40133
+50,3,6,1,125,"Alabama","Tuscaloosa County",210758
+50,3,6,1,127,"Alabama","Walker County",63143
+50,3,6,1,129,"Alabama","Washington County",15976
+50,3,6,1,131,"Alabama","Wilcox County",10206
+50,3,6,1,133,"Alabama","Winston County",23508
+40,4,9,2,0,"Alaska","Alaska",731158
+50,4,9,2,13,"Alaska","Aleutians East Borough",3401
+50,4,9,2,16,"Alaska","Aleutians West Census Area",5680
+50,4,9,2,20,"Alaska","Anchorage Municipality",287095
+50,4,9,2,50,"Alaska","Bethel Census Area",18437
+50,4,9,2,60,"Alaska","Bristol Bay Borough",788
+50,4,9,2,63,"Alaska","Chugach Census Area",6427
+50,4,9,2,66,"Alaska","Copper River Census Area",2919
+50,4,9,2,68,"Alaska","Denali Borough",2081
+50,4,9,2,70,"Alaska","Dillingham Census Area",4833
+50,4,9,2,90,"Alaska","Fairbanks North Star Borough",95651
+50,4,9,2,100,"Alaska","Haines Borough",2614
+50,4,9,2,105,"Alaska","Hoonah-Angoon Census Area",2141
+50,4,9,2,110,"Alaska","Juneau City and Borough",31849
+50,4,9,2,122,"Alaska","Kenai Peninsula Borough",59414
+50,4,9,2,130,"Alaska","Ketchikan Gateway Borough",13747
+50,4,9,2,150,"Alaska","Kodiak Island Borough",12992
+50,4,9,2,158,"Alaska","Kusilvak Census Area",8328
+50,4,9,2,164,"Alaska","Lake and Peninsula Borough",1493
+50,4,9,2,170,"Alaska","Matanuska-Susitna Borough",110213
+50,4,9,2,180,"Alaska","Nome Census Area",9909
+50,4,9,2,185,"Alaska","North Slope Borough",9294
+50,4,9,2,188,"Alaska","Northwest Arctic Borough",7644
+50,4,9,2,195,"Alaska","Petersburg Borough",3296
+50,4,9,2,198,"Alaska","Prince of Wales-Hyder Census Area",6147
+50,4,9,2,220,"Alaska","Sitka City and Borough",8405
+50,4,9,2,230,"Alaska","Skagway Municipality",1179
+50,4,9,2,240,"Alaska","Southeast Fairbanks Census Area",6957
+50,4,9,2,275,"Alaska","Wrangell City and Borough",2510
+50,4,9,2,282,"Alaska","Yakutat City and Borough",637
+50,4,9,2,290,"Alaska","Yukon-Koyukuk Census Area",5077
+40,4,8,4,0,"Arizona","Arizona",7421401
+50,4,8,4,1,"Arizona","Apache County",71875
+50,4,8,4,3,"Arizona","Cochise County",127450
+50,4,8,4,5,"Arizona","Coconino County",142481
+50,4,8,4,7,"Arizona","Gila County",54303
+50,4,8,4,9,"Arizona","Graham County",39211
+50,4,8,4,11,"Arizona","Greenlee County",9341
+50,4,8,4,12,"Arizona","La Paz County",21480
+50,4,8,4,13,"Arizona","Maricopa County",4579081
+50,4,8,4,15,"Arizona","Mohave County",217206
+50,4,8,4,17,"Arizona","Navajo County",112112
+50,4,8,4,19,"Arizona","Pima County",1061175
+50,4,8,4,21,"Arizona","Pinal County",480828
+50,4,8,4,23,"Arizona","Santa Cruz County",46808
+50,4,8,4,25,"Arizona","Yavapai County",240226
+50,4,8,4,27,"Arizona","Yuma County",217824
+40,3,7,5,0,"Arkansas","Arkansas",3030522
+50,3,7,5,1,"Arkansas","Arkansas County",17383
+50,3,7,5,3,"Arkansas","Ashley County",19339
+50,3,7,5,5,"Arkansas","Baxter County",42242
+50,3,7,5,7,"Arkansas","Benton County",288774
+50,3,7,5,9,"Arkansas","Boone County",37625
+50,3,7,5,11,"Arkansas","Bradley County",10639
+50,3,7,5,13,"Arkansas","Calhoun County",5113
+50,3,7,5,15,"Arkansas","Carroll County",28276
+50,3,7,5,17,"Arkansas","Chicot County",9924
+50,3,7,5,19,"Arkansas","Clark County",22103
+50,3,7,5,21,"Arkansas","Clay County",14375
+50,3,7,5,23,"Arkansas","Cleburne County",24935
+50,3,7,5,25,"Arkansas","Cleveland County",7957
+50,3,7,5,27,"Arkansas","Columbia County",23331
+50,3,7,5,29,"Arkansas","Conway County",21037
+50,3,7,5,31,"Arkansas","Craighead County",112245
+50,3,7,5,33,"Arkansas","Crawford County",63409
+50,3,7,5,35,"Arkansas","Crittenden County",47616
+50,3,7,5,37,"Arkansas","Cross County",16142
+50,3,7,5,39,"Arkansas","Dallas County",6802
+50,3,7,5,41,"Arkansas","Desha County",11110
+50,3,7,5,43,"Arkansas","Drew County",17977
+50,3,7,5,45,"Arkansas","Faulkner County",126919
+50,3,7,5,47,"Arkansas","Franklin County",17897
+50,3,7,5,49,"Arkansas","Fulton County",12381
+50,3,7,5,51,"Arkansas","Garland County",99789
+50,3,7,5,53,"Arkansas","Grant County",18449
+50,3,7,5,55,"Arkansas","Greene County",45597
+50,3,7,5,57,"Arkansas","Hempstead County",21253
+50,3,7,5,59,"Arkansas","Hot Spring County",33787
+50,3,7,5,61,"Arkansas","Howard County",13109
+50,3,7,5,63,"Arkansas","Independence County",37757
+50,3,7,5,65,"Arkansas","Izard County",13613
+50,3,7,5,67,"Arkansas","Jackson County",16636
+50,3,7,5,69,"Arkansas","Jefferson County",65377
+50,3,7,5,71,"Arkansas","Johnson County",26513
+50,3,7,5,73,"Arkansas","Lafayette County",6596
+50,3,7,5,75,"Arkansas","Lawrence County",16410
+50,3,7,5,77,"Arkansas","Lee County",8513
+50,3,7,5,79,"Arkansas","Lincoln County",12944
+50,3,7,5,81,"Arkansas","Little River County",12180
+50,3,7,5,83,"Arkansas","Logan County",21410
+50,3,7,5,85,"Arkansas","Lonoke County",73921
+50,3,7,5,87,"Arkansas","Madison County",16644
+50,3,7,5,89,"Arkansas","Marion County",16790
+50,3,7,5,91,"Arkansas","Miller County",43177
+50,3,7,5,93,"Arkansas","Mississippi County",40066
+50,3,7,5,95,"Arkansas","Monroe County",6584
+50,3,7,5,97,"Arkansas","Montgomery County",9006
+50,3,7,5,99,"Arkansas","Nevada County",8099
+50,3,7,5,101,"Arkansas","Newton County",7602
+50,3,7,5,103,"Arkansas","Ouachita County",23167
+50,3,7,5,105,"Arkansas","Perry County",10327
+50,3,7,5,107,"Arkansas","Phillips County",17299
+50,3,7,5,109,"Arkansas","Pike County",10643
+50,3,7,5,111,"Arkansas","Poinsett County",23283
+50,3,7,5,113,"Arkansas","Polk County",19707
+50,3,7,5,115,"Arkansas","Pope County",64334
+50,3,7,5,117,"Arkansas","Prairie County",7966
+50,3,7,5,119,"Arkansas","Pulaski County",392980
+50,3,7,5,121,"Arkansas","Randolph County",18247
+50,3,7,5,123,"Arkansas","St. Francis County",24682
+50,3,7,5,125,"Arkansas","Saline County",123968
+50,3,7,5,127,"Arkansas","Scott County",10164
+50,3,7,5,129,"Arkansas","Searcy County",7842
+50,3,7,5,131,"Arkansas","Sebastian County",127590
+50,3,7,5,133,"Arkansas","Sevier County",16702
+50,3,7,5,135,"Arkansas","Sharp County",17424
+50,3,7,5,137,"Arkansas","Stone County",12674
+50,3,7,5,139,"Arkansas","Union County",38219
+50,3,7,5,141,"Arkansas","Van Buren County",16541
+50,3,7,5,143,"Arkansas","Washington County",243216
+50,3,7,5,145,"Arkansas","White County",78729
+50,3,7,5,147,"Arkansas","Woodruff County",6264
+50,3,7,5,149,"Arkansas","Yell County",21181
+40,4,9,6,0,"California","California",39368078
+50,4,9,6,1,"California","Alameda County",1662323
+50,4,9,6,3,"California","Alpine County",1119
+50,4,9,6,5,"California","Amador County",40083
+50,4,9,6,7,"California","Butte County",212744
+50,4,9,6,9,"California","Calaveras County",46308
+50,4,9,6,11,"California","Colusa County",21558
+50,4,9,6,13,"California","Contra Costa County",1152333
+50,4,9,6,15,"California","Del Norte County",27968
+50,4,9,6,17,"California","El Dorado County",192925
+50,4,9,6,19,"California","Fresno County",1000918
+50,4,9,6,21,"California","Glenn County",28283
+50,4,9,6,23,"California","Humboldt County",134977
+50,4,9,6,25,"California","Imperial County",180267
+50,4,9,6,27,"California","Inyo County",18046
+50,4,9,6,29,"California","Kern County",901362
+50,4,9,6,31,"California","Kings County",152692
+50,4,9,6,33,"California","Lake County",64479
+50,4,9,6,35,"California","Lassen County",30016
+50,4,9,6,37,"California","Los Angeles County",9943046
+50,4,9,6,39,"California","Madera County",157761
+50,4,9,6,41,"California","Marin County",257332
+50,4,9,6,43,"California","Mariposa County",17160
+50,4,9,6,45,"California","Mendocino County",86061
+50,4,9,6,47,"California","Merced County",279252
+50,4,9,6,49,"California","Modoc County",8763
+50,4,9,6,51,"California","Mono County",14534
+50,4,9,6,53,"California","Monterey County",430906
+50,4,9,6,55,"California","Napa County",135965
+50,4,9,6,57,"California","Nevada County",99606
+50,4,9,6,59,"California","Orange County",3166857
+50,4,9,6,61,"California","Placer County",402950
+50,4,9,6,63,"California","Plumas County",18967
+50,4,9,6,65,"California","Riverside County",2489188
+50,4,9,6,67,"California","Sacramento County",1559146
+50,4,9,6,69,"California","San Benito County",64055
+50,4,9,6,71,"California","San Bernardino County",2189183
+50,4,9,6,73,"California","San Diego County",3332427
+50,4,9,6,75,"California","San Francisco County",866606
+50,4,9,6,77,"California","San Joaquin County",767967
+50,4,9,6,79,"California","San Luis Obispo County",282249
+50,4,9,6,81,"California","San Mateo County",758308
+50,4,9,6,83,"California","Santa Barbara County",444766
+50,4,9,6,85,"California","Santa Clara County",1907105
+50,4,9,6,87,"California","Santa Cruz County",269925
+50,4,9,6,89,"California","Shasta County",179027
+50,4,9,6,91,"California","Sierra County",2920
+50,4,9,6,93,"California","Siskiyou County",43245
+50,4,9,6,95,"California","Solano County",446935
+50,4,9,6,97,"California","Sonoma County",489819
+50,4,9,6,99,"California","Stanislaus County",550081
+50,4,9,6,101,"California","Sutter County",96385
+50,4,9,6,103,"California","Tehama County",64494
+50,4,9,6,105,"California","Trinity County",12216
+50,4,9,6,107,"California","Tulare County",468680
+50,4,9,6,109,"California","Tuolumne County",54515
+50,4,9,6,111,"California","Ventura County",841387
+50,4,9,6,113,"California","Yolo County",219728
+50,4,9,6,115,"California","Yuba County",80160
+40,4,8,8,0,"Colorado","Colorado",5807719
+50,4,8,8,1,"Colorado","Adams County",519883
+50,4,8,8,3,"Colorado","Alamosa County",16180
+50,4,8,8,5,"Colorado","Arapahoe County",657452
+50,4,8,8,7,"Colorado","Archuleta County",14196
+50,4,8,8,9,"Colorado","Baca County",3555
+50,4,8,8,11,"Colorado","Bent County",5356
+50,4,8,8,13,"Colorado","Boulder County",327171
+50,4,8,8,14,"Colorado","Broomfield County",72236
+50,4,8,8,15,"Colorado","Chaffee County",20661
+50,4,8,8,17,"Colorado","Cheyenne County",1795
+50,4,8,8,19,"Colorado","Clear Creek County",9586
+50,4,8,8,21,"Colorado","Conejos County",8143
+50,4,8,8,23,"Colorado","Costilla County",3921
+50,4,8,8,25,"Colorado","Crowley County",5696
+50,4,8,8,27,"Colorado","Custer County",5183
+50,4,8,8,29,"Colorado","Delta County",31067
+50,4,8,8,31,"Colorado","Denver County",735538
+50,4,8,8,33,"Colorado","Dolores County",2096
+50,4,8,8,35,"Colorado","Douglas County",360750
+50,4,8,8,37,"Colorado","Eagle County",54929
+50,4,8,8,39,"Colorado","Elbert County",27313
+50,4,8,8,41,"Colorado","El Paso County",728310
+50,4,8,8,43,"Colorado","Fremont County",47867
+50,4,8,8,45,"Colorado","Garfield County",60366
+50,4,8,8,47,"Colorado","Gilpin County",6235
+50,4,8,8,49,"Colorado","Grand County",15794
+50,4,8,8,51,"Colorado","Gunnison County",17593
+50,4,8,8,53,"Colorado","Hinsdale County",808
+50,4,8,8,55,"Colorado","Huerfano County",6883
+50,4,8,8,57,"Colorado","Jackson County",1389
+50,4,8,8,59,"Colorado","Jefferson County",583283
+50,4,8,8,61,"Colorado","Kiowa County",1458
+50,4,8,8,63,"Colorado","Kit Carson County",7121
+50,4,8,8,65,"Colorado","Lake County",7987
+50,4,8,8,67,"Colorado","La Plata County",56564
+50,4,8,8,69,"Colorado","Larimer County",360428
+50,4,8,8,71,"Colorado","Las Animas County",14420
+50,4,8,8,73,"Colorado","Lincoln County",5680
+50,4,8,8,75,"Colorado","Logan County",21974
+50,4,8,8,77,"Colorado","Mesa County",155603
+50,4,8,8,79,"Colorado","Mineral County",773
+50,4,8,8,81,"Colorado","Moffat County",13144
+50,4,8,8,83,"Colorado","Montezuma County",26408
+50,4,8,8,85,"Colorado","Montrose County",43322
+50,4,8,8,87,"Colorado","Morgan County",28941
+50,4,8,8,89,"Colorado","Otero County",18201
+50,4,8,8,91,"Colorado","Ouray County",5001
+50,4,8,8,93,"Colorado","Park County",18955
+50,4,8,8,95,"Colorado","Phillips County",4367
+50,4,8,8,97,"Colorado","Pitkin County",17894
+50,4,8,8,99,"Colorado","Prowers County",12106
+50,4,8,8,101,"Colorado","Pueblo County",169823
+50,4,8,8,103,"Colorado","Rio Blanco County",6342
+50,4,8,8,105,"Colorado","Rio Grande County",11296
+50,4,8,8,107,"Colorado","Routt County",25560
+50,4,8,8,109,"Colorado","Saguache County",6938
+50,4,8,8,111,"Colorado","San Juan County",748
+50,4,8,8,113,"Colorado","San Miguel County",8105
+50,4,8,8,115,"Colorado","Sedgwick County",2260
+50,4,8,8,117,"Colorado","Summit County",30631
+50,4,8,8,119,"Colorado","Teller County",25529
+50,4,8,8,121,"Colorado","Washington County",4875
+50,4,8,8,123,"Colorado","Weld County",333983
+50,4,8,8,125,"Colorado","Yuma County",10047
+40,1,1,9,0,"Connecticut","Connecticut",3557006
+50,1,1,9,1,"Connecticut","Fairfield County",942426
+50,1,1,9,3,"Connecticut","Hartford County",889226
+50,1,1,9,5,"Connecticut","Litchfield County",179610
+50,1,1,9,7,"Connecticut","Middlesex County",161657
+50,1,1,9,9,"Connecticut","New Haven County",851948
+50,1,1,9,11,"Connecticut","New London County",264999
+50,1,1,9,13,"Connecticut","Tolland County",150600
+50,1,1,9,15,"Connecticut","Windham County",116540
+40,3,5,10,0,"Delaware","Delaware",986809
+50,3,5,10,1,"Delaware","Kent County",183643
+50,3,5,10,3,"Delaware","New Castle County",561531
+50,3,5,10,5,"Delaware","Sussex County",241635
+40,3,5,11,0,"District of Columbia","District of Columbia",712816
+50,3,5,11,1,"District of Columbia","District of Columbia",712816
+40,3,5,12,0,"Florida","Florida",21733312
+50,3,5,12,1,"Florida","Alachua County",271218
+50,3,5,12,3,"Florida","Baker County",29566
+50,3,5,12,5,"Florida","Bay County",171322
+50,3,5,12,7,"Florida","Bradford County",28593
+50,3,5,12,9,"Florida","Brevard County",608459
+50,3,5,12,11,"Florida","Broward County",1958105
+50,3,5,12,13,"Florida","Calhoun County",14078
+50,3,5,12,15,"Florida","Charlotte County",194711
+50,3,5,12,17,"Florida","Citrus County",153010
+50,3,5,12,19,"Florida","Clay County",221770
+50,3,5,12,21,"Florida","Collier County",392973
+50,3,5,12,23,"Florida","Columbia County",72654
+50,3,5,12,27,"Florida","DeSoto County",38520
+50,3,5,12,29,"Florida","Dixie County",17057
+50,3,5,12,31,"Florida","Duval County",966728
+50,3,5,12,33,"Florida","Escambia County",322364
+50,3,5,12,35,"Florida","Flagler County",118451
+50,3,5,12,37,"Florida","Franklin County",12201
+50,3,5,12,39,"Florida","Gadsden County",45277
+50,3,5,12,41,"Florida","Gilchrist County",18885
+50,3,5,12,43,"Florida","Glades County",14198
+50,3,5,12,45,"Florida","Gulf County",13534
+50,3,5,12,47,"Florida","Hamilton County",14521
+50,3,5,12,49,"Florida","Hardee County",26822
+50,3,5,12,51,"Florida","Hendry County",42813
+50,3,5,12,53,"Florida","Hernando County",198792
+50,3,5,12,55,"Florida","Highlands County",106639
+50,3,5,12,57,"Florida","Hillsborough County",1497957
+50,3,5,12,59,"Florida","Holmes County",19594
+50,3,5,12,61,"Florida","Indian River County",162518
+50,3,5,12,63,"Florida","Jackson County",46085
+50,3,5,12,65,"Florida","Jefferson County",14543
+50,3,5,12,67,"Florida","Lafayette County",8482
+50,3,5,12,69,"Florida","Lake County",375492
+50,3,5,12,71,"Florida","Lee County",790767
+50,3,5,12,73,"Florida","Leon County",295460
+50,3,5,12,75,"Florida","Levy County",42214
+50,3,5,12,77,"Florida","Liberty County",8364
+50,3,5,12,79,"Florida","Madison County",18707
+50,3,5,12,81,"Florida","Manatee County",411219
+50,3,5,12,83,"Florida","Marion County",373513
+50,3,5,12,85,"Florida","Martin County",162088
+50,3,5,12,86,"Florida","Miami-Dade County",2707303
+50,3,5,12,87,"Florida","Monroe County",73900
+50,3,5,12,89,"Florida","Nassau County",91113
+50,3,5,12,91,"Florida","Okaloosa County",212820
+50,3,5,12,93,"Florida","Okeechobee County",42297
+50,3,5,12,95,"Florida","Orange County",1404396
+50,3,5,12,97,"Florida","Osceola County",385315
+50,3,5,12,99,"Florida","Palm Beach County",1507600
+50,3,5,12,101,"Florida","Pasco County",570412
+50,3,5,12,103,"Florida","Pinellas County",976802
+50,3,5,12,105,"Florida","Polk County",744552
+50,3,5,12,107,"Florida","Putnam County",74815
+50,3,5,12,109,"Florida","St. Johns County",278715
+50,3,5,12,111,"Florida","St. Lucie County",337186
+50,3,5,12,113,"Florida","Santa Rosa County",189139
+50,3,5,12,115,"Florida","Sarasota County",443465
+50,3,5,12,117,"Florida","Seminole County",474171
+50,3,5,12,119,"Florida","Sumter County",139018
+50,3,5,12,121,"Florida","Suwannee County",44851
+50,3,5,12,123,"Florida","Taylor County",21600
+50,3,5,12,125,"Florida","Union County",15182
+50,3,5,12,127,"Florida","Volusia County",561497
+50,3,5,12,129,"Florida","Wakulla County",34319
+50,3,5,12,131,"Florida","Walton County",76648
+50,3,5,12,133,"Florida","Washington County",25932
+40,3,5,13,0,"Georgia","Georgia",10710017
+50,3,5,13,1,"Georgia","Appling County",18325
+50,3,5,13,3,"Georgia","Atkinson County",8393
+50,3,5,13,5,"Georgia","Bacon County",11036
+50,3,5,13,7,"Georgia","Baker County",2971
+50,3,5,13,9,"Georgia","Baldwin County",45099
+50,3,5,13,11,"Georgia","Banks County",19352
+50,3,5,13,13,"Georgia","Barrow County",85588
+50,3,5,13,15,"Georgia","Bartow County",109426
+50,3,5,13,17,"Georgia","Ben Hill County",16614
+50,3,5,13,19,"Georgia","Berrien County",19408
+50,3,5,13,21,"Georgia","Bibb County",152737
+50,3,5,13,23,"Georgia","Bleckley County",12955
+50,3,5,13,25,"Georgia","Brantley County",19202
+50,3,5,13,27,"Georgia","Brooks County",15357
+50,3,5,13,29,"Georgia","Bryan County",40755
+50,3,5,13,31,"Georgia","Bulloch County",80839
+50,3,5,13,33,"Georgia","Burke County",22648
+50,3,5,13,35,"Georgia","Butts County",25426
+50,3,5,13,37,"Georgia","Calhoun County",6231
+50,3,5,13,39,"Georgia","Camden County",55388
+50,3,5,13,43,"Georgia","Candler County",10985
+50,3,5,13,45,"Georgia","Carroll County",121633
+50,3,5,13,47,"Georgia","Catoosa County",67996
+50,3,5,13,49,"Georgia","Charlton County",13430
+50,3,5,13,51,"Georgia","Chatham County",289463
+50,3,5,13,53,"Georgia","Chattahoochee County",10551
+50,3,5,13,55,"Georgia","Chattooga County",24843
+50,3,5,13,57,"Georgia","Cherokee County",265274
+50,3,5,13,59,"Georgia","Clarke County",127795
+50,3,5,13,61,"Georgia","Clay County",2866
+50,3,5,13,63,"Georgia","Clayton County",292646
+50,3,5,13,65,"Georgia","Clinch County",6582
+50,3,5,13,67,"Georgia","Cobb County",762944
+50,3,5,13,69,"Georgia","Coffee County",43218
+50,3,5,13,71,"Georgia","Colquitt County",45542
+50,3,5,13,73,"Georgia","Columbia County",160377
+50,3,5,13,75,"Georgia","Cook County",17291
+50,3,5,13,77,"Georgia","Coweta County",150849
+50,3,5,13,79,"Georgia","Crawford County",12231
+50,3,5,13,81,"Georgia","Crisp County",22034
+50,3,5,13,83,"Georgia","Dade County",16057
+50,3,5,13,85,"Georgia","Dawson County",27113
+50,3,5,13,87,"Georgia","Decatur County",26457
+50,3,5,13,89,"Georgia","DeKalb County",762009
+50,3,5,13,91,"Georgia","Dodge County",20452
+50,3,5,13,93,"Georgia","Dooly County",13174
+50,3,5,13,95,"Georgia","Dougherty County",86477
+50,3,5,13,97,"Georgia","Douglas County",147988
+50,3,5,13,99,"Georgia","Early County",10037
+50,3,5,13,101,"Georgia","Echols County",4002
+50,3,5,13,103,"Georgia","Effingham County",65765
+50,3,5,13,105,"Georgia","Elbert County",19335
+50,3,5,13,107,"Georgia","Emanuel County",22507
+50,3,5,13,109,"Georgia","Evans County",10638
+50,3,5,13,111,"Georgia","Fannin County",26521
+50,3,5,13,113,"Georgia","Fayette County",115821
+50,3,5,13,115,"Georgia","Floyd County",98604
+50,3,5,13,117,"Georgia","Forsyth County",250847
+50,3,5,13,119,"Georgia","Franklin County",23504
+50,3,5,13,121,"Georgia","Fulton County",1077402
+50,3,5,13,123,"Georgia","Gilmer County",31978
+50,3,5,13,125,"Georgia","Glascock County",2984
+50,3,5,13,127,"Georgia","Glynn County",85568
+50,3,5,13,129,"Georgia","Gordon County",58780
+50,3,5,13,131,"Georgia","Grady County",24491
+50,3,5,13,133,"Georgia","Greene County",18837
+50,3,5,13,135,"Georgia","Gwinnett County",942627
+50,3,5,13,137,"Georgia","Habersham County",46047
+50,3,5,13,139,"Georgia","Hall County",206591
+50,3,5,13,141,"Georgia","Hancock County",8494
+50,3,5,13,143,"Georgia","Haralson County",30383
+50,3,5,13,145,"Georgia","Harris County",36080
+50,3,5,13,147,"Georgia","Hart County",26406
+50,3,5,13,149,"Georgia","Heard County",11973
+50,3,5,13,151,"Georgia","Henry County",239139
+50,3,5,13,153,"Georgia","Houston County",160110
+50,3,5,13,155,"Georgia","Irwin County",9387
+50,3,5,13,157,"Georgia","Jackson County",76199
+50,3,5,13,159,"Georgia","Jasper County",14483
+50,3,5,13,161,"Georgia","Jeff Davis County",15213
+50,3,5,13,163,"Georgia","Jefferson County",15267
+50,3,5,13,165,"Georgia","Jenkins County",8746
+50,3,5,13,167,"Georgia","Johnson County",9667
+50,3,5,13,169,"Georgia","Jones County",28787
+50,3,5,13,171,"Georgia","Lamar County",19261
+50,3,5,13,173,"Georgia","Lanier County",10737
+50,3,5,13,175,"Georgia","Laurens County",47512
+50,3,5,13,177,"Georgia","Lee County",30234
+50,3,5,13,179,"Georgia","Liberty County",63004
+50,3,5,13,181,"Georgia","Lincoln County",8031
+50,3,5,13,183,"Georgia","Long County",20171
+50,3,5,13,185,"Georgia","Lowndes County",118268
+50,3,5,13,187,"Georgia","Lumpkin County",34186
+50,3,5,13,189,"Georgia","McDuffie County",21162
+50,3,5,13,191,"Georgia","McIntosh County",14387
+50,3,5,13,193,"Georgia","Macon County",12712
+50,3,5,13,195,"Georgia","Madison County",30457
+50,3,5,13,197,"Georgia","Marion County",8516
+50,3,5,13,199,"Georgia","Meriwether County",21164
+50,3,5,13,201,"Georgia","Miller County",5622
+50,3,5,13,205,"Georgia","Mitchell County",21602
+50,3,5,13,207,"Georgia","Monroe County",28042
+50,3,5,13,209,"Georgia","Montgomery County",9012
+50,3,5,13,211,"Georgia","Morgan County",19636
+50,3,5,13,213,"Georgia","Murray County",40032
+50,3,5,13,215,"Georgia","Muscogee County",196442
+50,3,5,13,217,"Georgia","Newton County",113295
+50,3,5,13,219,"Georgia","Oconee County",41124
+50,3,5,13,221,"Georgia","Oglethorpe County",15383
+50,3,5,13,223,"Georgia","Paulding County",173359
+50,3,5,13,225,"Georgia","Peach County",27950
+50,3,5,13,227,"Georgia","Pickens County",33127
+50,3,5,13,229,"Georgia","Pierce County",19522
+50,3,5,13,231,"Georgia","Pike County",19121
+50,3,5,13,233,"Georgia","Polk County",42840
+50,3,5,13,235,"Georgia","Pulaski County",11191
+50,3,5,13,237,"Georgia","Putnam County",22520
+50,3,5,13,239,"Georgia","Quitman County",2271
+50,3,5,13,241,"Georgia","Rabun County",17273
+50,3,5,13,243,"Georgia","Randolph County",6682
+50,3,5,13,245,"Georgia","Richmond County",202079
+50,3,5,13,247,"Georgia","Rockdale County",90939
+50,3,5,13,249,"Georgia","Schley County",5196
+50,3,5,13,251,"Georgia","Screven County",14012
+50,3,5,13,253,"Georgia","Seminole County",8060
+50,3,5,13,255,"Georgia","Spalding County",67414
+50,3,5,13,257,"Georgia","Stephens County",26107
+50,3,5,13,259,"Georgia","Stewart County",6689
+50,3,5,13,261,"Georgia","Sumter County",29282
+50,3,5,13,263,"Georgia","Talbot County",6143
+50,3,5,13,265,"Georgia","Taliaferro County",1562
+50,3,5,13,267,"Georgia","Tattnall County",25365
+50,3,5,13,269,"Georgia","Taylor County",8074
+50,3,5,13,271,"Georgia","Telfair County",15781
+50,3,5,13,273,"Georgia","Terrell County",8523
+50,3,5,13,275,"Georgia","Thomas County",44372
+50,3,5,13,277,"Georgia","Tift County",40719
+50,3,5,13,279,"Georgia","Toombs County",26973
+50,3,5,13,281,"Georgia","Towns County",12247
+50,3,5,13,283,"Georgia","Treutlen County",6822
+50,3,5,13,285,"Georgia","Troup County",70214
+50,3,5,13,287,"Georgia","Turner County",7882
+50,3,5,13,289,"Georgia","Twiggs County",8103
+50,3,5,13,291,"Georgia","Union County",25358
+50,3,5,13,293,"Georgia","Upson County",26527
+50,3,5,13,295,"Georgia","Walker County",70116
+50,3,5,13,297,"Georgia","Walton County",96875
+50,3,5,13,299,"Georgia","Ware County",35826
+50,3,5,13,301,"Georgia","Warren County",5232
+50,3,5,13,303,"Georgia","Washington County",20150
+50,3,5,13,305,"Georgia","Wayne County",30023
+50,3,5,13,307,"Georgia","Webster County",2595
+50,3,5,13,309,"Georgia","Wheeler County",7751
+50,3,5,13,311,"Georgia","White County",31094
+50,3,5,13,313,"Georgia","Whitfield County",103837
+50,3,5,13,315,"Georgia","Wilcox County",8502
+50,3,5,13,317,"Georgia","Wilkes County",9694
+50,3,5,13,319,"Georgia","Wilkinson County",8812
+50,3,5,13,321,"Georgia","Worth County",19972
+40,4,9,15,0,"Hawaii","Hawaii",1407006
+50,4,9,15,1,"Hawaii","Hawaii County",203340
+50,4,9,15,3,"Hawaii","Honolulu County",963826
+50,4,9,15,5,"Hawaii","Kalawao County",87
+50,4,9,15,7,"Hawaii","Kauai County",71851
+50,4,9,15,9,"Hawaii","Maui County",167902
+40,4,8,16,0,"Idaho","Idaho",1826913
+50,4,8,16,1,"Idaho","Ada County",494399
+50,4,8,16,3,"Idaho","Adams County",4447
+50,4,8,16,5,"Idaho","Bannock County",88795
+50,4,8,16,7,"Idaho","Bear Lake County",6143
+50,4,8,16,9,"Idaho","Benewah County",9430
+50,4,8,16,11,"Idaho","Bingham County",47202
+50,4,8,16,13,"Idaho","Blaine County",23426
+50,4,8,16,15,"Idaho","Boise County",8065
+50,4,8,16,17,"Idaho","Bonner County",46817
+50,4,8,16,19,"Idaho","Bonneville County",122134
+50,4,8,16,21,"Idaho","Boundary County",12656
+50,4,8,16,23,"Idaho","Butte County",2646
+50,4,8,16,25,"Idaho","Camas County",1130
+50,4,8,16,27,"Idaho","Canyon County",237053
+50,4,8,16,29,"Idaho","Caribou County",7123
+50,4,8,16,31,"Idaho","Cassia County",24277
+50,4,8,16,33,"Idaho","Clark County",852
+50,4,8,16,35,"Idaho","Clearwater County",8846
+50,4,8,16,37,"Idaho","Custer County",4249
+50,4,8,16,39,"Idaho","Elmore County",27448
+50,4,8,16,41,"Idaho","Franklin County",14215
+50,4,8,16,43,"Idaho","Fremont County",13218
+50,4,8,16,45,"Idaho","Gem County",18703
+50,4,8,16,47,"Idaho","Gooding County",15618
+50,4,8,16,49,"Idaho","Idaho County",16823
+50,4,8,16,51,"Idaho","Jefferson County",30581
+50,4,8,16,53,"Idaho","Jerome County",24578
+50,4,8,16,55,"Idaho","Kootenai County",170628
+50,4,8,16,57,"Idaho","Latah County",40830
+50,4,8,16,59,"Idaho","Lemhi County",8054
+50,4,8,16,61,"Idaho","Lewis County",3838
+50,4,8,16,63,"Idaho","Lincoln County",5358
+50,4,8,16,65,"Idaho","Madison County",40318
+50,4,8,16,67,"Idaho","Minidoka County",21216
+50,4,8,16,69,"Idaho","Nez Perce County",40755
+50,4,8,16,71,"Idaho","Oneida County",4520
+50,4,8,16,73,"Idaho","Owyhee County",12133
+50,4,8,16,75,"Idaho","Payette County",24771
+50,4,8,16,77,"Idaho","Power County",7643
+50,4,8,16,79,"Idaho","Shoshone County",12911
+50,4,8,16,81,"Idaho","Teton County",12501
+50,4,8,16,83,"Idaho","Twin Falls County",88411
+50,4,8,16,85,"Idaho","Valley County",11792
+50,4,8,16,87,"Idaho","Washington County",10360
+40,2,3,17,0,"Illinois","Illinois",12587530
+50,2,3,17,1,"Illinois","Adams County",64783
+50,2,3,17,3,"Illinois","Alexander County",5497
+50,2,3,17,5,"Illinois","Bond County",16262
+50,2,3,17,7,"Illinois","Boone County",52777
+50,2,3,17,9,"Illinois","Brown County",6546
+50,2,3,17,11,"Illinois","Bureau County",32303
+50,2,3,17,13,"Illinois","Calhoun County",4616
+50,2,3,17,15,"Illinois","Carroll County",14241
+50,2,3,17,17,"Illinois","Cass County",11925
+50,2,3,17,19,"Illinois","Champaign County",209192
+50,2,3,17,21,"Illinois","Christian County",32075
+50,2,3,17,23,"Illinois","Clark County",15268
+50,2,3,17,25,"Illinois","Clay County",13079
+50,2,3,17,27,"Illinois","Clinton County",37398
+50,2,3,17,29,"Illinois","Coles County",50383
+50,2,3,17,31,"Illinois","Cook County",5108284
+50,2,3,17,33,"Illinois","Crawford County",18512
+50,2,3,17,35,"Illinois","Cumberland County",10649
+50,2,3,17,37,"Illinois","DeKalb County",104491
+50,2,3,17,39,"Illinois","De Witt County",15368
+50,2,3,17,41,"Illinois","Douglas County",19510
+50,2,3,17,43,"Illinois","DuPage County",917481
+50,2,3,17,45,"Illinois","Edgar County",16858
+50,2,3,17,47,"Illinois","Edwards County",6356
+50,2,3,17,49,"Illinois","Effingham County",34065
+50,2,3,17,51,"Illinois","Fayette County",21264
+50,2,3,17,53,"Illinois","Ford County",12949
+50,2,3,17,55,"Illinois","Franklin County",38060
+50,2,3,17,57,"Illinois","Fulton County",33690
+50,2,3,17,59,"Illinois","Gallatin County",4793
+50,2,3,17,61,"Illinois","Greene County",12702
+50,2,3,17,63,"Illinois","Grundy County",50993
+50,2,3,17,65,"Illinois","Hamilton County",8084
+50,2,3,17,67,"Illinois","Hancock County",17422
+50,2,3,17,69,"Illinois","Hardin County",3808
+50,2,3,17,71,"Illinois","Henderson County",6535
+50,2,3,17,73,"Illinois","Henry County",48411
+50,2,3,17,75,"Illinois","Iroquois County",26711
+50,2,3,17,77,"Illinois","Jackson County",56675
+50,2,3,17,79,"Illinois","Jasper County",9465
+50,2,3,17,81,"Illinois","Jefferson County",37235
+50,2,3,17,83,"Illinois","Jersey County",21616
+50,2,3,17,85,"Illinois","Jo Daviess County",21239
+50,2,3,17,87,"Illinois","Johnson County",12358
+50,2,3,17,89,"Illinois","Kane County",531010
+50,2,3,17,91,"Illinois","Kankakee County",108594
+50,2,3,17,93,"Illinois","Kendall County",130638
+50,2,3,17,95,"Illinois","Knox County",49053
+50,2,3,17,97,"Illinois","Lake County",693593
+50,2,3,17,99,"Illinois","LaSalle County",107571
+50,2,3,17,101,"Illinois","Lawrence County",15467
+50,2,3,17,103,"Illinois","Lee County",33647
+50,2,3,17,105,"Illinois","Livingston County",35414
+50,2,3,17,107,"Illinois","Logan County",28383
+50,2,3,17,109,"Illinois","McDonough County",29295
+50,2,3,17,111,"Illinois","McHenry County",305888
+50,2,3,17,113,"Illinois","McLean County",171256
+50,2,3,17,115,"Illinois","Macon County",103015
+50,2,3,17,117,"Illinois","Macoupin County",44567
+50,2,3,17,119,"Illinois","Madison County",262635
+50,2,3,17,121,"Illinois","Marion County",37045
+50,2,3,17,123,"Illinois","Marshall County",11309
+50,2,3,17,125,"Illinois","Mason County",13173
+50,2,3,17,127,"Illinois","Massac County",13636
+50,2,3,17,129,"Illinois","Menard County",12068
+50,2,3,17,131,"Illinois","Mercer County",15225
+50,2,3,17,133,"Illinois","Monroe County",34739
+50,2,3,17,135,"Illinois","Montgomery County",28045
+50,2,3,17,137,"Illinois","Morgan County",33400
+50,2,3,17,139,"Illinois","Moultrie County",14347
+50,2,3,17,141,"Illinois","Ogle County",50306
+50,2,3,17,143,"Illinois","Peoria County",177652
+50,2,3,17,145,"Illinois","Perry County",20664
+50,2,3,17,147,"Illinois","Piatt County",16355
+50,2,3,17,149,"Illinois","Pike County",15239
+50,2,3,17,151,"Illinois","Pope County",4142
+50,2,3,17,153,"Illinois","Pulaski County",5201
+50,2,3,17,155,"Illinois","Putnam County",5716
+50,2,3,17,157,"Illinois","Randolph County",31351
+50,2,3,17,159,"Illinois","Richland County",15507
+50,2,3,17,161,"Illinois","Rock Island County",140907
+50,2,3,17,163,"Illinois","St. Clair County",258046
+50,2,3,17,165,"Illinois","Saline County",23182
+50,2,3,17,167,"Illinois","Sangamon County",193882
+50,2,3,17,169,"Illinois","Schuyler County",6738
+50,2,3,17,171,"Illinois","Scott County",4950
+50,2,3,17,173,"Illinois","Shelby County",21299
+50,2,3,17,175,"Illinois","Stark County",5262
+50,2,3,17,177,"Illinois","Stephenson County",43831
+50,2,3,17,179,"Illinois","Tazewell County",130777
+50,2,3,17,181,"Illinois","Union County",16498
+50,2,3,17,183,"Illinois","Vermilion County",74855
+50,2,3,17,185,"Illinois","Wabash County",11190
+50,2,3,17,187,"Illinois","Warren County",16696
+50,2,3,17,189,"Illinois","Washington County",13764
+50,2,3,17,191,"Illinois","Wayne County",16031
+50,2,3,17,193,"Illinois","White County",13364
+50,2,3,17,195,"Illinois","Whiteside County",54656
+50,2,3,17,197,"Illinois","Will County",688726
+50,2,3,17,199,"Illinois","Williamson County",66415
+50,2,3,17,201,"Illinois","Winnebago County",281295
+50,2,3,17,203,"Illinois","Woodford County",38091
+40,2,3,18,0,"Indiana","Indiana",6754953
+50,2,3,18,1,"Indiana","Adams County",35839
+50,2,3,18,3,"Indiana","Allen County",382187
+50,2,3,18,5,"Indiana","Bartholomew County",84447
+50,2,3,18,7,"Indiana","Benton County",8741
+50,2,3,18,9,"Indiana","Blackford County",11782
+50,2,3,18,11,"Indiana","Boone County",69347
+50,2,3,18,13,"Indiana","Brown County",15112
+50,2,3,18,15,"Indiana","Carroll County",20228
+50,2,3,18,17,"Indiana","Cass County",37388
+50,2,3,18,19,"Indiana","Clark County",119266
+50,2,3,18,21,"Indiana","Clay County",26246
+50,2,3,18,23,"Indiana","Clinton County",32206
+50,2,3,18,25,"Indiana","Crawford County",10629
+50,2,3,18,27,"Indiana","Daviess County",33505
+50,2,3,18,29,"Indiana","Dearborn County",49824
+50,2,3,18,31,"Indiana","Decatur County",26584
+50,2,3,18,33,"Indiana","DeKalb County",43670
+50,2,3,18,35,"Indiana","Delaware County",113454
+50,2,3,18,37,"Indiana","Dubois County",42542
+50,2,3,18,39,"Indiana","Elkhart County",206161
+50,2,3,18,41,"Indiana","Fayette County",22892
+50,2,3,18,43,"Indiana","Floyd County",78936
+50,2,3,18,45,"Indiana","Fountain County",16511
+50,2,3,18,47,"Indiana","Franklin County",22761
+50,2,3,18,49,"Indiana","Fulton County",20018
+50,2,3,18,51,"Indiana","Gibson County",33825
+50,2,3,18,53,"Indiana","Grant County",65225
+50,2,3,18,55,"Indiana","Greene County",32203
+50,2,3,18,57,"Indiana","Hamilton County",344238
+50,2,3,18,59,"Indiana","Hancock County",79553
+50,2,3,18,61,"Indiana","Harrison County",40682
+50,2,3,18,63,"Indiana","Hendricks County",173251
+50,2,3,18,65,"Indiana","Henry County",48033
+50,2,3,18,67,"Indiana","Howard County",82732
+50,2,3,18,69,"Indiana","Huntington County",36395
+50,2,3,18,71,"Indiana","Jackson County",44222
+50,2,3,18,73,"Indiana","Jasper County",33440
+50,2,3,18,75,"Indiana","Jay County",20416
+50,2,3,18,77,"Indiana","Jefferson County",32110
+50,2,3,18,79,"Indiana","Jennings County",27515
+50,2,3,18,81,"Indiana","Johnson County",160607
+50,2,3,18,83,"Indiana","Knox County",36522
+50,2,3,18,85,"Indiana","Kosciusko County",78988
+50,2,3,18,87,"Indiana","LaGrange County",40119
+50,2,3,18,89,"Indiana","Lake County",487536
+50,2,3,18,91,"Indiana","LaPorte County",109663
+50,2,3,18,93,"Indiana","Lawrence County",45496
+50,2,3,18,95,"Indiana","Madison County",129681
+50,2,3,18,97,"Indiana","Marion County",966183
+50,2,3,18,99,"Indiana","Marshall County",46108
+50,2,3,18,101,"Indiana","Martin County",10079
+50,2,3,18,103,"Indiana","Miami County",35328
+50,2,3,18,105,"Indiana","Monroe County",148219
+50,2,3,18,107,"Indiana","Montgomery County",38365
+50,2,3,18,109,"Indiana","Morgan County",70707
+50,2,3,18,111,"Indiana","Newton County",13907
+50,2,3,18,113,"Indiana","Noble County",47832
+50,2,3,18,115,"Indiana","Ohio County",5892
+50,2,3,18,117,"Indiana","Orange County",19651
+50,2,3,18,119,"Indiana","Owen County",20833
+50,2,3,18,121,"Indiana","Parke County",16871
+50,2,3,18,123,"Indiana","Perry County",19154
+50,2,3,18,125,"Indiana","Pike County",12378
+50,2,3,18,127,"Indiana","Porter County",170980
+50,2,3,18,129,"Indiana","Posey County",25275
+50,2,3,18,131,"Indiana","Pulaski County",12388
+50,2,3,18,133,"Indiana","Putnam County",37469
+50,2,3,18,135,"Indiana","Randolph County",24191
+50,2,3,18,137,"Indiana","Ripley County",28448
+50,2,3,18,139,"Indiana","Rush County",16649
+50,2,3,18,141,"Indiana","St. Joseph County",271484
+50,2,3,18,143,"Indiana","Scott County",23788
+50,2,3,18,145,"Indiana","Shelby County",44871
+50,2,3,18,147,"Indiana","Spencer County",20225
+50,2,3,18,149,"Indiana","Starke County",23049
+50,2,3,18,151,"Indiana","Steuben County",34831
+50,2,3,18,153,"Indiana","Sullivan County",20578
+50,2,3,18,155,"Indiana","Switzerland County",10724
+50,2,3,18,157,"Indiana","Tippecanoe County",196115
+50,2,3,18,159,"Indiana","Tipton County",15227
+50,2,3,18,161,"Indiana","Union County",7119
+50,2,3,18,163,"Indiana","Vanderburgh County",182447
+50,2,3,18,165,"Indiana","Vermillion County",15329
+50,2,3,18,167,"Indiana","Vigo County",106608
+50,2,3,18,169,"Indiana","Wabash County",30784
+50,2,3,18,171,"Indiana","Warren County",8194
+50,2,3,18,173,"Indiana","Warrick County",63269
+50,2,3,18,175,"Indiana","Washington County",28213
+50,2,3,18,177,"Indiana","Wayne County",65778
+50,2,3,18,179,"Indiana","Wells County",28142
+50,2,3,18,181,"Indiana","White County",24165
+50,2,3,18,183,"Indiana","Whitley County",34378
+40,2,4,19,0,"Iowa","Iowa",3163561
+50,2,4,19,1,"Iowa","Adair County",7059
+50,2,4,19,3,"Iowa","Adams County",3588
+50,2,4,19,5,"Iowa","Allamakee County",13642
+50,2,4,19,7,"Iowa","Appanoose County",12430
+50,2,4,19,9,"Iowa","Audubon County",5481
+50,2,4,19,11,"Iowa","Benton County",25414
+50,2,4,19,13,"Iowa","Black Hawk County",130786
+50,2,4,19,15,"Iowa","Boone County",26277
+50,2,4,19,17,"Iowa","Bremer County",25311
+50,2,4,19,19,"Iowa","Buchanan County",21287
+50,2,4,19,21,"Iowa","Buena Vista County",19772
+50,2,4,19,23,"Iowa","Butler County",14333
+50,2,4,19,25,"Iowa","Calhoun County",9473
+50,2,4,19,27,"Iowa","Carroll County",19914
+50,2,4,19,29,"Iowa","Cass County",12817
+50,2,4,19,31,"Iowa","Cedar County",18485
+50,2,4,19,33,"Iowa","Cerro Gordo County",42103
+50,2,4,19,35,"Iowa","Cherokee County",11190
+50,2,4,19,37,"Iowa","Chickasaw County",11834
+50,2,4,19,39,"Iowa","Clarke County",9353
+50,2,4,19,41,"Iowa","Clay County",15976
+50,2,4,19,43,"Iowa","Clayton County",17321
+50,2,4,19,45,"Iowa","Clinton County",46392
+50,2,4,19,47,"Iowa","Crawford County",16834
+50,2,4,19,49,"Iowa","Dallas County",96963
+50,2,4,19,51,"Iowa","Davis County",9051
+50,2,4,19,53,"Iowa","Decatur County",7769
+50,2,4,19,55,"Iowa","Delaware County",16937
+50,2,4,19,57,"Iowa","Des Moines County",38708
+50,2,4,19,59,"Iowa","Dickinson County",17549
+50,2,4,19,61,"Iowa","Dubuque County",97590
+50,2,4,19,63,"Iowa","Emmet County",9095
+50,2,4,19,65,"Iowa","Fayette County",19258
+50,2,4,19,67,"Iowa","Floyd County",15480
+50,2,4,19,69,"Iowa","Franklin County",9971
+50,2,4,19,71,"Iowa","Fremont County",6729
+50,2,4,19,73,"Iowa","Greene County",8795
+50,2,4,19,75,"Iowa","Grundy County",12217
+50,2,4,19,77,"Iowa","Guthrie County",10737
+50,2,4,19,79,"Iowa","Hamilton County",14716
+50,2,4,19,81,"Iowa","Hancock County",10507
+50,2,4,19,83,"Iowa","Hardin County",16575
+50,2,4,19,85,"Iowa","Harrison County",13928
+50,2,4,19,87,"Iowa","Henry County",19697
+50,2,4,19,89,"Iowa","Howard County",9176
+50,2,4,19,91,"Iowa","Humboldt County",9473
+50,2,4,19,93,"Iowa","Ida County",6833
+50,2,4,19,95,"Iowa","Iowa County",16138
+50,2,4,19,97,"Iowa","Jackson County",19205
+50,2,4,19,99,"Iowa","Jasper County",37148
+50,2,4,19,101,"Iowa","Jefferson County",18347
+50,2,4,19,103,"Iowa","Johnson County",153740
+50,2,4,19,105,"Iowa","Jones County",20617
+50,2,4,19,107,"Iowa","Keokuk County",10085
+50,2,4,19,109,"Iowa","Kossuth County",14680
+50,2,4,19,111,"Iowa","Lee County",33480
+50,2,4,19,113,"Iowa","Linn County",227854
+50,2,4,19,115,"Iowa","Louisa County",11011
+50,2,4,19,117,"Iowa","Lucas County",8518
+50,2,4,19,119,"Iowa","Lyon County",11756
+50,2,4,19,121,"Iowa","Madison County",16521
+50,2,4,19,123,"Iowa","Mahaska County",22370
+50,2,4,19,125,"Iowa","Marion County",33168
+50,2,4,19,127,"Iowa","Marshall County",39495
+50,2,4,19,129,"Iowa","Mills County",14766
+50,2,4,19,131,"Iowa","Mitchell County",10647
+50,2,4,19,133,"Iowa","Monona County",8598
+50,2,4,19,135,"Iowa","Monroe County",7770
+50,2,4,19,137,"Iowa","Montgomery County",9935
+50,2,4,19,139,"Iowa","Muscatine County",42394
+50,2,4,19,141,"Iowa","O'Brien County",13679
+50,2,4,19,143,"Iowa","Osceola County",5987
+50,2,4,19,145,"Iowa","Page County",15073
+50,2,4,19,147,"Iowa","Palo Alto County",8845
+50,2,4,19,149,"Iowa","Plymouth County",25219
+50,2,4,19,151,"Iowa","Pocahontas County",6607
+50,2,4,19,153,"Iowa","Polk County",494281
+50,2,4,19,155,"Iowa","Pottawattamie County",93328
+50,2,4,19,157,"Iowa","Poweshiek County",18381
+50,2,4,19,159,"Iowa","Ringgold County",4801
+50,2,4,19,161,"Iowa","Sac County",9603
+50,2,4,19,163,"Iowa","Scott County",173216
+50,2,4,19,165,"Iowa","Shelby County",11430
+50,2,4,19,167,"Iowa","Sioux County",35043
+50,2,4,19,169,"Iowa","Story County",98237
+50,2,4,19,171,"Iowa","Tama County",16801
+50,2,4,19,173,"Iowa","Taylor County",6092
+50,2,4,19,175,"Iowa","Union County",12157
+50,2,4,19,177,"Iowa","Van Buren County",7069
+50,2,4,19,179,"Iowa","Wapello County",34985
+50,2,4,19,181,"Iowa","Warren County",52265
+50,2,4,19,183,"Iowa","Washington County",21992
+50,2,4,19,185,"Iowa","Wayne County",6415
+50,2,4,19,187,"Iowa","Webster County",35934
+50,2,4,19,189,"Iowa","Winnebago County",10277
+50,2,4,19,191,"Iowa","Winneshiek County",19862
+50,2,4,19,193,"Iowa","Woodbury County",103138
+50,2,4,19,195,"Iowa","Worth County",7359
+50,2,4,19,197,"Iowa","Wright County",12416
+40,2,4,20,0,"Kansas","Kansas",2913805
+50,2,4,20,1,"Kansas","Allen County",12399
+50,2,4,20,3,"Kansas","Anderson County",7949
+50,2,4,20,5,"Kansas","Atchison County",16015
+50,2,4,20,7,"Kansas","Barber County",4358
+50,2,4,20,9,"Kansas","Barton County",25658
+50,2,4,20,11,"Kansas","Bourbon County",14435
+50,2,4,20,13,"Kansas","Brown County",9482
+50,2,4,20,15,"Kansas","Butler County",66992
+50,2,4,20,17,"Kansas","Chase County",2586
+50,2,4,20,19,"Kansas","Chautauqua County",3230
+50,2,4,20,21,"Kansas","Cherokee County",19681
+50,2,4,20,23,"Kansas","Cheyenne County",2600
+50,2,4,20,25,"Kansas","Clark County",1963
+50,2,4,20,27,"Kansas","Clay County",8025
+50,2,4,20,29,"Kansas","Cloud County",8642
+50,2,4,20,31,"Kansas","Coffey County",8158
+50,2,4,20,33,"Kansas","Comanche County",1690
+50,2,4,20,35,"Kansas","Cowley County",34628
+50,2,4,20,37,"Kansas","Crawford County",38730
+50,2,4,20,39,"Kansas","Decatur County",2776
+50,2,4,20,41,"Kansas","Dickinson County",18266
+50,2,4,20,43,"Kansas","Doniphan County",7496
+50,2,4,20,45,"Kansas","Douglas County",122530
+50,2,4,20,47,"Kansas","Edwards County",2750
+50,2,4,20,49,"Kansas","Elk County",2507
+50,2,4,20,51,"Kansas","Ellis County",28671
+50,2,4,20,53,"Kansas","Ellsworth County",6034
+50,2,4,20,55,"Kansas","Finney County",35917
+50,2,4,20,57,"Kansas","Ford County",33094
+50,2,4,20,59,"Kansas","Franklin County",25703
+50,2,4,20,61,"Kansas","Geary County",32218
+50,2,4,20,63,"Kansas","Gove County",2621
+50,2,4,20,65,"Kansas","Graham County",2389
+50,2,4,20,67,"Kansas","Grant County",7077
+50,2,4,20,69,"Kansas","Gray County",5954
+50,2,4,20,71,"Kansas","Greeley County",1196
+50,2,4,20,73,"Kansas","Greenwood County",5868
+50,2,4,20,75,"Kansas","Hamilton County",2425
+50,2,4,20,77,"Kansas","Harper County",5336
+50,2,4,20,79,"Kansas","Harvey County",34291
+50,2,4,20,81,"Kansas","Haskell County",3923
+50,2,4,20,83,"Kansas","Hodgeman County",1779
+50,2,4,20,85,"Kansas","Jackson County",13171
+50,2,4,20,87,"Kansas","Jefferson County",19032
+50,2,4,20,89,"Kansas","Jewell County",2833
+50,2,4,20,91,"Kansas","Johnson County",607220
+50,2,4,20,93,"Kansas","Kearny County",3745
+50,2,4,20,95,"Kansas","Kingman County",6974
+50,2,4,20,97,"Kansas","Kiowa County",2456
+50,2,4,20,99,"Kansas","Labette County",19586
+50,2,4,20,101,"Kansas","Lane County",1518
+50,2,4,20,103,"Kansas","Leavenworth County",82246
+50,2,4,20,105,"Kansas","Lincoln County",2986
+50,2,4,20,107,"Kansas","Linn County",9654
+50,2,4,20,109,"Kansas","Logan County",2732
+50,2,4,20,111,"Kansas","Lyon County",33045
+50,2,4,20,113,"Kansas","McPherson County",28448
+50,2,4,20,115,"Kansas","Marion County",11652
+50,2,4,20,117,"Kansas","Marshall County",9652
+50,2,4,20,119,"Kansas","Meade County",4029
+50,2,4,20,121,"Kansas","Miami County",34334
+50,2,4,20,123,"Kansas","Mitchell County",5879
+50,2,4,20,125,"Kansas","Montgomery County",31502
+50,2,4,20,127,"Kansas","Morris County",5559
+50,2,4,20,129,"Kansas","Morton County",2538
+50,2,4,20,131,"Kansas","Nemaha County",10121
+50,2,4,20,133,"Kansas","Neosho County",15929
+50,2,4,20,135,"Kansas","Ness County",2768
+50,2,4,20,137,"Kansas","Norton County",5328
+50,2,4,20,139,"Kansas","Osage County",15770
+50,2,4,20,141,"Kansas","Osborne County",3439
+50,2,4,20,143,"Kansas","Ottawa County",5712
+50,2,4,20,145,"Kansas","Pawnee County",6366
+50,2,4,20,147,"Kansas","Phillips County",5181
+50,2,4,20,149,"Kansas","Pottawatomie County",24722
+50,2,4,20,151,"Kansas","Pratt County",9127
+50,2,4,20,153,"Kansas","Rawlins County",2511
+50,2,4,20,155,"Kansas","Reno County",61793
+50,2,4,20,157,"Kansas","Republic County",4536
+50,2,4,20,159,"Kansas","Rice County",9362
+50,2,4,20,161,"Kansas","Riley County",73202
+50,2,4,20,163,"Kansas","Rooks County",4827
+50,2,4,20,165,"Kansas","Rush County",2947
+50,2,4,20,167,"Kansas","Russell County",6804
+50,2,4,20,169,"Kansas","Saline County",53926
+50,2,4,20,171,"Kansas","Scott County",4790
+50,2,4,20,173,"Kansas","Sedgwick County",519907
+50,2,4,20,175,"Kansas","Seward County",21038
+50,2,4,20,177,"Kansas","Shawnee County",175999
+50,2,4,20,179,"Kansas","Sheridan County",2520
+50,2,4,20,181,"Kansas","Sherman County",5777
+50,2,4,20,183,"Kansas","Smith County",3544
+50,2,4,20,185,"Kansas","Stafford County",4046
+50,2,4,20,187,"Kansas","Stanton County",1969
+50,2,4,20,189,"Kansas","Stevens County",5388
+50,2,4,20,191,"Kansas","Sumner County",22578
+50,2,4,20,193,"Kansas","Thomas County",7702
+50,2,4,20,195,"Kansas","Trego County",2758
+50,2,4,20,197,"Kansas","Wabaunsee County",6906
+50,2,4,20,199,"Kansas","Wallace County",1536
+50,2,4,20,201,"Kansas","Washington County",5427
+50,2,4,20,203,"Kansas","Wichita County",2074
+50,2,4,20,205,"Kansas","Wilson County",8362
+50,2,4,20,207,"Kansas","Woodson County",3015
+50,2,4,20,209,"Kansas","Wyandotte County",165265
+40,3,6,21,0,"Kentucky","Kentucky",4477251
+50,3,6,21,1,"Kentucky","Adair County",19555
+50,3,6,21,3,"Kentucky","Allen County",21303
+50,3,6,21,5,"Kentucky","Anderson County",22833
+50,3,6,21,7,"Kentucky","Ballard County",7769
+50,3,6,21,9,"Kentucky","Barren County",44300
+50,3,6,21,11,"Kentucky","Bath County",12481
+50,3,6,21,13,"Kentucky","Bell County",25482
+50,3,6,21,15,"Kentucky","Boone County",135396
+50,3,6,21,17,"Kentucky","Bourbon County",19901
+50,3,6,21,19,"Kentucky","Boyd County",46516
+50,3,6,21,21,"Kentucky","Boyle County",30367
+50,3,6,21,23,"Kentucky","Bracken County",8286
+50,3,6,21,25,"Kentucky","Breathitt County",12550
+50,3,6,21,27,"Kentucky","Breckinridge County",20537
+50,3,6,21,29,"Kentucky","Bullitt County",82182
+50,3,6,21,31,"Kentucky","Butler County",12703
+50,3,6,21,33,"Kentucky","Caldwell County",12687
+50,3,6,21,35,"Kentucky","Calloway County",39300
+50,3,6,21,37,"Kentucky","Campbell County",94020
+50,3,6,21,39,"Kentucky","Carlisle County",4692
+50,3,6,21,41,"Kentucky","Carroll County",10730
+50,3,6,21,43,"Kentucky","Carter County",26542
+50,3,6,21,45,"Kentucky","Casey County",16066
+50,3,6,21,47,"Kentucky","Christian County",71478
+50,3,6,21,49,"Kentucky","Clark County",36463
+50,3,6,21,51,"Kentucky","Clay County",19631
+50,3,6,21,53,"Kentucky","Clinton County",10110
+50,3,6,21,55,"Kentucky","Crittenden County",8847
+50,3,6,21,57,"Kentucky","Cumberland County",6523
+50,3,6,21,59,"Kentucky","Daviess County",101978
+50,3,6,21,61,"Kentucky","Edmonson County",12235
+50,3,6,21,63,"Kentucky","Elliott County",7372
+50,3,6,21,65,"Kentucky","Estill County",14109
+50,3,6,21,67,"Kentucky","Fayette County",324735
+50,3,6,21,69,"Kentucky","Fleming County",14603
+50,3,6,21,71,"Kentucky","Floyd County",34974
+50,3,6,21,73,"Kentucky","Franklin County",51118
+50,3,6,21,75,"Kentucky","Fulton County",5952
+50,3,6,21,77,"Kentucky","Gallatin County",8779
+50,3,6,21,79,"Kentucky","Garrard County",17719
+50,3,6,21,81,"Kentucky","Grant County",25387
+50,3,6,21,83,"Kentucky","Graves County",36818
+50,3,6,21,85,"Kentucky","Grayson County",26480
+50,3,6,21,87,"Kentucky","Green County",10995
+50,3,6,21,89,"Kentucky","Greenup County",34865
+50,3,6,21,91,"Kentucky","Hancock County",8742
+50,3,6,21,93,"Kentucky","Hardin County",111309
+50,3,6,21,95,"Kentucky","Harlan County",25566
+50,3,6,21,97,"Kentucky","Harrison County",18920
+50,3,6,21,99,"Kentucky","Hart County",19013
+50,3,6,21,101,"Kentucky","Henderson County",44740
+50,3,6,21,103,"Kentucky","Henry County",16067
+50,3,6,21,105,"Kentucky","Hickman County",4364
+50,3,6,21,107,"Kentucky","Hopkins County",44662
+50,3,6,21,109,"Kentucky","Jackson County",13340
+50,3,6,21,111,"Kentucky","Jefferson County",767452
+50,3,6,21,113,"Kentucky","Jessamine County",54057
+50,3,6,21,115,"Kentucky","Johnson County",22002
+50,3,6,21,117,"Kentucky","Kenton County",167949
+50,3,6,21,119,"Kentucky","Knott County",14512
+50,3,6,21,121,"Kentucky","Knox County",31022
+50,3,6,21,123,"Kentucky","Larue County",14431
+50,3,6,21,125,"Kentucky","Laurel County",61238
+50,3,6,21,127,"Kentucky","Lawrence County",15436
+50,3,6,21,129,"Kentucky","Lee County",7268
+50,3,6,21,131,"Kentucky","Leslie County",9637
+50,3,6,21,133,"Kentucky","Letcher County",21213
+50,3,6,21,135,"Kentucky","Lewis County",13262
+50,3,6,21,137,"Kentucky","Lincoln County",24466
+50,3,6,21,139,"Kentucky","Livingston County",9041
+50,3,6,21,141,"Kentucky","Logan County",27416
+50,3,6,21,143,"Kentucky","Lyon County",8133
+50,3,6,21,145,"Kentucky","McCracken County",65644
+50,3,6,21,147,"Kentucky","McCreary County",17071
+50,3,6,21,149,"Kentucky","McLean County",9075
+50,3,6,21,151,"Kentucky","Madison County",94265
+50,3,6,21,153,"Kentucky","Magoffin County",12017
+50,3,6,21,155,"Kentucky","Marion County",19314
+50,3,6,21,157,"Kentucky","Marshall County",31163
+50,3,6,21,159,"Kentucky","Martin County",11031
+50,3,6,21,161,"Kentucky","Mason County",17035
+50,3,6,21,163,"Kentucky","Meade County",28616
+50,3,6,21,165,"Kentucky","Menifee County",6502
+50,3,6,21,167,"Kentucky","Mercer County",21889
+50,3,6,21,169,"Kentucky","Metcalfe County",10058
+50,3,6,21,171,"Kentucky","Monroe County",10549
+50,3,6,21,173,"Kentucky","Montgomery County",28186
+50,3,6,21,175,"Kentucky","Morgan County",13142
+50,3,6,21,177,"Kentucky","Muhlenberg County",30457
+50,3,6,21,179,"Kentucky","Nelson County",46450
+50,3,6,21,181,"Kentucky","Nicholas County",7234
+50,3,6,21,183,"Kentucky","Ohio County",23899
+50,3,6,21,185,"Kentucky","Oldham County",66999
+50,3,6,21,187,"Kentucky","Owen County",11017
+50,3,6,21,189,"Kentucky","Owsley County",4331
+50,3,6,21,191,"Kentucky","Pendleton County",14586
+50,3,6,21,193,"Kentucky","Perry County",25456
+50,3,6,21,195,"Kentucky","Pike County",57057
+50,3,6,21,197,"Kentucky","Powell County",12218
+50,3,6,21,199,"Kentucky","Pulaski County",65530
+50,3,6,21,201,"Kentucky","Robertson County",2136
+50,3,6,21,203,"Kentucky","Rockcastle County",16750
+50,3,6,21,205,"Kentucky","Rowan County",24682
+50,3,6,21,207,"Kentucky","Russell County",17998
+50,3,6,21,209,"Kentucky","Scott County",58470
+50,3,6,21,211,"Kentucky","Shelby County",49611
+50,3,6,21,213,"Kentucky","Simpson County",18635
+50,3,6,21,215,"Kentucky","Spencer County",19585
+50,3,6,21,217,"Kentucky","Taylor County",25707
+50,3,6,21,219,"Kentucky","Todd County",12448
+50,3,6,21,221,"Kentucky","Trigg County",14776
+50,3,6,21,223,"Kentucky","Trimble County",8481
+50,3,6,21,225,"Kentucky","Union County",14443
+50,3,6,21,227,"Kentucky","Warren County",134510
+50,3,6,21,229,"Kentucky","Washington County",12147
+50,3,6,21,231,"Kentucky","Wayne County",20209
+50,3,6,21,233,"Kentucky","Webster County",12923
+50,3,6,21,235,"Kentucky","Whitley County",36451
+50,3,6,21,237,"Kentucky","Wolfe County",7106
+50,3,6,21,239,"Kentucky","Woodford County",26765
+40,3,7,22,0,"Louisiana","Louisiana",4645318
+50,3,7,22,1,"Louisiana","Acadia Parish",61918
+50,3,7,22,3,"Louisiana","Allen Parish",25440
+50,3,7,22,5,"Louisiana","Ascension Parish",128665
+50,3,7,22,7,"Louisiana","Assumption Parish",21621
+50,3,7,22,9,"Louisiana","Avoyelles Parish",39966
+50,3,7,22,11,"Louisiana","Beauregard Parish",37881
+50,3,7,22,13,"Louisiana","Bienville Parish",12983
+50,3,7,22,15,"Louisiana","Bossier Parish",127275
+50,3,7,22,17,"Louisiana","Caddo Parish",237479
+50,3,7,22,19,"Louisiana","Calcasieu Parish",203310
+50,3,7,22,21,"Louisiana","Caldwell Parish",9839
+50,3,7,22,23,"Louisiana","Cameron Parish",7003
+50,3,7,22,25,"Louisiana","Catahoula Parish",9226
+50,3,7,22,27,"Louisiana","Claiborne Parish",15508
+50,3,7,22,29,"Louisiana","Concordia Parish",18914
+50,3,7,22,31,"Louisiana","De Soto Parish",27650
+50,3,7,22,33,"Louisiana","East Baton Rouge Parish",439729
+50,3,7,22,35,"Louisiana","East Carroll Parish",6589
+50,3,7,22,37,"Louisiana","East Feliciana Parish",18882
+50,3,7,22,39,"Louisiana","Evangeline Parish",33276
+50,3,7,22,41,"Louisiana","Franklin Parish",19723
+50,3,7,22,43,"Louisiana","Grant Parish",22254
+50,3,7,22,45,"Louisiana","Iberia Parish",68991
+50,3,7,22,47,"Louisiana","Iberville Parish",32070
+50,3,7,22,49,"Louisiana","Jackson Parish",15574
+50,3,7,22,51,"Louisiana","Jefferson Parish",432346
+50,3,7,22,53,"Louisiana","Jefferson Davis Parish",31208
+50,3,7,22,55,"Louisiana","Lafayette Parish",246518
+50,3,7,22,57,"Louisiana","Lafourche Parish",97596
+50,3,7,22,59,"Louisiana","LaSalle Parish",15021
+50,3,7,22,61,"Louisiana","Lincoln Parish",46552
+50,3,7,22,63,"Louisiana","Livingston Parish",143737
+50,3,7,22,65,"Louisiana","Madison Parish",10635
+50,3,7,22,67,"Louisiana","Morehouse Parish",24227
+50,3,7,22,69,"Louisiana","Natchitoches Parish",37655
+50,3,7,22,71,"Louisiana","Orleans Parish",389476
+50,3,7,22,73,"Louisiana","Ouachita Parish",152439
+50,3,7,22,75,"Louisiana","Plaquemines Parish",23113
+50,3,7,22,77,"Louisiana","Pointe Coupee Parish",21529
+50,3,7,22,79,"Louisiana","Rapides Parish",128567
+50,3,7,22,81,"Louisiana","Red River Parish",8286
+50,3,7,22,83,"Louisiana","Richland Parish",20014
+50,3,7,22,85,"Louisiana","Sabine Parish",23803
+50,3,7,22,87,"Louisiana","St. Bernard Parish",47647
+50,3,7,22,89,"Louisiana","St. Charles Parish",52987
+50,3,7,22,91,"Louisiana","St. Helena Parish",10081
+50,3,7,22,93,"Louisiana","St. James Parish",20727
+50,3,7,22,95,"Louisiana","St. John the Baptist Parish",42516
+50,3,7,22,97,"Louisiana","St. Landry Parish",81440
+50,3,7,22,99,"Louisiana","St. Martin Parish",52954
+50,3,7,22,101,"Louisiana","St. Mary Parish",48330
+50,3,7,22,103,"Louisiana","St. Tammany Parish",263446
+50,3,7,22,105,"Louisiana","Tangipahoa Parish",136765
+50,3,7,22,107,"Louisiana","Tensas Parish",4178
+50,3,7,22,109,"Louisiana","Terrebonne Parish",109859
+50,3,7,22,111,"Louisiana","Union Parish",22170
+50,3,7,22,113,"Louisiana","Vermilion Parish",59378
+50,3,7,22,115,"Louisiana","Vernon Parish",47894
+50,3,7,22,117,"Louisiana","Washington Parish",45773
+50,3,7,22,119,"Louisiana","Webster Parish",37943
+50,3,7,22,121,"Louisiana","West Baton Rouge Parish",26792
+50,3,7,22,123,"Louisiana","West Carroll Parish",10646
+50,3,7,22,125,"Louisiana","West Feliciana Parish",15465
+50,3,7,22,127,"Louisiana","Winn Parish",13839
+40,1,1,23,0,"Maine","Maine",1350141
+50,1,1,23,1,"Maine","Androscoggin County",108547
+50,1,1,23,3,"Maine","Aroostook County",66804
+50,1,1,23,5,"Maine","Cumberland County",298111
+50,1,1,23,7,"Maine","Franklin County",29986
+50,1,1,23,9,"Maine","Hancock County",55088
+50,1,1,23,11,"Maine","Kennebec County",122955
+50,1,1,23,13,"Maine","Knox County",39951
+50,1,1,23,15,"Maine","Lincoln County",34775
+50,1,1,23,17,"Maine","Oxford County",58132
+50,1,1,23,19,"Maine","Penobscot County",151655
+50,1,1,23,21,"Maine","Piscataquis County",16996
+50,1,1,23,23,"Maine","Sagadahoc County",36044
+50,1,1,23,25,"Maine","Somerset County",50635
+50,1,1,23,27,"Maine","Waldo County",39923
+50,1,1,23,29,"Maine","Washington County",31473
+50,1,1,23,31,"Maine","York County",209066
+40,3,5,24,0,"Maryland","Maryland",6055802
+50,3,5,24,1,"Maryland","Allegany County",70057
+50,3,5,24,3,"Maryland","Anne Arundel County",582777
+50,3,5,24,5,"Maryland","Baltimore County",826017
+50,3,5,24,9,"Maryland","Calvert County",93072
+50,3,5,24,11,"Maryland","Caroline County",33492
+50,3,5,24,13,"Maryland","Carroll County",169092
+50,3,5,24,15,"Maryland","Cecil County",103419
+50,3,5,24,17,"Maryland","Charles County",164436
+50,3,5,24,19,"Maryland","Dorchester County",31853
+50,3,5,24,21,"Maryland","Frederick County",265161
+50,3,5,24,23,"Maryland","Garrett County",28852
+50,3,5,24,25,"Maryland","Harford County",256805
+50,3,5,24,27,"Maryland","Howard County",328200
+50,3,5,24,29,"Maryland","Kent County",19192
+50,3,5,24,31,"Maryland","Montgomery County",1051816
+50,3,5,24,33,"Maryland","Prince George's County",909612
+50,3,5,24,35,"Maryland","Queen Anne's County",51167
+50,3,5,24,37,"Maryland","St. Mary's County",114687
+50,3,5,24,39,"Maryland","Somerset County",25453
+50,3,5,24,41,"Maryland","Talbot County",36972
+50,3,5,24,43,"Maryland","Washington County",151146
+50,3,5,24,45,"Maryland","Wicomico County",103990
+50,3,5,24,47,"Maryland","Worcester County",52403
+50,3,5,24,510,"Maryland","Baltimore city",586131
+40,1,1,25,0,"Massachusetts","Massachusetts",6893574
+50,1,1,25,1,"Massachusetts","Barnstable County",213164
+50,1,1,25,3,"Massachusetts","Berkshire County",124571
+50,1,1,25,5,"Massachusetts","Bristol County",566765
+50,1,1,25,7,"Massachusetts","Dukes County",17461
+50,1,1,25,9,"Massachusetts","Essex County",791263
+50,1,1,25,11,"Massachusetts","Franklin County",70267
+50,1,1,25,13,"Massachusetts","Hampden County",463986
+50,1,1,25,15,"Massachusetts","Hampshire County",161401
+50,1,1,25,17,"Massachusetts","Middlesex County",1609379
+50,1,1,25,19,"Massachusetts","Nantucket County",11376
+50,1,1,25,21,"Massachusetts","Norfolk County",709409
+50,1,1,25,23,"Massachusetts","Plymouth County",523738
+50,1,1,25,25,"Massachusetts","Suffolk County",801582
+50,1,1,25,27,"Massachusetts","Worcester County",829212
+40,2,3,26,0,"Michigan","Michigan",9966555
+50,2,3,26,1,"Michigan","Alcona County",10505
+50,2,3,26,3,"Michigan","Alger County",9015
+50,2,3,26,5,"Michigan","Allegan County",118927
+50,2,3,26,7,"Michigan","Alpena County",28238
+50,2,3,26,9,"Michigan","Antrim County",23449
+50,2,3,26,11,"Michigan","Arenac County",14953
+50,2,3,26,13,"Michigan","Baraga County",8164
+50,2,3,26,15,"Michigan","Barry County",62061
+50,2,3,26,17,"Michigan","Bay County",102387
+50,2,3,26,19,"Michigan","Benzie County",17852
+50,2,3,26,21,"Michigan","Berrien County",153025
+50,2,3,26,23,"Michigan","Branch County",43424
+50,2,3,26,25,"Michigan","Calhoun County",133580
+50,2,3,26,27,"Michigan","Cass County",51584
+50,2,3,26,29,"Michigan","Charlevoix County",26105
+50,2,3,26,31,"Michigan","Cheboygan County",25365
+50,2,3,26,33,"Michigan","Chippewa County",36958
+50,2,3,26,35,"Michigan","Clare County",30771
+50,2,3,26,37,"Michigan","Clinton County",79753
+50,2,3,26,39,"Michigan","Crawford County",13981
+50,2,3,26,41,"Michigan","Delta County",35612
+50,2,3,26,43,"Michigan","Dickinson County",25112
+50,2,3,26,45,"Michigan","Eaton County",110148
+50,2,3,26,47,"Michigan","Emmet County",33342
+50,2,3,26,49,"Michigan","Genesee County",404794
+50,2,3,26,51,"Michigan","Gladwin County",25424
+50,2,3,26,53,"Michigan","Gogebic County",13842
+50,2,3,26,55,"Michigan","Grand Traverse County",93592
+50,2,3,26,57,"Michigan","Gratiot County",40283
+50,2,3,26,59,"Michigan","Hillsdale County",45658
+50,2,3,26,61,"Michigan","Houghton County",35126
+50,2,3,26,63,"Michigan","Huron County",30653
+50,2,3,26,65,"Michigan","Ingham County",290609
+50,2,3,26,67,"Michigan","Ionia County",64553
+50,2,3,26,69,"Michigan","Iosco County",25140
+50,2,3,26,71,"Michigan","Iron County",11066
+50,2,3,26,73,"Michigan","Isabella County",69504
+50,2,3,26,75,"Michigan","Jackson County",156920
+50,2,3,26,77,"Michigan","Kalamazoo County",265988
+50,2,3,26,79,"Michigan","Kalkaska County",18003
+50,2,3,26,81,"Michigan","Kent County",658708
+50,2,3,26,83,"Michigan","Keweenaw County",2119
+50,2,3,26,85,"Michigan","Lake County",11587
+50,2,3,26,87,"Michigan","Lapeer County",87635
+50,2,3,26,89,"Michigan","Leelanau County",21743
+50,2,3,26,91,"Michigan","Lenawee County",97808
+50,2,3,26,93,"Michigan","Livingston County",192335
+50,2,3,26,95,"Michigan","Luce County",6126
+50,2,3,26,97,"Michigan","Mackinac County",10839
+50,2,3,26,99,"Michigan","Macomb County",870791
+50,2,3,26,101,"Michigan","Manistee County",24738
+50,2,3,26,103,"Michigan","Marquette County",65834
+50,2,3,26,105,"Michigan","Mason County",29164
+50,2,3,26,107,"Michigan","Mecosta County",43907
+50,2,3,26,109,"Michigan","Menominee County",22608
+50,2,3,26,111,"Michigan","Midland County",83441
+50,2,3,26,113,"Michigan","Missaukee County",15152
+50,2,3,26,115,"Michigan","Monroe County",150568
+50,2,3,26,117,"Michigan","Montcalm County",63476
+50,2,3,26,119,"Michigan","Montmorency County",9337
+50,2,3,26,121,"Michigan","Muskegon County",173883
+50,2,3,26,123,"Michigan","Newaygo County",49348
+50,2,3,26,125,"Michigan","Oakland County",1253459
+50,2,3,26,127,"Michigan","Oceana County",26819
+50,2,3,26,129,"Michigan","Ogemaw County",20923
+50,2,3,26,131,"Michigan","Ontonagon County",5656
+50,2,3,26,133,"Michigan","Osceola County",23466
+50,2,3,26,135,"Michigan","Oscoda County",8368
+50,2,3,26,137,"Michigan","Otsego County",24765
+50,2,3,26,139,"Michigan","Ottawa County",294635
+50,2,3,26,141,"Michigan","Presque Isle County",12665
+50,2,3,26,143,"Michigan","Roscommon County",23986
+50,2,3,26,145,"Michigan","Saginaw County",189868
+50,2,3,26,147,"Michigan","St. Clair County",159293
+50,2,3,26,149,"Michigan","St. Joseph County",60848
+50,2,3,26,151,"Michigan","Sanilac County",40747
+50,2,3,26,153,"Michigan","Schoolcraft County",8104
+50,2,3,26,155,"Michigan","Shiawassee County",67738
+50,2,3,26,157,"Michigan","Tuscola County",52289
+50,2,3,26,159,"Michigan","Van Buren County",75474
+50,2,3,26,161,"Michigan","Washtenaw County",366473
+50,2,3,26,163,"Michigan","Wayne County",1740623
+50,2,3,26,165,"Michigan","Wexford County",33743
+40,2,4,27,0,"Minnesota","Minnesota",5657342
+50,2,4,27,1,"Minnesota","Aitkin County",15848
+50,2,4,27,3,"Minnesota","Anoka County",359921
+50,2,4,27,5,"Minnesota","Becker County",34456
+50,2,4,27,7,"Minnesota","Beltrami County",47442
+50,2,4,27,9,"Minnesota","Benton County",40958
+50,2,4,27,11,"Minnesota","Big Stone County",4923
+50,2,4,27,13,"Minnesota","Blue Earth County",68241
+50,2,4,27,15,"Minnesota","Brown County",24846
+50,2,4,27,17,"Minnesota","Carlton County",35769
+50,2,4,27,19,"Minnesota","Carver County",106565
+50,2,4,27,21,"Minnesota","Cass County",29928
+50,2,4,27,23,"Minnesota","Chippewa County",11758
+50,2,4,27,25,"Minnesota","Chisago County",56794
+50,2,4,27,27,"Minnesota","Clay County",64690
+50,2,4,27,29,"Minnesota","Clearwater County",9017
+50,2,4,27,31,"Minnesota","Cook County",5417
+50,2,4,27,33,"Minnesota","Cottonwood County",11242
+50,2,4,27,35,"Minnesota","Crow Wing County",65644
+50,2,4,27,37,"Minnesota","Dakota County",431807
+50,2,4,27,39,"Minnesota","Dodge County",20987
+50,2,4,27,41,"Minnesota","Douglas County",38328
+50,2,4,27,43,"Minnesota","Faribault County",13601
+50,2,4,27,45,"Minnesota","Fillmore County",21135
+50,2,4,27,47,"Minnesota","Freeborn County",30364
+50,2,4,27,49,"Minnesota","Goodhue County",46318
+50,2,4,27,51,"Minnesota","Grant County",6026
+50,2,4,27,53,"Minnesota","Hennepin County",1268408
+50,2,4,27,55,"Minnesota","Houston County",18632
+50,2,4,27,57,"Minnesota","Hubbard County",21783
+50,2,4,27,59,"Minnesota","Isanti County",41429
+50,2,4,27,61,"Minnesota","Itasca County",45268
+50,2,4,27,63,"Minnesota","Jackson County",9768
+50,2,4,27,65,"Minnesota","Kanabec County",16416
+50,2,4,27,67,"Minnesota","Kandiyohi County",43130
+50,2,4,27,69,"Minnesota","Kittson County",4214
+50,2,4,27,71,"Minnesota","Koochiching County",12059
+50,2,4,27,73,"Minnesota","Lac qui Parle County",6527
+50,2,4,27,75,"Minnesota","Lake County",10639
+50,2,4,27,77,"Minnesota","Lake of the Woods County",3754
+50,2,4,27,79,"Minnesota","Le Sueur County",28741
+50,2,4,27,81,"Minnesota","Lincoln County",5568
+50,2,4,27,83,"Minnesota","Lyon County",25271
+50,2,4,27,85,"Minnesota","McLeod County",35710
+50,2,4,27,87,"Minnesota","Mahnomen County",5473
+50,2,4,27,89,"Minnesota","Marshall County",9321
+50,2,4,27,91,"Minnesota","Martin County",19484
+50,2,4,27,93,"Minnesota","Meeker County",23341
+50,2,4,27,95,"Minnesota","Mille Lacs County",26146
+50,2,4,27,97,"Minnesota","Morrison County",33187
+50,2,4,27,99,"Minnesota","Mower County",40150
+50,2,4,27,101,"Minnesota","Murray County",8155
+50,2,4,27,103,"Minnesota","Nicollet County",34482
+50,2,4,27,105,"Minnesota","Nobles County",21400
+50,2,4,27,107,"Minnesota","Norman County",6338
+50,2,4,27,109,"Minnesota","Olmsted County",159298
+50,2,4,27,111,"Minnesota","Otter Tail County",58741
+50,2,4,27,113,"Minnesota","Pennington County",13874
+50,2,4,27,115,"Minnesota","Pine County",29359
+50,2,4,27,117,"Minnesota","Pipestone County",9121
+50,2,4,27,119,"Minnesota","Polk County",30900
+50,2,4,27,121,"Minnesota","Pope County",11277
+50,2,4,27,123,"Minnesota","Ramsey County",547903
+50,2,4,27,125,"Minnesota","Red Lake County",4046
+50,2,4,27,127,"Minnesota","Redwood County",15079
+50,2,4,27,129,"Minnesota","Renville County",14403
+50,2,4,27,131,"Minnesota","Rice County",67084
+50,2,4,27,133,"Minnesota","Rock County",9301
+50,2,4,27,135,"Minnesota","Roseau County",15117
+50,2,4,27,137,"Minnesota","St. Louis County",198538
+50,2,4,27,139,"Minnesota","Scott County",150689
+50,2,4,27,141,"Minnesota","Sherburne County",98811
+50,2,4,27,143,"Minnesota","Sibley County",14715
+50,2,4,27,145,"Minnesota","Stearns County",162038
+50,2,4,27,147,"Minnesota","Steele County",36596
+50,2,4,27,149,"Minnesota","Stevens County",9765
+50,2,4,27,151,"Minnesota","Swift County",9176
+50,2,4,27,153,"Minnesota","Todd County",24732
+50,2,4,27,155,"Minnesota","Traverse County",3218
+50,2,4,27,157,"Minnesota","Wabasha County",21642
+50,2,4,27,159,"Minnesota","Wadena County",13807
+50,2,4,27,161,"Minnesota","Waseca County",18550
+50,2,4,27,163,"Minnesota","Washington County",265476
+50,2,4,27,165,"Minnesota","Watonwan County",10792
+50,2,4,27,167,"Minnesota","Wilkin County",6161
+50,2,4,27,169,"Minnesota","Winona County",50485
+50,2,4,27,171,"Minnesota","Wright County",140249
+50,2,4,27,173,"Minnesota","Yellow Medicine County",9580
+40,3,6,28,0,"Mississippi","Mississippi",2966786
+50,3,6,28,1,"Mississippi","Adams County",30275
+50,3,6,28,3,"Mississippi","Alcorn County",36889
+50,3,6,28,5,"Mississippi","Amite County",12205
+50,3,6,28,7,"Mississippi","Attala County",18004
+50,3,6,28,9,"Mississippi","Benton County",8351
+50,3,6,28,11,"Mississippi","Bolivar County",30142
+50,3,6,28,13,"Mississippi","Calhoun County",14241
+50,3,6,28,15,"Mississippi","Carroll County",9732
+50,3,6,28,17,"Mississippi","Chickasaw County",16951
+50,3,6,28,19,"Mississippi","Choctaw County",8063
+50,3,6,28,21,"Mississippi","Claiborne County",8911
+50,3,6,28,23,"Mississippi","Clarke County",15299
+50,3,6,28,25,"Mississippi","Clay County",19352
+50,3,6,28,27,"Mississippi","Coahoma County",21564
+50,3,6,28,29,"Mississippi","Copiah County",27933
+50,3,6,28,31,"Mississippi","Covington County",18518
+50,3,6,28,33,"Mississippi","DeSoto County",188275
+50,3,6,28,35,"Mississippi","Forrest County",75009
+50,3,6,28,37,"Mississippi","Franklin County",7657
+50,3,6,28,39,"Mississippi","George County",24425
+50,3,6,28,41,"Mississippi","Greene County",13477
+50,3,6,28,43,"Mississippi","Grenada County",20610
+50,3,6,28,45,"Mississippi","Hancock County",48000
+50,3,6,28,47,"Mississippi","Harrison County",208801
+50,3,6,28,49,"Mississippi","Hinds County",227966
+50,3,6,28,51,"Mississippi","Holmes County",16726
+50,3,6,28,53,"Mississippi","Humphreys County",7827
+50,3,6,28,55,"Mississippi","Issaquena County",1220
+50,3,6,28,57,"Mississippi","Itawamba County",23261
+50,3,6,28,59,"Mississippi","Jackson County",143802
+50,3,6,28,61,"Mississippi","Jasper County",16332
+50,3,6,28,63,"Mississippi","Jefferson County",6997
+50,3,6,28,65,"Mississippi","Jefferson Davis County",10890
+50,3,6,28,67,"Mississippi","Jones County",67993
+50,3,6,28,69,"Mississippi","Kemper County",9521
+50,3,6,28,71,"Mississippi","Lafayette County",54408
+50,3,6,28,73,"Mississippi","Lamar County",64165
+50,3,6,28,75,"Mississippi","Lauderdale County",73751
+50,3,6,28,77,"Mississippi","Lawrence County",12480
+50,3,6,28,79,"Mississippi","Leake County",22741
+50,3,6,28,81,"Mississippi","Lee County",85466
+50,3,6,28,83,"Mississippi","Leflore County",27854
+50,3,6,28,85,"Mississippi","Lincoln County",33936
+50,3,6,28,87,"Mississippi","Lowndes County",58309
+50,3,6,28,89,"Mississippi","Madison County",106871
+50,3,6,28,91,"Mississippi","Marion County",24441
+50,3,6,28,93,"Mississippi","Marshall County",35301
+50,3,6,28,95,"Mississippi","Monroe County",35123
+50,3,6,28,97,"Mississippi","Montgomery County",9661
+50,3,6,28,99,"Mississippi","Neshoba County",28996
+50,3,6,28,101,"Mississippi","Newton County",20866
+50,3,6,28,103,"Mississippi","Noxubee County",10236
+50,3,6,28,105,"Mississippi","Oktibbeha County",49789
+50,3,6,28,107,"Mississippi","Panola County",33848
+50,3,6,28,109,"Mississippi","Pearl River County",55876
+50,3,6,28,111,"Mississippi","Perry County",11862
+50,3,6,28,113,"Mississippi","Pike County",38997
+50,3,6,28,115,"Mississippi","Pontotoc County",32461
+50,3,6,28,117,"Mississippi","Prentiss County",25013
+50,3,6,28,119,"Mississippi","Quitman County",6760
+50,3,6,28,121,"Mississippi","Rankin County",155975
+50,3,6,28,123,"Mississippi","Scott County",28061
+50,3,6,28,125,"Mississippi","Sharkey County",4160
+50,3,6,28,127,"Mississippi","Simpson County",26629
+50,3,6,28,129,"Mississippi","Smith County",15779
+50,3,6,28,131,"Mississippi","Stone County",18360
+50,3,6,28,133,"Mississippi","Sunflower County",24740
+50,3,6,28,135,"Mississippi","Tallahatchie County",13707
+50,3,6,28,137,"Mississippi","Tate County",28539
+50,3,6,28,139,"Mississippi","Tippah County",21748
+50,3,6,28,141,"Mississippi","Tishomingo County",19275
+50,3,6,28,143,"Mississippi","Tunica County",9392
+50,3,6,28,145,"Mississippi","Union County",28866
+50,3,6,28,147,"Mississippi","Walthall County",14294
+50,3,6,28,149,"Mississippi","Warren County",44841
+50,3,6,28,151,"Mississippi","Washington County",42837
+50,3,6,28,153,"Mississippi","Wayne County",20317
+50,3,6,28,155,"Mississippi","Webster County",9676
+50,3,6,28,157,"Mississippi","Wilkinson County",8351
+50,3,6,28,159,"Mississippi","Winston County",17845
+50,3,6,28,161,"Mississippi","Yalobusha County",11982
+50,3,6,28,163,"Mississippi","Yazoo County",26982
+40,2,4,29,0,"Missouri","Missouri",6151548
+50,2,4,29,1,"Missouri","Adair County",25399
+50,2,4,29,3,"Missouri","Andrew County",17586
+50,2,4,29,5,"Missouri","Atchison County",5096
+50,2,4,29,7,"Missouri","Audrain County",24835
+50,2,4,29,9,"Missouri","Barry County",35818
+50,2,4,29,11,"Missouri","Barton County",11592
+50,2,4,29,13,"Missouri","Bates County",16242
+50,2,4,29,15,"Missouri","Benton County",19627
+50,2,4,29,17,"Missouri","Bollinger County",12111
+50,2,4,29,19,"Missouri","Boone County",182991
+50,2,4,29,21,"Missouri","Buchanan County",86530
+50,2,4,29,23,"Missouri","Butler County",42178
+50,2,4,29,25,"Missouri","Caldwell County",9051
+50,2,4,29,27,"Missouri","Callaway County",44887
+50,2,4,29,29,"Missouri","Camden County",46414
+50,2,4,29,31,"Missouri","Cape Girardeau County",79512
+50,2,4,29,33,"Missouri","Carroll County",8554
+50,2,4,29,35,"Missouri","Carter County",5991
+50,2,4,29,37,"Missouri","Cass County",106806
+50,2,4,29,39,"Missouri","Cedar County",14322
+50,2,4,29,41,"Missouri","Chariton County",7360
+50,2,4,29,43,"Missouri","Christian County",90655
+50,2,4,29,45,"Missouri","Clark County",6830
+50,2,4,29,47,"Missouri","Clay County",253463
+50,2,4,29,49,"Missouri","Clinton County",20553
+50,2,4,29,51,"Missouri","Cole County",76191
+50,2,4,29,53,"Missouri","Cooper County",17102
+50,2,4,29,55,"Missouri","Crawford County",23739
+50,2,4,29,57,"Missouri","Dade County",7568
+50,2,4,29,59,"Missouri","Dallas County",17219
+50,2,4,29,61,"Missouri","Daviess County",8283
+50,2,4,29,63,"Missouri","DeKalb County",10944
+50,2,4,29,65,"Missouri","Dent County",15481
+50,2,4,29,67,"Missouri","Douglas County",13344
+50,2,4,29,69,"Missouri","Dunklin County",28878
+50,2,4,29,71,"Missouri","Franklin County",104469
+50,2,4,29,73,"Missouri","Gasconade County",14566
+50,2,4,29,75,"Missouri","Gentry County",6484
+50,2,4,29,77,"Missouri","Greene County",294997
+50,2,4,29,79,"Missouri","Grundy County",9595
+50,2,4,29,81,"Missouri","Harrison County",8321
+50,2,4,29,83,"Missouri","Henry County",22076
+50,2,4,29,85,"Missouri","Hickory County",9586
+50,2,4,29,87,"Missouri","Holt County",4232
+50,2,4,29,89,"Missouri","Howard County",10001
+50,2,4,29,91,"Missouri","Howell County",40262
+50,2,4,29,93,"Missouri","Iron County",10098
+50,2,4,29,95,"Missouri","Jackson County",705925
+50,2,4,29,97,"Missouri","Jasper County",121648
+50,2,4,29,99,"Missouri","Jefferson County",226543
+50,2,4,29,101,"Missouri","Johnson County",54219
+50,2,4,29,103,"Missouri","Knox County",3940
+50,2,4,29,105,"Missouri","Laclede County",35895
+50,2,4,29,107,"Missouri","Lafayette County",33006
+50,2,4,29,109,"Missouri","Lawrence County",38175
+50,2,4,29,111,"Missouri","Lewis County",9810
+50,2,4,29,113,"Missouri","Lincoln County",60119
+50,2,4,29,115,"Missouri","Linn County",11830
+50,2,4,29,117,"Missouri","Livingston County",14413
+50,2,4,29,119,"Missouri","McDonald County",22900
+50,2,4,29,121,"Missouri","Macon County",15095
+50,2,4,29,123,"Missouri","Madison County",12113
+50,2,4,29,125,"Missouri","Maries County",8795
+50,2,4,29,127,"Missouri","Marion County",28423
+50,2,4,29,129,"Missouri","Mercer County",3558
+50,2,4,29,131,"Missouri","Miller County",25791
+50,2,4,29,133,"Missouri","Mississippi County",12691
+50,2,4,29,135,"Missouri","Moniteau County",15585
+50,2,4,29,137,"Missouri","Monroe County",8672
+50,2,4,29,139,"Missouri","Montgomery County",11294
+50,2,4,29,141,"Missouri","Morgan County",20716
+50,2,4,29,143,"Missouri","New Madrid County",16693
+50,2,4,29,145,"Missouri","Newton County",58451
+50,2,4,29,147,"Missouri","Nodaway County",21743
+50,2,4,29,149,"Missouri","Oregon County",10411
+50,2,4,29,151,"Missouri","Osage County",13535
+50,2,4,29,153,"Missouri","Ozark County",9083
+50,2,4,29,155,"Missouri","Pemiscot County",15600
+50,2,4,29,157,"Missouri","Perry County",19194
+50,2,4,29,159,"Missouri","Pettis County",42490
+50,2,4,29,161,"Missouri","Phelps County",44414
+50,2,4,29,163,"Missouri","Pike County",17552
+50,2,4,29,165,"Missouri","Platte County",106532
+50,2,4,29,167,"Missouri","Polk County",32490
+50,2,4,29,169,"Missouri","Pulaski County",52709
+50,2,4,29,171,"Missouri","Putnam County",4688
+50,2,4,29,173,"Missouri","Ralls County",10299
+50,2,4,29,175,"Missouri","Randolph County",24409
+50,2,4,29,177,"Missouri","Ray County",22915
+50,2,4,29,179,"Missouri","Reynolds County",6198
+50,2,4,29,181,"Missouri","Ripley County",13300
+50,2,4,29,183,"Missouri","St. Charles County",406204
+50,2,4,29,185,"Missouri","St. Clair County",9689
+50,2,4,29,186,"Missouri","Ste. Genevieve County",17924
+50,2,4,29,187,"Missouri","St. Francois County",66485
+50,2,4,29,189,"Missouri","St. Louis County",994020
+50,2,4,29,195,"Missouri","Saline County",22858
+50,2,4,29,197,"Missouri","Schuyler County",4534
+50,2,4,29,199,"Missouri","Scotland County",4871
+50,2,4,29,201,"Missouri","Scott County",38288
+50,2,4,29,203,"Missouri","Shannon County",8203
+50,2,4,29,205,"Missouri","Shelby County",5919
+50,2,4,29,207,"Missouri","Stoddard County",29001
+50,2,4,29,209,"Missouri","Stone County",32465
+50,2,4,29,211,"Missouri","Sullivan County",6033
+50,2,4,29,213,"Missouri","Taney County",56104
+50,2,4,29,215,"Missouri","Texas County",25112
+50,2,4,29,217,"Missouri","Vernon County",20388
+50,2,4,29,219,"Missouri","Warren County",36594
+50,2,4,29,221,"Missouri","Washington County",24604
+50,2,4,29,223,"Missouri","Wayne County",12769
+50,2,4,29,225,"Missouri","Webster County",39859
+50,2,4,29,227,"Missouri","Worth County",1953
+50,2,4,29,229,"Missouri","Wright County",18325
+50,2,4,29,510,"Missouri","St. Louis city",297645
+40,4,8,30,0,"Montana","Montana",1080577
+50,4,8,30,1,"Montana","Beaverhead County",9483
+50,4,8,30,3,"Montana","Big Horn County",13063
+50,4,8,30,5,"Montana","Blaine County",6568
+50,4,8,30,7,"Montana","Broadwater County",6444
+50,4,8,30,9,"Montana","Carbon County",10921
+50,4,8,30,11,"Montana","Carter County",1235
+50,4,8,30,13,"Montana","Cascade County",81346
+50,4,8,30,15,"Montana","Chouteau County",5699
+50,4,8,30,17,"Montana","Custer County",11292
+50,4,8,30,19,"Montana","Daniels County",1638
+50,4,8,30,21,"Montana","Dawson County",8555
+50,4,8,30,23,"Montana","Deer Lodge County",9204
+50,4,8,30,25,"Montana","Fallon County",2826
+50,4,8,30,27,"Montana","Fergus County",11104
+50,4,8,30,29,"Montana","Flathead County",105851
+50,4,8,30,31,"Montana","Gallatin County",116806
+50,4,8,30,33,"Montana","Garfield County",1268
+50,4,8,30,35,"Montana","Glacier County",13594
+50,4,8,30,37,"Montana","Golden Valley County",827
+50,4,8,30,39,"Montana","Granite County",3317
+50,4,8,30,41,"Montana","Hill County",16358
+50,4,8,30,43,"Montana","Jefferson County",12360
+50,4,8,30,45,"Montana","Judith Basin County",1994
+50,4,8,30,47,"Montana","Lake County",30986
+50,4,8,30,49,"Montana","Lewis and Clark County",70229
+50,4,8,30,51,"Montana","Liberty County",2369
+50,4,8,30,53,"Montana","Lincoln County",20343
+50,4,8,30,55,"Montana","McCone County",1648
+50,4,8,30,57,"Montana","Madison County",8959
+50,4,8,30,59,"Montana","Meagher County",1831
+50,4,8,30,61,"Montana","Mineral County",4544
+50,4,8,30,63,"Montana","Missoula County",121630
+50,4,8,30,65,"Montana","Musselshell County",4669
+50,4,8,30,67,"Montana","Park County",16760
+50,4,8,30,69,"Montana","Petroleum County",500
+50,4,8,30,71,"Montana","Phillips County",3919
+50,4,8,30,73,"Montana","Pondera County",5782
+50,4,8,30,75,"Montana","Powder River County",1681
+50,4,8,30,77,"Montana","Powell County",6817
+50,4,8,30,79,"Montana","Prairie County",1067
+50,4,8,30,81,"Montana","Ravalli County",45002
+50,4,8,30,83,"Montana","Richland County",11043
+50,4,8,30,85,"Montana","Roosevelt County",10964
+50,4,8,30,87,"Montana","Rosebud County",8836
+50,4,8,30,89,"Montana","Sanders County",12157
+50,4,8,30,91,"Montana","Sheridan County",3261
+50,4,8,30,93,"Montana","Silver Bow County",35180
+50,4,8,30,95,"Montana","Stillwater County",9888
+50,4,8,30,97,"Montana","Sweet Grass County",3684
+50,4,8,30,99,"Montana","Teton County",6249
+50,4,8,30,101,"Montana","Toole County",4686
+50,4,8,30,103,"Montana","Treasure County",695
+50,4,8,30,105,"Montana","Valley County",7359
+50,4,8,30,107,"Montana","Wheatland County",2157
+50,4,8,30,109,"Montana","Wibaux County",939
+50,4,8,30,111,"Montana","Yellowstone County",162990
+40,2,4,31,0,"Nebraska","Nebraska",1937552
+50,2,4,31,1,"Nebraska","Adams County",31321
+50,2,4,31,3,"Nebraska","Antelope County",6264
+50,2,4,31,5,"Nebraska","Arthur County",466
+50,2,4,31,7,"Nebraska","Banner County",786
+50,2,4,31,9,"Nebraska","Blaine County",457
+50,2,4,31,11,"Nebraska","Boone County",5096
+50,2,4,31,13,"Nebraska","Box Butte County",10696
+50,2,4,31,15,"Nebraska","Boyd County",1860
+50,2,4,31,17,"Nebraska","Brown County",2981
+50,2,4,31,19,"Nebraska","Buffalo County",50114
+50,2,4,31,21,"Nebraska","Burt County",6477
+50,2,4,31,23,"Nebraska","Butler County",7960
+50,2,4,31,25,"Nebraska","Cass County",26232
+50,2,4,31,27,"Nebraska","Cedar County",8414
+50,2,4,31,29,"Nebraska","Chase County",3840
+50,2,4,31,31,"Nebraska","Cherry County",5781
+50,2,4,31,33,"Nebraska","Cheyenne County",9111
+50,2,4,31,35,"Nebraska","Clay County",6216
+50,2,4,31,37,"Nebraska","Colfax County",10587
+50,2,4,31,39,"Nebraska","Cuming County",8798
+50,2,4,31,41,"Nebraska","Custer County",10626
+50,2,4,31,43,"Nebraska","Dakota County",20070
+50,2,4,31,45,"Nebraska","Dawes County",8361
+50,2,4,31,47,"Nebraska","Dawson County",23510
+50,2,4,31,49,"Nebraska","Deuel County",1793
+50,2,4,31,51,"Nebraska","Dixon County",5596
+50,2,4,31,53,"Nebraska","Dodge County",36222
+50,2,4,31,55,"Nebraska","Douglas County",574332
+50,2,4,31,57,"Nebraska","Dundy County",1671
+50,2,4,31,59,"Nebraska","Fillmore County",5519
+50,2,4,31,61,"Nebraska","Franklin County",2940
+50,2,4,31,63,"Nebraska","Frontier County",2587
+50,2,4,31,65,"Nebraska","Furnas County",4653
+50,2,4,31,67,"Nebraska","Gage County",21431
+50,2,4,31,69,"Nebraska","Garden County",1847
+50,2,4,31,71,"Nebraska","Garfield County",1956
+50,2,4,31,73,"Nebraska","Gosper County",1986
+50,2,4,31,75,"Nebraska","Grant County",630
+50,2,4,31,77,"Nebraska","Greeley County",2319
+50,2,4,31,79,"Nebraska","Hall County",61028
+50,2,4,31,81,"Nebraska","Hamilton County",9237
+50,2,4,31,83,"Nebraska","Harlan County",3311
+50,2,4,31,85,"Nebraska","Hayes County",916
+50,2,4,31,87,"Nebraska","Hitchcock County",2773
+50,2,4,31,89,"Nebraska","Holt County",9956
+50,2,4,31,91,"Nebraska","Hooker County",647
+50,2,4,31,93,"Nebraska","Howard County",6488
+50,2,4,31,95,"Nebraska","Jefferson County",7099
+50,2,4,31,97,"Nebraska","Johnson County",5057
+50,2,4,31,99,"Nebraska","Kearney County",6652
+50,2,4,31,101,"Nebraska","Keith County",7983
+50,2,4,31,103,"Nebraska","Keya Paha County",759
+50,2,4,31,105,"Nebraska","Kimball County",3495
+50,2,4,31,107,"Nebraska","Knox County",8304
+50,2,4,31,109,"Nebraska","Lancaster County",320650
+50,2,4,31,111,"Nebraska","Lincoln County",34347
+50,2,4,31,113,"Nebraska","Logan County",747
+50,2,4,31,115,"Nebraska","Loup County",650
+50,2,4,31,117,"Nebraska","McPherson County",474
+50,2,4,31,119,"Nebraska","Madison County",34813
+50,2,4,31,121,"Nebraska","Merrick County",7809
+50,2,4,31,123,"Nebraska","Morrill County",4625
+50,2,4,31,125,"Nebraska","Nance County",3532
+50,2,4,31,127,"Nebraska","Nemaha County",7044
+50,2,4,31,129,"Nebraska","Nuckolls County",4134
+50,2,4,31,131,"Nebraska","Otoe County",15965
+50,2,4,31,133,"Nebraska","Pawnee County",2601
+50,2,4,31,135,"Nebraska","Perkins County",2867
+50,2,4,31,137,"Nebraska","Phelps County",9006
+50,2,4,31,139,"Nebraska","Pierce County",7184
+50,2,4,31,141,"Nebraska","Platte County",33364
+50,2,4,31,143,"Nebraska","Polk County",5201
+50,2,4,31,145,"Nebraska","Red Willow County",10627
+50,2,4,31,147,"Nebraska","Richardson County",7791
+50,2,4,31,149,"Nebraska","Rock County",1377
+50,2,4,31,151,"Nebraska","Saline County",13987
+50,2,4,31,153,"Nebraska","Sarpy County",188856
+50,2,4,31,155,"Nebraska","Saunders County",21927
+50,2,4,31,157,"Nebraska","Scotts Bluff County",35299
+50,2,4,31,159,"Nebraska","Seward County",17186
+50,2,4,31,161,"Nebraska","Sheridan County",5150
+50,2,4,31,163,"Nebraska","Sherman County",2986
+50,2,4,31,165,"Nebraska","Sioux County",1200
+50,2,4,31,167,"Nebraska","Stanton County",5880
+50,2,4,31,169,"Nebraska","Thayer County",4887
+50,2,4,31,171,"Nebraska","Thomas County",739
+50,2,4,31,173,"Nebraska","Thurston County",7220
+50,2,4,31,175,"Nebraska","Valley County",4103
+50,2,4,31,177,"Nebraska","Washington County",20901
+50,2,4,31,179,"Nebraska","Wayne County",9492
+50,2,4,31,181,"Nebraska","Webster County",3419
+50,2,4,31,183,"Nebraska","Wheeler County",790
+50,2,4,31,185,"Nebraska","York County",13511
+40,4,8,32,0,"Nevada","Nevada",3138259
+50,4,8,32,1,"Nevada","Churchill County",25363
+50,4,8,32,3,"Nevada","Clark County",2315963
+50,4,8,32,5,"Nevada","Douglas County",49088
+50,4,8,32,7,"Nevada","Elko County",53006
+50,4,8,32,9,"Nevada","Esmeralda County",886
+50,4,8,32,11,"Nevada","Eureka County",2065
+50,4,8,32,13,"Nevada","Humboldt County",16962
+50,4,8,32,15,"Nevada","Lander County",5514
+50,4,8,32,17,"Nevada","Lincoln County",5159
+50,4,8,32,19,"Nevada","Lyon County",58319
+50,4,8,32,21,"Nevada","Mineral County",4518
+50,4,8,32,23,"Nevada","Nye County",48054
+50,4,8,32,27,"Nevada","Pershing County",6573
+50,4,8,32,29,"Nevada","Storey County",4207
+50,4,8,32,31,"Nevada","Washoe County",477082
+50,4,8,32,33,"Nevada","White Pine County",9466
+50,4,8,32,510,"Nevada","Carson City",56034
+40,1,1,33,0,"New Hampshire","New Hampshire",1366275
+50,1,1,33,1,"New Hampshire","Belknap County",61551
+50,1,1,33,3,"New Hampshire","Carroll County",49167
+50,1,1,33,5,"New Hampshire","Cheshire County",76228
+50,1,1,33,7,"New Hampshire","Coos County",31174
+50,1,1,33,9,"New Hampshire","Grafton County",90691
+50,1,1,33,11,"New Hampshire","Hillsborough County",418735
+50,1,1,33,13,"New Hampshire","Merrimack County",152622
+50,1,1,33,15,"New Hampshire","Rockingham County",311307
+50,1,1,33,17,"New Hampshire","Strafford County",131533
+50,1,1,33,19,"New Hampshire","Sullivan County",43267
+40,1,2,34,0,"New Jersey","New Jersey",8882371
+50,1,2,34,1,"New Jersey","Atlantic County",262945
+50,1,2,34,3,"New Jersey","Bergen County",930394
+50,1,2,34,5,"New Jersey","Burlington County",446596
+50,1,2,34,7,"New Jersey","Camden County",506809
+50,1,2,34,9,"New Jersey","Cape May County",91546
+50,1,2,34,11,"New Jersey","Cumberland County",147008
+50,1,2,34,13,"New Jersey","Essex County",800501
+50,1,2,34,15,"New Jersey","Gloucester County",293245
+50,1,2,34,17,"New Jersey","Hudson County",671666
+50,1,2,34,19,"New Jersey","Hunterdon County",124797
+50,1,2,34,21,"New Jersey","Mercer County",367239
+50,1,2,34,23,"New Jersey","Middlesex County",822736
+50,1,2,34,25,"New Jersey","Monmouth County",618381
+50,1,2,34,27,"New Jersey","Morris County",491087
+50,1,2,34,29,"New Jersey","Ocean County",614237
+50,1,2,34,31,"New Jersey","Passaic County",500382
+50,1,2,34,33,"New Jersey","Salem County",62451
+50,1,2,34,35,"New Jersey","Somerset County",329331
+50,1,2,34,37,"New Jersey","Sussex County",140002
+50,1,2,34,39,"New Jersey","Union County",555394
+50,1,2,34,41,"New Jersey","Warren County",105624
+40,4,8,35,0,"New Mexico","New Mexico",2106319
+50,4,8,35,1,"New Mexico","Bernalillo County",681666
+50,4,8,35,3,"New Mexico","Catron County",3623
+50,4,8,35,5,"New Mexico","Chaves County",64711
+50,4,8,35,6,"New Mexico","Cibola County",26354
+50,4,8,35,7,"New Mexico","Colfax County",11927
+50,4,8,35,9,"New Mexico","Curry County",48793
+50,4,8,35,11,"New Mexico","De Baca County",1673
+50,4,8,35,13,"New Mexico","Do�a Ana County",221262
+50,4,8,35,15,"New Mexico","Eddy County",58418
+50,4,8,35,17,"New Mexico","Grant County",27007
+50,4,8,35,19,"New Mexico","Guadalupe County",4275
+50,4,8,35,21,"New Mexico","Harding County",638
+50,4,8,35,23,"New Mexico","Hidalgo County",4106
+50,4,8,35,25,"New Mexico","Lea County",71830
+50,4,8,35,27,"New Mexico","Lincoln County",19939
+50,4,8,35,28,"New Mexico","Los Alamos County",19462
+50,4,8,35,29,"New Mexico","Luna County",23905
+50,4,8,35,31,"New Mexico","McKinley County",70824
+50,4,8,35,33,"New Mexico","Mora County",4478
+50,4,8,35,35,"New Mexico","Otero County",67967
+50,4,8,35,37,"New Mexico","Quay County",8197
+50,4,8,35,39,"New Mexico","Rio Arriba County",38521
+50,4,8,35,41,"New Mexico","Roosevelt County",18350
+50,4,8,35,43,"New Mexico","Sandoval County",148904
+50,4,8,35,45,"New Mexico","San Juan County",123312
+50,4,8,35,47,"New Mexico","San Miguel County",27144
+50,4,8,35,49,"New Mexico","Santa Fe County",151946
+50,4,8,35,51,"New Mexico","Sierra County",10867
+50,4,8,35,53,"New Mexico","Socorro County",16541
+50,4,8,35,55,"New Mexico","Taos County",32593
+50,4,8,35,57,"New Mexico","Torrance County",15486
+50,4,8,35,59,"New Mexico","Union County",4026
+50,4,8,35,61,"New Mexico","Valencia County",77574
+40,1,2,36,0,"New York","New York",19336776
+50,1,2,36,1,"New York","Albany County",303654
+50,1,2,36,3,"New York","Allegany County",45587
+50,1,2,36,5,"New York","Bronx County",1401142
+50,1,2,36,7,"New York","Broome County",189420
+50,1,2,36,9,"New York","Cattaraugus County",75863
+50,1,2,36,11,"New York","Cayuga County",76029
+50,1,2,36,13,"New York","Chautauqua County",126032
+50,1,2,36,15,"New York","Chemung County",82622
+50,1,2,36,17,"New York","Chenango County",46730
+50,1,2,36,19,"New York","Clinton County",79778
+50,1,2,36,21,"New York","Columbia County",59534
+50,1,2,36,23,"New York","Cortland County",47173
+50,1,2,36,25,"New York","Delaware County",43938
+50,1,2,36,27,"New York","Dutchess County",293293
+50,1,2,36,29,"New York","Erie County",917241
+50,1,2,36,31,"New York","Essex County",36891
+50,1,2,36,33,"New York","Franklin County",49965
+50,1,2,36,35,"New York","Fulton County",52812
+50,1,2,36,37,"New York","Genesee County",56994
+50,1,2,36,39,"New York","Greene County",47177
+50,1,2,36,41,"New York","Hamilton County",4345
+50,1,2,36,43,"New York","Herkimer County",60945
+50,1,2,36,45,"New York","Jefferson County",108095
+50,1,2,36,47,"New York","Kings County",2538934
+50,1,2,36,49,"New York","Lewis County",26187
+50,1,2,36,51,"New York","Livingston County",62398
+50,1,2,36,53,"New York","Madison County",70478
+50,1,2,36,55,"New York","Monroe County",740900
+50,1,2,36,57,"New York","Montgomery County",49170
+50,1,2,36,59,"New York","Nassau County",1351334
+50,1,2,36,61,"New York","New York County",1611989
+50,1,2,36,63,"New York","Niagara County",208396
+50,1,2,36,65,"New York","Oneida County",227346
+50,1,2,36,67,"New York","Onondaga County",459214
+50,1,2,36,69,"New York","Ontario County",110091
+50,1,2,36,71,"New York","Orange County",385234
+50,1,2,36,73,"New York","Orleans County",39978
+50,1,2,36,75,"New York","Oswego County",116346
+50,1,2,36,77,"New York","Otsego County",58701
+50,1,2,36,79,"New York","Putnam County",98532
+50,1,2,36,81,"New York","Queens County",2225821
+50,1,2,36,83,"New York","Rensselaer County",158108
+50,1,2,36,85,"New York","Richmond County",475327
+50,1,2,36,87,"New York","Rockland County",326225
+50,1,2,36,89,"New York","St. Lawrence County",107185
+50,1,2,36,91,"New York","Saratoga County",230298
+50,1,2,36,93,"New York","Schenectady County",155358
+50,1,2,36,95,"New York","Schoharie County",31132
+50,1,2,36,97,"New York","Schuyler County",17685
+50,1,2,36,99,"New York","Seneca County",33991
+50,1,2,36,101,"New York","Steuben County",94657
+50,1,2,36,103,"New York","Suffolk County",1474273
+50,1,2,36,105,"New York","Sullivan County",75802
+50,1,2,36,107,"New York","Tioga County",47904
+50,1,2,36,109,"New York","Tompkins County",101058
+50,1,2,36,111,"New York","Ulster County",177716
+50,1,2,36,113,"New York","Warren County",63756
+50,1,2,36,115,"New York","Washington County",60606
+50,1,2,36,117,"New York","Wayne County",89339
+50,1,2,36,119,"New York","Westchester County",965802
+50,1,2,36,121,"New York","Wyoming County",39465
+50,1,2,36,123,"New York","Yates County",24780
+40,3,5,37,0,"North Carolina","North Carolina",10600823
+50,3,5,37,1,"North Carolina","Alamance County",171346
+50,3,5,37,3,"North Carolina","Alexander County",37441
+50,3,5,37,5,"North Carolina","Alleghany County",11194
+50,3,5,37,7,"North Carolina","Anson County",24097
+50,3,5,37,9,"North Carolina","Ashe County",27166
+50,3,5,37,11,"North Carolina","Avery County",17571
+50,3,5,37,13,"North Carolina","Beaufort County",47073
+50,3,5,37,15,"North Carolina","Bertie County",18712
+50,3,5,37,17,"North Carolina","Bladen County",32911
+50,3,5,37,19,"North Carolina","Brunswick County",149039
+50,3,5,37,21,"North Carolina","Buncombe County",263477
+50,3,5,37,23,"North Carolina","Burke County",90418
+50,3,5,37,25,"North Carolina","Cabarrus County",221479
+50,3,5,37,27,"North Carolina","Caldwell County",82100
+50,3,5,37,29,"North Carolina","Camden County",10984
+50,3,5,37,31,"North Carolina","Carteret County",69558
+50,3,5,37,33,"North Carolina","Caswell County",22443
+50,3,5,37,35,"North Carolina","Catawba County",160307
+50,3,5,37,37,"North Carolina","Chatham County",75748
+50,3,5,37,39,"North Carolina","Cherokee County",29073
+50,3,5,37,41,"North Carolina","Chowan County",13815
+50,3,5,37,43,"North Carolina","Clay County",11505
+50,3,5,37,45,"North Carolina","Cleveland County",99035
+50,3,5,37,47,"North Carolina","Columbus County",54754
+50,3,5,37,49,"North Carolina","Craven County",101233
+50,3,5,37,51,"North Carolina","Cumberland County",336364
+50,3,5,37,53,"North Carolina","Currituck County",29052
+50,3,5,37,55,"North Carolina","Dare County",37547
+50,3,5,37,57,"North Carolina","Davidson County",169234
+50,3,5,37,59,"North Carolina","Davie County",43286
+50,3,5,37,61,"North Carolina","Duplin County",58794
+50,3,5,37,63,"North Carolina","Durham County",327306
+50,3,5,37,65,"North Carolina","Edgecombe County",50829
+50,3,5,37,67,"North Carolina","Forsyth County",383843
+50,3,5,37,69,"North Carolina","Franklin County",71859
+50,3,5,37,71,"North Carolina","Gaston County",226568
+50,3,5,37,73,"North Carolina","Gates County",11464
+50,3,5,37,75,"North Carolina","Graham County",8474
+50,3,5,37,77,"North Carolina","Granville County",60486
+50,3,5,37,79,"North Carolina","Greene County",20928
+50,3,5,37,81,"North Carolina","Guilford County",540521
+50,3,5,37,83,"North Carolina","Halifax County",49479
+50,3,5,37,85,"North Carolina","Harnett County",137058
+50,3,5,37,87,"North Carolina","Haywood County",62972
+50,3,5,37,89,"North Carolina","Henderson County",118445
+50,3,5,37,91,"North Carolina","Hertford County",23108
+50,3,5,37,93,"North Carolina","Hoke County",55830
+50,3,5,37,95,"North Carolina","Hyde County",4843
+50,3,5,37,97,"North Carolina","Iredell County",185770
+50,3,5,37,99,"North Carolina","Jackson County",44033
+50,3,5,37,101,"North Carolina","Johnston County",216246
+50,3,5,37,103,"North Carolina","Jones County",9250
+50,3,5,37,105,"North Carolina","Lee County",62353
+50,3,5,37,107,"North Carolina","Lenoir County",55720
+50,3,5,37,109,"North Carolina","Lincoln County",88097
+50,3,5,37,111,"North Carolina","McDowell County",45782
+50,3,5,37,113,"North Carolina","Macon County",35994
+50,3,5,37,115,"North Carolina","Madison County",21740
+50,3,5,37,117,"North Carolina","Martin County",22178
+50,3,5,37,119,"North Carolina","Mecklenburg County",1128945
+50,3,5,37,121,"North Carolina","Mitchell County",14881
+50,3,5,37,123,"North Carolina","Montgomery County",27238
+50,3,5,37,125,"North Carolina","Moore County",103352
+50,3,5,37,127,"North Carolina","Nash County",94859
+50,3,5,37,129,"North Carolina","New Hanover County",236613
+50,3,5,37,131,"North Carolina","Northampton County",19088
+50,3,5,37,133,"North Carolina","Onslow County",203943
+50,3,5,37,135,"North Carolina","Orange County",149077
+50,3,5,37,137,"North Carolina","Pamlico County",12715
+50,3,5,37,139,"North Carolina","Pasquotank County",40372
+50,3,5,37,141,"North Carolina","Pender County",64671
+50,3,5,37,143,"North Carolina","Perquimans County",13667
+50,3,5,37,145,"North Carolina","Person County",39925
+50,3,5,37,147,"North Carolina","Pitt County",182924
+50,3,5,37,149,"North Carolina","Polk County",21030
+50,3,5,37,151,"North Carolina","Randolph County",144557
+50,3,5,37,153,"North Carolina","Richmond County",44332
+50,3,5,37,155,"North Carolina","Robeson County",129999
+50,3,5,37,157,"North Carolina","Rockingham County",91285
+50,3,5,37,159,"North Carolina","Rowan County",142495
+50,3,5,37,161,"North Carolina","Rutherford County",67076
+50,3,5,37,163,"North Carolina","Sampson County",63382
+50,3,5,37,165,"North Carolina","Scotland County",34637
+50,3,5,37,167,"North Carolina","Stanly County",63239
+50,3,5,37,169,"North Carolina","Stokes County",45743
+50,3,5,37,171,"North Carolina","Surry County",71683
+50,3,5,37,173,"North Carolina","Swain County",14179
+50,3,5,37,175,"North Carolina","Transylvania County",34498
+50,3,5,37,177,"North Carolina","Tyrrell County",3774
+50,3,5,37,179,"North Carolina","Union County",244562
+50,3,5,37,181,"North Carolina","Vance County",44718
+50,3,5,37,183,"North Carolina","Wake County",1132271
+50,3,5,37,185,"North Carolina","Warren County",19522
+50,3,5,37,187,"North Carolina","Washington County",11485
+50,3,5,37,189,"North Carolina","Watauga County",56441
+50,3,5,37,191,"North Carolina","Wayne County",123967
+50,3,5,37,193,"North Carolina","Wilkes County",68043
+50,3,5,37,195,"North Carolina","Wilson County",81979
+50,3,5,37,197,"North Carolina","Yadkin County",37625
+50,3,5,37,199,"North Carolina","Yancey County",18099
+40,2,4,38,0,"North Dakota","North Dakota",765309
+50,2,4,38,1,"North Dakota","Adams County",2188
+50,2,4,38,3,"North Dakota","Barnes County",10402
+50,2,4,38,5,"North Dakota","Benson County",6762
+50,2,4,38,7,"North Dakota","Billings County",890
+50,2,4,38,9,"North Dakota","Bottineau County",6287
+50,2,4,38,11,"North Dakota","Bowman County",2986
+50,2,4,38,13,"North Dakota","Burke County",2118
+50,2,4,38,15,"North Dakota","Burleigh County",96212
+50,2,4,38,17,"North Dakota","Cass County",183904
+50,2,4,38,19,"North Dakota","Cavalier County",3713
+50,2,4,38,21,"North Dakota","Dickey County",4705
+50,2,4,38,23,"North Dakota","Divide County",2277
+50,2,4,38,25,"North Dakota","Dunn County",4465
+50,2,4,38,27,"North Dakota","Eddy County",2179
+50,2,4,38,29,"North Dakota","Emmons County",3187
+50,2,4,38,31,"North Dakota","Foster County",3165
+50,2,4,38,33,"North Dakota","Golden Valley County",1737
+50,2,4,38,35,"North Dakota","Grand Forks County",69481
+50,2,4,38,37,"North Dakota","Grant County",2215
+50,2,4,38,39,"North Dakota","Griggs County",2207
+50,2,4,38,41,"North Dakota","Hettinger County",2438
+50,2,4,38,43,"North Dakota","Kidder County",2458
+50,2,4,38,45,"North Dakota","LaMoure County",4033
+50,2,4,38,47,"North Dakota","Logan County",1880
+50,2,4,38,49,"North Dakota","McHenry County",5695
+50,2,4,38,51,"North Dakota","McIntosh County",2440
+50,2,4,38,53,"North Dakota","McKenzie County",15242
+50,2,4,38,55,"North Dakota","McLean County",9416
+50,2,4,38,57,"North Dakota","Mercer County",8174
+50,2,4,38,59,"North Dakota","Morton County",31503
+50,2,4,38,61,"North Dakota","Mountrail County",10502
+50,2,4,38,63,"North Dakota","Nelson County",2789
+50,2,4,38,65,"North Dakota","Oliver County",1926
+50,2,4,38,67,"North Dakota","Pembina County",6658
+50,2,4,38,69,"North Dakota","Pierce County",3928
+50,2,4,38,71,"North Dakota","Ramsey County",11388
+50,2,4,38,73,"North Dakota","Ransom County",5173
+50,2,4,38,75,"North Dakota","Renville County",2283
+50,2,4,38,77,"North Dakota","Richland County",16156
+50,2,4,38,79,"North Dakota","Rolette County",14165
+50,2,4,38,81,"North Dakota","Sargent County",3913
+50,2,4,38,83,"North Dakota","Sheridan County",1275
+50,2,4,38,85,"North Dakota","Sioux County",4173
+50,2,4,38,87,"North Dakota","Slope County",747
+50,2,4,38,89,"North Dakota","Stark County",32107
+50,2,4,38,91,"North Dakota","Steele County",1890
+50,2,4,38,93,"North Dakota","Stutsman County",20498
+50,2,4,38,95,"North Dakota","Towner County",2108
+50,2,4,38,97,"North Dakota","Traill County",7959
+50,2,4,38,99,"North Dakota","Walsh County",10437
+50,2,4,38,101,"North Dakota","Ward County",68466
+50,2,4,38,103,"North Dakota","Wells County",3709
+50,2,4,38,105,"North Dakota","Williams County",38700
+40,2,3,39,0,"Ohio","Ohio",11693217
+50,2,3,39,1,"Ohio","Adams County",27531
+50,2,3,39,3,"Ohio","Allen County",101980
+50,2,3,39,5,"Ohio","Ashland County",53362
+50,2,3,39,7,"Ohio","Ashtabula County",96513
+50,2,3,39,9,"Ohio","Athens County",65481
+50,2,3,39,11,"Ohio","Auglaize County",45680
+50,2,3,39,13,"Ohio","Belmont County",65932
+50,2,3,39,15,"Ohio","Brown County",43414
+50,2,3,39,17,"Ohio","Butler County",385648
+50,2,3,39,19,"Ohio","Carroll County",26897
+50,2,3,39,21,"Ohio","Champaign County",38960
+50,2,3,39,23,"Ohio","Clark County",133593
+50,2,3,39,25,"Ohio","Clermont County",207449
+50,2,3,39,27,"Ohio","Clinton County",41921
+50,2,3,39,29,"Ohio","Columbiana County",101118
+50,2,3,39,31,"Ohio","Coshocton County",36449
+50,2,3,39,33,"Ohio","Crawford County",41338
+50,2,3,39,35,"Ohio","Cuyahoga County",1227883
+50,2,3,39,37,"Ohio","Darke County",51205
+50,2,3,39,39,"Ohio","Defiance County",37778
+50,2,3,39,41,"Ohio","Delaware County",213554
+50,2,3,39,43,"Ohio","Erie County",73719
+50,2,3,39,45,"Ohio","Fairfield County",159709
+50,2,3,39,47,"Ohio","Fayette County",28579
+50,2,3,39,49,"Ohio","Franklin County",1324624
+50,2,3,39,51,"Ohio","Fulton County",41889
+50,2,3,39,53,"Ohio","Gallia County",29802
+50,2,3,39,55,"Ohio","Geauga County",93271
+50,2,3,39,57,"Ohio","Greene County",170122
+50,2,3,39,59,"Ohio","Guernsey County",38779
+50,2,3,39,61,"Ohio","Hamilton County",817985
+50,2,3,39,63,"Ohio","Hancock County",75407
+50,2,3,39,65,"Ohio","Hardin County",31469
+50,2,3,39,67,"Ohio","Harrison County",15014
+50,2,3,39,69,"Ohio","Henry County",26904
+50,2,3,39,71,"Ohio","Highland County",43304
+50,2,3,39,73,"Ohio","Hocking County",28095
+50,2,3,39,75,"Ohio","Holmes County",44004
+50,2,3,39,77,"Ohio","Huron County",57979
+50,2,3,39,79,"Ohio","Jackson County",32493
+50,2,3,39,81,"Ohio","Jefferson County",64939
+50,2,3,39,83,"Ohio","Knox County",62423
+50,2,3,39,85,"Ohio","Lake County",229569
+50,2,3,39,87,"Ohio","Lawrence County",59091
+50,2,3,39,89,"Ohio","Licking County",178100
+50,2,3,39,91,"Ohio","Logan County",45326
+50,2,3,39,93,"Ohio","Lorain County",312172
+50,2,3,39,95,"Ohio","Lucas County",428294
+50,2,3,39,97,"Ohio","Madison County",44559
+50,2,3,39,99,"Ohio","Mahoning County",226075
+50,2,3,39,101,"Ohio","Marion County",64820
+50,2,3,39,103,"Ohio","Medina County",180912
+50,2,3,39,105,"Ohio","Meigs County",22678
+50,2,3,39,107,"Ohio","Mercer County",41274
+50,2,3,39,109,"Ohio","Miami County",107516
+50,2,3,39,111,"Ohio","Monroe County",13586
+50,2,3,39,113,"Ohio","Montgomery County",531610
+50,2,3,39,115,"Ohio","Morgan County",14305
+50,2,3,39,117,"Ohio","Morrow County",35411
+50,2,3,39,119,"Ohio","Muskingum County",86020
+50,2,3,39,121,"Ohio","Noble County",14364
+50,2,3,39,123,"Ohio","Ottawa County",40253
+50,2,3,39,125,"Ohio","Paulding County",18648
+50,2,3,39,127,"Ohio","Perry County",36215
+50,2,3,39,129,"Ohio","Pickaway County",58658
+50,2,3,39,131,"Ohio","Pike County",27695
+50,2,3,39,133,"Ohio","Portage County",162583
+50,2,3,39,135,"Ohio","Preble County",40836
+50,2,3,39,137,"Ohio","Putnam County",33654
+50,2,3,39,139,"Ohio","Richland County",120891
+50,2,3,39,141,"Ohio","Ross County",76420
+50,2,3,39,143,"Ohio","Sandusky County",58351
+50,2,3,39,145,"Ohio","Scioto County",74347
+50,2,3,39,147,"Ohio","Seneca County",54938
+50,2,3,39,149,"Ohio","Shelby County",48337
+50,2,3,39,151,"Ohio","Stark County",369772
+50,2,3,39,153,"Ohio","Summit County",538866
+50,2,3,39,155,"Ohio","Trumbull County",196800
+50,2,3,39,157,"Ohio","Tuscarawas County",91776
+50,2,3,39,159,"Ohio","Union County",60021
+50,2,3,39,161,"Ohio","Van Wert County",28159
+50,2,3,39,163,"Ohio","Vinton County",12972
+50,2,3,39,165,"Ohio","Warren County",238412
+50,2,3,39,167,"Ohio","Washington County",59652
+50,2,3,39,169,"Ohio","Wayne County",115694
+50,2,3,39,171,"Ohio","Williams County",36565
+50,2,3,39,173,"Ohio","Wood County",131113
+50,2,3,39,175,"Ohio","Wyandot County",21711
+40,3,7,40,0,"Oklahoma","Oklahoma",3980783
+50,3,7,40,1,"Oklahoma","Adair County",21955
+50,3,7,40,3,"Oklahoma","Alfalfa County",5718
+50,3,7,40,5,"Oklahoma","Atoka County",13912
+50,3,7,40,7,"Oklahoma","Beaver County",5207
+50,3,7,40,9,"Oklahoma","Beckham County",21468
+50,3,7,40,11,"Oklahoma","Blaine County",9447
+50,3,7,40,13,"Oklahoma","Bryan County",48998
+50,3,7,40,15,"Oklahoma","Caddo County",28684
+50,3,7,40,17,"Oklahoma","Canadian County",153192
+50,3,7,40,19,"Oklahoma","Carter County",48353
+50,3,7,40,21,"Oklahoma","Cherokee County",49019
+50,3,7,40,23,"Oklahoma","Choctaw County",14646
+50,3,7,40,25,"Oklahoma","Cimarron County",2145
+50,3,7,40,27,"Oklahoma","Cleveland County",287066
+50,3,7,40,29,"Oklahoma","Coal County",5587
+50,3,7,40,31,"Oklahoma","Comanche County",121099
+50,3,7,40,33,"Oklahoma","Cotton County",5676
+50,3,7,40,35,"Oklahoma","Craig County",14194
+50,3,7,40,37,"Oklahoma","Creek County",71485
+50,3,7,40,39,"Oklahoma","Custer County",28648
+50,3,7,40,41,"Oklahoma","Delaware County",43136
+50,3,7,40,43,"Oklahoma","Dewey County",4815
+50,3,7,40,45,"Oklahoma","Ellis County",3830
+50,3,7,40,47,"Oklahoma","Garfield County",60869
+50,3,7,40,49,"Oklahoma","Garvin County",27691
+50,3,7,40,51,"Oklahoma","Grady County",55906
+50,3,7,40,53,"Oklahoma","Grant County",4372
+50,3,7,40,55,"Oklahoma","Greer County",5704
+50,3,7,40,57,"Oklahoma","Harmon County",2557
+50,3,7,40,59,"Oklahoma","Harper County",3611
+50,3,7,40,61,"Oklahoma","Haskell County",12652
+50,3,7,40,63,"Oklahoma","Hughes County",13126
+50,3,7,40,65,"Oklahoma","Jackson County",24305
+50,3,7,40,67,"Oklahoma","Jefferson County",5949
+50,3,7,40,69,"Oklahoma","Johnston County",10824
+50,3,7,40,71,"Oklahoma","Kay County",43274
+50,3,7,40,73,"Oklahoma","Kingfisher County",15806
+50,3,7,40,75,"Oklahoma","Kiowa County",8741
+50,3,7,40,77,"Oklahoma","Latimer County",10132
+50,3,7,40,79,"Oklahoma","Le Flore County",49935
+50,3,7,40,81,"Oklahoma","Lincoln County",35045
+50,3,7,40,83,"Oklahoma","Logan County",48777
+50,3,7,40,85,"Oklahoma","Love County",10230
+50,3,7,40,87,"Oklahoma","McClain County",41348
+50,3,7,40,89,"Oklahoma","McCurtain County",32772
+50,3,7,40,91,"Oklahoma","McIntosh County",19635
+50,3,7,40,93,"Oklahoma","Major County",7579
+50,3,7,40,95,"Oklahoma","Marshall County",17114
+50,3,7,40,97,"Oklahoma","Mayes County",41152
+50,3,7,40,99,"Oklahoma","Murray County",13955
+50,3,7,40,101,"Oklahoma","Muskogee County",67610
+50,3,7,40,103,"Oklahoma","Noble County",11113
+50,3,7,40,105,"Oklahoma","Nowata County",10076
+50,3,7,40,107,"Oklahoma","Okfuskee County",11765
+50,3,7,40,109,"Oklahoma","Oklahoma County",804041
+50,3,7,40,111,"Oklahoma","Okmulgee County",38234
+50,3,7,40,113,"Oklahoma","Osage County",46642
+50,3,7,40,115,"Oklahoma","Ottawa County",30879
+50,3,7,40,117,"Oklahoma","Pawnee County",16381
+50,3,7,40,119,"Oklahoma","Payne County",81755
+50,3,7,40,121,"Oklahoma","Pittsburg County",43679
+50,3,7,40,123,"Oklahoma","Pontotoc County",38397
+50,3,7,40,125,"Oklahoma","Pottawatomie County",72998
+50,3,7,40,127,"Oklahoma","Pushmataha County",10970
+50,3,7,40,129,"Oklahoma","Roger Mills County",3570
+50,3,7,40,131,"Oklahoma","Rogers County",93155
+50,3,7,40,133,"Oklahoma","Seminole County",24248
+50,3,7,40,135,"Oklahoma","Sequoyah County",41538
+50,3,7,40,137,"Oklahoma","Stephens County",43100
+50,3,7,40,139,"Oklahoma","Texas County",19997
+50,3,7,40,141,"Oklahoma","Tillman County",7229
+50,3,7,40,143,"Oklahoma","Tulsa County",657589
+50,3,7,40,145,"Oklahoma","Wagoner County",82925
+50,3,7,40,147,"Oklahoma","Washington County",52222
+50,3,7,40,149,"Oklahoma","Washita County",10830
+50,3,7,40,151,"Oklahoma","Woods County",8687
+50,3,7,40,153,"Oklahoma","Woodward County",19812
+40,4,9,41,0,"Oregon","Oregon",4241507
+50,4,9,41,1,"Oregon","Baker County",16284
+50,4,9,41,3,"Oregon","Benton County",93239
+50,4,9,41,5,"Oregon","Clackamas County",421596
+50,4,9,41,7,"Oregon","Clatsop County",40423
+50,4,9,41,9,"Oregon","Columbia County",52876
+50,4,9,41,11,"Oregon","Coos County",64711
+50,4,9,41,13,"Oregon","Crook County",25105
+50,4,9,41,15,"Oregon","Curry County",23305
+50,4,9,41,17,"Oregon","Deschutes County",201769
+50,4,9,41,19,"Oregon","Douglas County",111364
+50,4,9,41,21,"Oregon","Gilliam County",1975
+50,4,9,41,23,"Oregon","Grant County",7180
+50,4,9,41,25,"Oregon","Harney County",7373
+50,4,9,41,27,"Oregon","Hood River County",23280
+50,4,9,41,29,"Oregon","Jackson County",221844
+50,4,9,41,31,"Oregon","Jefferson County",24856
+50,4,9,41,33,"Oregon","Josephine County",88053
+50,4,9,41,35,"Oregon","Klamath County",68739
+50,4,9,41,37,"Oregon","Lake County",7949
+50,4,9,41,39,"Oregon","Lane County",382986
+50,4,9,41,41,"Oregon","Lincoln County",50583
+50,4,9,41,43,"Oregon","Linn County",131054
+50,4,9,41,45,"Oregon","Malheur County",30983
+50,4,9,41,47,"Oregon","Marion County",349204
+50,4,9,41,49,"Oregon","Morrow County",11700
+50,4,9,41,51,"Oregon","Multnomah County",815637
+50,4,9,41,53,"Oregon","Polk County",87744
+50,4,9,41,55,"Oregon","Sherman County",1801
+50,4,9,41,57,"Oregon","Tillamook County",27442
+50,4,9,41,59,"Oregon","Umatilla County",77752
+50,4,9,41,61,"Oregon","Union County",26551
+50,4,9,41,63,"Oregon","Wallowa County",7181
+50,4,9,41,65,"Oregon","Wasco County",26403
+50,4,9,41,67,"Oregon","Washington County",603514
+50,4,9,41,69,"Oregon","Wheeler County",1387
+50,4,9,41,71,"Oregon","Yamhill County",107664
+40,1,2,42,0,"Pennsylvania","Pennsylvania",12783254
+50,1,2,42,1,"Pennsylvania","Adams County",102742
+50,1,2,42,3,"Pennsylvania","Allegheny County",1211358
+50,1,2,42,5,"Pennsylvania","Armstrong County",64162
+50,1,2,42,7,"Pennsylvania","Beaver County",162575
+50,1,2,42,9,"Pennsylvania","Bedford County",47817
+50,1,2,42,11,"Pennsylvania","Berks County",421017
+50,1,2,42,13,"Pennsylvania","Blair County",121007
+50,1,2,42,15,"Pennsylvania","Bradford County",60221
+50,1,2,42,17,"Pennsylvania","Bucks County",627987
+50,1,2,42,19,"Pennsylvania","Butler County",189135
+50,1,2,42,21,"Pennsylvania","Cambria County",128672
+50,1,2,42,23,"Pennsylvania","Cameron County",4330
+50,1,2,42,25,"Pennsylvania","Carbon County",64081
+50,1,2,42,27,"Pennsylvania","Centre County",161496
+50,1,2,42,29,"Pennsylvania","Chester County",526759
+50,1,2,42,31,"Pennsylvania","Clarion County",38305
+50,1,2,42,33,"Pennsylvania","Clearfield County",78612
+50,1,2,42,35,"Pennsylvania","Clinton County",37957
+50,1,2,42,37,"Pennsylvania","Columbia County",64842
+50,1,2,42,39,"Pennsylvania","Crawford County",83697
+50,1,2,42,41,"Pennsylvania","Cumberland County",255857
+50,1,2,42,43,"Pennsylvania","Dauphin County",279874
+50,1,2,42,45,"Pennsylvania","Delaware County",566753
+50,1,2,42,47,"Pennsylvania","Elk County",29607
+50,1,2,42,49,"Pennsylvania","Erie County",268426
+50,1,2,42,51,"Pennsylvania","Fayette County",128126
+50,1,2,42,53,"Pennsylvania","Forest County",6965
+50,1,2,42,55,"Pennsylvania","Franklin County",155637
+50,1,2,42,57,"Pennsylvania","Fulton County",14501
+50,1,2,42,59,"Pennsylvania","Greene County",35621
+50,1,2,42,61,"Pennsylvania","Huntingdon County",44590
+50,1,2,42,63,"Pennsylvania","Indiana County",83664
+50,1,2,42,65,"Pennsylvania","Jefferson County",43108
+50,1,2,42,67,"Pennsylvania","Juniata County",24619
+50,1,2,42,69,"Pennsylvania","Lackawanna County",208989
+50,1,2,42,71,"Pennsylvania","Lancaster County",546192
+50,1,2,42,73,"Pennsylvania","Lawrence County",85083
+50,1,2,42,75,"Pennsylvania","Lebanon County",141663
+50,1,2,42,77,"Pennsylvania","Lehigh County",370802
+50,1,2,42,79,"Pennsylvania","Luzerne County",316982
+50,1,2,42,81,"Pennsylvania","Lycoming County",113209
+50,1,2,42,83,"Pennsylvania","McKean County",40333
+50,1,2,42,85,"Pennsylvania","Mercer County",108545
+50,1,2,42,87,"Pennsylvania","Mifflin County",46064
+50,1,2,42,89,"Pennsylvania","Monroe County",170154
+50,1,2,42,91,"Pennsylvania","Montgomery County",833869
+50,1,2,42,93,"Pennsylvania","Montour County",18042
+50,1,2,42,95,"Pennsylvania","Northampton County",305892
+50,1,2,42,97,"Pennsylvania","Northumberland County",90258
+50,1,2,42,99,"Pennsylvania","Perry County",46212
+50,1,2,42,101,"Pennsylvania","Philadelphia County",1578487
+50,1,2,42,103,"Pennsylvania","Pike County",56072
+50,1,2,42,105,"Pennsylvania","Potter County",16453
+50,1,2,42,107,"Pennsylvania","Schuylkill County",140709
+50,1,2,42,109,"Pennsylvania","Snyder County",40317
+50,1,2,42,111,"Pennsylvania","Somerset County",72916
+50,1,2,42,113,"Pennsylvania","Sullivan County",5913
+50,1,2,42,115,"Pennsylvania","Susquehanna County",40006
+50,1,2,42,117,"Pennsylvania","Tioga County",40381
+50,1,2,42,119,"Pennsylvania","Union County",44294
+50,1,2,42,121,"Pennsylvania","Venango County",50328
+50,1,2,42,123,"Pennsylvania","Warren County",38911
+50,1,2,42,125,"Pennsylvania","Washington County",206803
+50,1,2,42,127,"Pennsylvania","Wayne County",51163
+50,1,2,42,129,"Pennsylvania","Westmoreland County",347087
+50,1,2,42,131,"Pennsylvania","Wyoming County",26557
+50,1,2,42,133,"Pennsylvania","York County",450448
+40,1,1,44,0,"Rhode Island","Rhode Island",1057125
+50,1,1,44,1,"Rhode Island","Bristol County",48350
+50,1,1,44,3,"Rhode Island","Kent County",164646
+50,1,1,44,5,"Rhode Island","Newport County",81836
+50,1,1,44,7,"Rhode Island","Providence County",636547
+50,1,1,44,9,"Rhode Island","Washington County",125746
+40,3,5,45,0,"South Carolina","South Carolina",5218040
+50,3,5,45,1,"South Carolina","Abbeville County",24404
+50,3,5,45,3,"South Carolina","Aiken County",172895
+50,3,5,45,5,"South Carolina","Allendale County",8331
+50,3,5,45,7,"South Carolina","Anderson County",204353
+50,3,5,45,9,"South Carolina","Bamberg County",13906
+50,3,5,45,11,"South Carolina","Barnwell County",20805
+50,3,5,45,13,"South Carolina","Beaufort County",195656
+50,3,5,45,15,"South Carolina","Berkeley County",235987
+50,3,5,45,17,"South Carolina","Calhoun County",14554
+50,3,5,45,19,"South Carolina","Charleston County",417981
+50,3,5,45,21,"South Carolina","Cherokee County",57316
+50,3,5,45,23,"South Carolina","Chester County",32232
+50,3,5,45,25,"South Carolina","Chesterfield County",45606
+50,3,5,45,27,"South Carolina","Clarendon County",33415
+50,3,5,45,29,"South Carolina","Colleton County",37481
+50,3,5,45,31,"South Carolina","Darlington County",66509
+50,3,5,45,33,"South Carolina","Dillon County",30367
+50,3,5,45,35,"South Carolina","Dorchester County",165737
+50,3,5,45,37,"South Carolina","Edgefield County",27120
+50,3,5,45,39,"South Carolina","Fairfield County",22059
+50,3,5,45,41,"South Carolina","Florence County",137588
+50,3,5,45,43,"South Carolina","Georgetown County",63353
+50,3,5,45,45,"South Carolina","Greenville County",532486
+50,3,5,45,47,"South Carolina","Greenwood County",71074
+50,3,5,45,49,"South Carolina","Hampton County",18053
+50,3,5,45,51,"South Carolina","Horry County",365449
+50,3,5,45,53,"South Carolina","Jasper County",31588
+50,3,5,45,55,"South Carolina","Kershaw County",67472
+50,3,5,45,57,"South Carolina","Lancaster County",100926
+50,3,5,45,59,"South Carolina","Laurens County",67883
+50,3,5,45,61,"South Carolina","Lee County",16701
+50,3,5,45,63,"South Carolina","Lexington County",303946
+50,3,5,45,65,"South Carolina","McCormick County",9430
+50,3,5,45,67,"South Carolina","Marion County",30158
+50,3,5,45,69,"South Carolina","Marlboro County",25581
+50,3,5,45,71,"South Carolina","Newberry County",38445
+50,3,5,45,73,"South Carolina","Oconee County",80015
+50,3,5,45,75,"South Carolina","Orangeburg County",85343
+50,3,5,45,77,"South Carolina","Pickens County",127983
+50,3,5,45,79,"South Carolina","Richland County",419051
+50,3,5,45,81,"South Carolina","Saluda County",20315
+50,3,5,45,83,"South Carolina","Spartanburg County",326205
+50,3,5,45,85,"South Carolina","Sumter County",106360
+50,3,5,45,87,"South Carolina","Union County",26991
+50,3,5,45,89,"South Carolina","Williamsburg County",29825
+50,3,5,45,91,"South Carolina","York County",289105
+40,2,4,46,0,"South Dakota","South Dakota",892717
+50,2,4,46,3,"South Dakota","Aurora County",2730
+50,2,4,46,5,"South Dakota","Beadle County",18513
+50,2,4,46,7,"South Dakota","Bennett County",3399
+50,2,4,46,9,"South Dakota","Bon Homme County",6848
+50,2,4,46,11,"South Dakota","Brookings County",35603
+50,2,4,46,13,"South Dakota","Brown County",38738
+50,2,4,46,15,"South Dakota","Brule County",5254
+50,2,4,46,17,"South Dakota","Buffalo County",1956
+50,2,4,46,19,"South Dakota","Butte County",10538
+50,2,4,46,21,"South Dakota","Campbell County",1380
+50,2,4,46,23,"South Dakota","Charles Mix County",9262
+50,2,4,46,25,"South Dakota","Clark County",3802
+50,2,4,46,27,"South Dakota","Clay County",14246
+50,2,4,46,29,"South Dakota","Codington County",28186
+50,2,4,46,31,"South Dakota","Corson County",4031
+50,2,4,46,33,"South Dakota","Custer County",9017
+50,2,4,46,35,"South Dakota","Davison County",19812
+50,2,4,46,37,"South Dakota","Day County",5345
+50,2,4,46,39,"South Dakota","Deuel County",4346
+50,2,4,46,41,"South Dakota","Dewey County",5789
+50,2,4,46,43,"South Dakota","Douglas County",2906
+50,2,4,46,45,"South Dakota","Edmunds County",3817
+50,2,4,46,47,"South Dakota","Fall River County",6708
+50,2,4,46,49,"South Dakota","Faulk County",2306
+50,2,4,46,51,"South Dakota","Grant County",7000
+50,2,4,46,53,"South Dakota","Gregory County",4219
+50,2,4,46,55,"South Dakota","Haakon County",1861
+50,2,4,46,57,"South Dakota","Hamlin County",6234
+50,2,4,46,59,"South Dakota","Hand County",3127
+50,2,4,46,61,"South Dakota","Hanson County",3489
+50,2,4,46,63,"South Dakota","Harding County",1311
+50,2,4,46,65,"South Dakota","Hughes County",17336
+50,2,4,46,67,"South Dakota","Hutchinson County",7282
+50,2,4,46,69,"South Dakota","Hyde County",1281
+50,2,4,46,71,"South Dakota","Jackson County",3321
+50,2,4,46,73,"South Dakota","Jerauld County",1985
+50,2,4,46,75,"South Dakota","Jones County",938
+50,2,4,46,77,"South Dakota","Kingsbury County",4987
+50,2,4,46,79,"South Dakota","Lake County",12488
+50,2,4,46,81,"South Dakota","Lawrence County",26221
+50,2,4,46,83,"South Dakota","Lincoln County",63019
+50,2,4,46,85,"South Dakota","Lyman County",3797
+50,2,4,46,87,"South Dakota","McCook County",5520
+50,2,4,46,89,"South Dakota","McPherson County",2363
+50,2,4,46,91,"South Dakota","Marshall County",4884
+50,2,4,46,93,"South Dakota","Meade County",28588
+50,2,4,46,95,"South Dakota","Mellette County",2089
+50,2,4,46,97,"South Dakota","Miner County",2202
+50,2,4,46,99,"South Dakota","Minnehaha County",196659
+50,2,4,46,101,"South Dakota","Moody County",6525
+50,2,4,46,102,"South Dakota","Oglala Lakota County",14070
+50,2,4,46,103,"South Dakota","Pennington County",115926
+50,2,4,46,105,"South Dakota","Perkins County",2832
+50,2,4,46,107,"South Dakota","Potter County",2163
+50,2,4,46,109,"South Dakota","Roberts County",10331
+50,2,4,46,111,"South Dakota","Sanborn County",2322
+50,2,4,46,115,"South Dakota","Spink County",6319
+50,2,4,46,117,"South Dakota","Stanley County",3121
+50,2,4,46,119,"South Dakota","Sully County",1391
+50,2,4,46,121,"South Dakota","Todd County",10313
+50,2,4,46,123,"South Dakota","Tripp County",5377
+50,2,4,46,125,"South Dakota","Turner County",8368
+50,2,4,46,127,"South Dakota","Union County",16192
+50,2,4,46,129,"South Dakota","Walworth County",5336
+50,2,4,46,135,"South Dakota","Yankton County",22742
+50,2,4,46,137,"South Dakota","Ziebach County",2656
+40,3,6,47,0,"Tennessee","Tennessee",6886834
+50,3,6,47,1,"Tennessee","Anderson County",77558
+50,3,6,47,3,"Tennessee","Bedford County",50179
+50,3,6,47,5,"Tennessee","Benton County",16131
+50,3,6,47,7,"Tennessee","Bledsoe County",15223
+50,3,6,47,9,"Tennessee","Blount County",134751
+50,3,6,47,11,"Tennessee","Bradley County",109071
+50,3,6,47,13,"Tennessee","Campbell County",39837
+50,3,6,47,15,"Tennessee","Cannon County",14847
+50,3,6,47,17,"Tennessee","Carroll County",27779
+50,3,6,47,19,"Tennessee","Carter County",56418
+50,3,6,47,21,"Tennessee","Cheatham County",41101
+50,3,6,47,23,"Tennessee","Chester County",17432
+50,3,6,47,25,"Tennessee","Claiborne County",32023
+50,3,6,47,27,"Tennessee","Clay County",7629
+50,3,6,47,29,"Tennessee","Cocke County",36225
+50,3,6,47,31,"Tennessee","Coffee County",57632
+50,3,6,47,33,"Tennessee","Crockett County",14180
+50,3,6,47,35,"Tennessee","Cumberland County",61603
+50,3,6,47,37,"Tennessee","Davidson County",694176
+50,3,6,47,39,"Tennessee","Decatur County",11601
+50,3,6,47,41,"Tennessee","DeKalb County",20837
+50,3,6,47,43,"Tennessee","Dickson County",54376
+50,3,6,47,45,"Tennessee","Dyer County",36693
+50,3,6,47,47,"Tennessee","Fayette County",41620
+50,3,6,47,49,"Tennessee","Fentress County",18787
+50,3,6,47,51,"Tennessee","Franklin County",42485
+50,3,6,47,53,"Tennessee","Gibson County",49159
+50,3,6,47,55,"Tennessee","Giles County",29530
+50,3,6,47,57,"Tennessee","Grainger County",23565
+50,3,6,47,59,"Tennessee","Greene County",69571
+50,3,6,47,61,"Tennessee","Grundy County",13485
+50,3,6,47,63,"Tennessee","Hamblen County",65110
+50,3,6,47,65,"Tennessee","Hamilton County",371662
+50,3,6,47,67,"Tennessee","Hancock County",6493
+50,3,6,47,69,"Tennessee","Hardeman County",24836
+50,3,6,47,71,"Tennessee","Hardin County",25583
+50,3,6,47,73,"Tennessee","Hawkins County",56775
+50,3,6,47,75,"Tennessee","Haywood County",17002
+50,3,6,47,77,"Tennessee","Henderson County",28076
+50,3,6,47,79,"Tennessee","Henry County",32056
+50,3,6,47,81,"Tennessee","Hickman County",25387
+50,3,6,47,83,"Tennessee","Houston County",8292
+50,3,6,47,85,"Tennessee","Humphreys County",18590
+50,3,6,47,87,"Tennessee","Jackson County",11864
+50,3,6,47,89,"Tennessee","Jefferson County",55307
+50,3,6,47,91,"Tennessee","Johnson County",17849
+50,3,6,47,93,"Tennessee","Knox County",475609
+50,3,6,47,95,"Tennessee","Lake County",6988
+50,3,6,47,97,"Tennessee","Lauderdale County",25451
+50,3,6,47,99,"Tennessee","Lawrence County",44432
+50,3,6,47,101,"Tennessee","Lewis County",12363
+50,3,6,47,103,"Tennessee","Lincoln County",34540
+50,3,6,47,105,"Tennessee","Loudon County",54910
+50,3,6,47,107,"Tennessee","McMinn County",54208
+50,3,6,47,109,"Tennessee","McNairy County",25696
+50,3,6,47,111,"Tennessee","Macon County",24827
+50,3,6,47,113,"Tennessee","Madison County",98360
+50,3,6,47,115,"Tennessee","Marion County",28924
+50,3,6,47,117,"Tennessee","Marshall County",35016
+50,3,6,47,119,"Tennessee","Maury County",99590
+50,3,6,47,121,"Tennessee","Meigs County",12532
+50,3,6,47,123,"Tennessee","Monroe County",47177
+50,3,6,47,125,"Tennessee","Montgomery County",214251
+50,3,6,47,127,"Tennessee","Moore County",6438
+50,3,6,47,129,"Tennessee","Morgan County",21431
+50,3,6,47,131,"Tennessee","Obion County",30131
+50,3,6,47,133,"Tennessee","Overton County",22566
+50,3,6,47,135,"Tennessee","Perry County",8099
+50,3,6,47,137,"Tennessee","Pickett County",5061
+50,3,6,47,139,"Tennessee","Polk County",16835
+50,3,6,47,141,"Tennessee","Putnam County",80929
+50,3,6,47,143,"Tennessee","Rhea County",33443
+50,3,6,47,145,"Tennessee","Roane County",53841
+50,3,6,47,147,"Tennessee","Robertson County",72275
+50,3,6,47,149,"Tennessee","Rutherford County",339261
+50,3,6,47,151,"Tennessee","Scott County",22090
+50,3,6,47,153,"Tennessee","Sequatchie County",15176
+50,3,6,47,155,"Tennessee","Sevier County",99244
+50,3,6,47,157,"Tennessee","Shelby County",936017
+50,3,6,47,159,"Tennessee","Smith County",20285
+50,3,6,47,161,"Tennessee","Stewart County",13859
+50,3,6,47,163,"Tennessee","Sullivan County",158755
+50,3,6,47,165,"Tennessee","Sumner County",195561
+50,3,6,47,167,"Tennessee","Tipton County",61918
+50,3,6,47,169,"Tennessee","Trousdale County",11455
+50,3,6,47,171,"Tennessee","Unicoi County",17755
+50,3,6,47,173,"Tennessee","Union County",20187
+50,3,6,47,175,"Tennessee","Van Buren County",5947
+50,3,6,47,177,"Tennessee","Warren County",41605
+50,3,6,47,179,"Tennessee","Washington County",130367
+50,3,6,47,181,"Tennessee","Wayne County",16524
+50,3,6,47,183,"Tennessee","Weakley County",33334
+50,3,6,47,185,"Tennessee","White County",27707
+50,3,6,47,187,"Tennessee","Williamson County",245348
+50,3,6,47,189,"Tennessee","Wilson County",148130
+40,3,7,48,0,"Texas","Texas",29360759
+50,3,7,48,1,"Texas","Anderson County",57805
+50,3,7,48,3,"Texas","Andrews County",18879
+50,3,7,48,5,"Texas","Angelina County",86796
+50,3,7,48,7,"Texas","Aransas County",23814
+50,3,7,48,9,"Texas","Archer County",8730
+50,3,7,48,11,"Texas","Armstrong County",1869
+50,3,7,48,13,"Texas","Atascosa County",51724
+50,3,7,48,15,"Texas","Austin County",29972
+50,3,7,48,17,"Texas","Bailey County",6697
+50,3,7,48,19,"Texas","Bandera County",23861
+50,3,7,48,21,"Texas","Bastrop County",91601
+50,3,7,48,23,"Texas","Baylor County",3518
+50,3,7,48,25,"Texas","Bee County",32513
+50,3,7,48,27,"Texas","Bell County",369927
+50,3,7,48,29,"Texas","Bexar County",2026823
+50,3,7,48,31,"Texas","Blanco County",12269
+50,3,7,48,33,"Texas","Borden County",706
+50,3,7,48,35,"Texas","Bosque County",18603
+50,3,7,48,37,"Texas","Bowie County",93481
+50,3,7,48,39,"Texas","Brazoria County",380518
+50,3,7,48,41,"Texas","Brazos County",232555
+50,3,7,48,43,"Texas","Brewster County",9237
+50,3,7,48,45,"Texas","Briscoe County",1487
+50,3,7,48,47,"Texas","Brooks County",6964
+50,3,7,48,49,"Texas","Brown County",37633
+50,3,7,48,51,"Texas","Burleson County",18514
+50,3,7,48,53,"Texas","Burnet County",49653
+50,3,7,48,55,"Texas","Caldwell County",43979
+50,3,7,48,57,"Texas","Calhoun County",21001
+50,3,7,48,59,"Texas","Callahan County",14110
+50,3,7,48,61,"Texas","Cameron County",424180
+50,3,7,48,63,"Texas","Camp County",13060
+50,3,7,48,65,"Texas","Carson County",5854
+50,3,7,48,67,"Texas","Cass County",29879
+50,3,7,48,69,"Texas","Castro County",7396
+50,3,7,48,71,"Texas","Chambers County",45590
+50,3,7,48,73,"Texas","Cherokee County",52875
+50,3,7,48,75,"Texas","Childress County",7143
+50,3,7,48,77,"Texas","Clay County",10550
+50,3,7,48,79,"Texas","Cochran County",2897
+50,3,7,48,81,"Texas","Coke County",3323
+50,3,7,48,83,"Texas","Coleman County",8100
+50,3,7,48,85,"Texas","Collin County",1072069
+50,3,7,48,87,"Texas","Collingsworth County",2877
+50,3,7,48,89,"Texas","Colorado County",21610
+50,3,7,48,91,"Texas","Comal County",164812
+50,3,7,48,93,"Texas","Comanche County",13750
+50,3,7,48,95,"Texas","Concho County",2827
+50,3,7,48,97,"Texas","Cooke County",41393
+50,3,7,48,99,"Texas","Coryell County",76737
+50,3,7,48,101,"Texas","Cottle County",1363
+50,3,7,48,103,"Texas","Crane County",4765
+50,3,7,48,105,"Texas","Crockett County",3513
+50,3,7,48,107,"Texas","Crosby County",5567
+50,3,7,48,109,"Texas","Culberson County",2149
+50,3,7,48,111,"Texas","Dallam County",7273
+50,3,7,48,113,"Texas","Dallas County",2635888
+50,3,7,48,115,"Texas","Dawson County",12974
+50,3,7,48,117,"Texas","Deaf Smith County",18277
+50,3,7,48,119,"Texas","Delta County",5349
+50,3,7,48,121,"Texas","Denton County",919324
+50,3,7,48,123,"Texas","DeWitt County",20174
+50,3,7,48,125,"Texas","Dickens County",2140
+50,3,7,48,127,"Texas","Dimmit County",9925
+50,3,7,48,129,"Texas","Donley County",3308
+50,3,7,48,131,"Texas","Duval County",11058
+50,3,7,48,133,"Texas","Eastland County",18388
+50,3,7,48,135,"Texas","Ector County",167701
+50,3,7,48,137,"Texas","Edwards County",1923
+50,3,7,48,139,"Texas","Ellis County",191760
+50,3,7,48,141,"Texas","El Paso County",841286
+50,3,7,48,143,"Texas","Erath County",43224
+50,3,7,48,145,"Texas","Falls County",17275
+50,3,7,48,147,"Texas","Fannin County",35913
+50,3,7,48,149,"Texas","Fayette County",25547
+50,3,7,48,151,"Texas","Fisher County",3784
+50,3,7,48,153,"Texas","Floyd County",5672
+50,3,7,48,155,"Texas","Foard County",1135
+50,3,7,48,157,"Texas","Fort Bend County",839706
+50,3,7,48,159,"Texas","Franklin County",10821
+50,3,7,48,161,"Texas","Freestone County",19874
+50,3,7,48,163,"Texas","Frio County",20379
+50,3,7,48,165,"Texas","Gaines County",21996
+50,3,7,48,167,"Texas","Galveston County",345089
+50,3,7,48,169,"Texas","Garza County",6222
+50,3,7,48,171,"Texas","Gillespie County",26960
+50,3,7,48,173,"Texas","Glasscock County",1439
+50,3,7,48,175,"Texas","Goliad County",7626
+50,3,7,48,177,"Texas","Gonzales County",20948
+50,3,7,48,179,"Texas","Gray County",21658
+50,3,7,48,181,"Texas","Grayson County",138318
+50,3,7,48,183,"Texas","Gregg County",124229
+50,3,7,48,185,"Texas","Grimes County",29614
+50,3,7,48,187,"Texas","Guadalupe County",170608
+50,3,7,48,189,"Texas","Hale County",32754
+50,3,7,48,191,"Texas","Hall County",2939
+50,3,7,48,193,"Texas","Hamilton County",8557
+50,3,7,48,195,"Texas","Hansford County",5279
+50,3,7,48,197,"Texas","Hardeman County",4011
+50,3,7,48,199,"Texas","Hardin County",58305
+50,3,7,48,201,"Texas","Harris County",4738253
+50,3,7,48,203,"Texas","Harrison County",66386
+50,3,7,48,205,"Texas","Hartley County",5443
+50,3,7,48,207,"Texas","Haskell County",5754
+50,3,7,48,209,"Texas","Hays County",241365
+50,3,7,48,211,"Texas","Hemphill County",3777
+50,3,7,48,213,"Texas","Henderson County",83792
+50,3,7,48,215,"Texas","Hidalgo County",875200
+50,3,7,48,217,"Texas","Hill County",37006
+50,3,7,48,219,"Texas","Hockley County",22921
+50,3,7,48,221,"Texas","Hood County",63527
+50,3,7,48,223,"Texas","Hopkins County",37170
+50,3,7,48,225,"Texas","Houston County",22835
+50,3,7,48,227,"Texas","Howard County",36540
+50,3,7,48,229,"Texas","Hudspeth County",4906
+50,3,7,48,231,"Texas","Hunt County",99807
+50,3,7,48,233,"Texas","Hutchinson County",20677
+50,3,7,48,235,"Texas","Irion County",1564
+50,3,7,48,237,"Texas","Jack County",9056
+50,3,7,48,239,"Texas","Jackson County",14854
+50,3,7,48,241,"Texas","Jasper County",35375
+50,3,7,48,243,"Texas","Jeff Davis County",2220
+50,3,7,48,245,"Texas","Jefferson County",250127
+50,3,7,48,247,"Texas","Jim Hogg County",5184
+50,3,7,48,249,"Texas","Jim Wells County",40452
+50,3,7,48,251,"Texas","Johnson County",179575
+50,3,7,48,253,"Texas","Jones County",19875
+50,3,7,48,255,"Texas","Karnes County",15562
+50,3,7,48,257,"Texas","Kaufman County",143198
+50,3,7,48,259,"Texas","Kendall County",48523
+50,3,7,48,261,"Texas","Kenedy County",379
+50,3,7,48,263,"Texas","Kent County",786
+50,3,7,48,265,"Texas","Kerr County",52869
+50,3,7,48,267,"Texas","Kimble County",4396
+50,3,7,48,269,"Texas","King County",283
+50,3,7,48,271,"Texas","Kinney County",3670
+50,3,7,48,273,"Texas","Kleberg County",30338
+50,3,7,48,275,"Texas","Knox County",3683
+50,3,7,48,277,"Texas","Lamar County",49905
+50,3,7,48,279,"Texas","Lamb County",12710
+50,3,7,48,281,"Texas","Lampasas County",21789
+50,3,7,48,283,"Texas","La Salle County",7500
+50,3,7,48,285,"Texas","Lavaca County",20216
+50,3,7,48,287,"Texas","Lee County",17397
+50,3,7,48,289,"Texas","Leon County",17493
+50,3,7,48,291,"Texas","Liberty County",91547
+50,3,7,48,293,"Texas","Limestone County",23340
+50,3,7,48,295,"Texas","Lipscomb County",3111
+50,3,7,48,297,"Texas","Live Oak County",12324
+50,3,7,48,299,"Texas","Llano County",21958
+50,3,7,48,301,"Texas","Loving County",181
+50,3,7,48,303,"Texas","Lubbock County",314772
+50,3,7,48,305,"Texas","Lynn County",6025
+50,3,7,48,307,"Texas","McCulloch County",7823
+50,3,7,48,309,"Texas","McLennan County",259730
+50,3,7,48,311,"Texas","McMullen County",721
+50,3,7,48,313,"Texas","Madison County",14427
+50,3,7,48,315,"Texas","Marion County",9960
+50,3,7,48,317,"Texas","Martin County",5816
+50,3,7,48,319,"Texas","Mason County",4344
+50,3,7,48,321,"Texas","Matagorda County",36725
+50,3,7,48,323,"Texas","Maverick County",58378
+50,3,7,48,325,"Texas","Medina County",52358
+50,3,7,48,327,"Texas","Menard County",2124
+50,3,7,48,329,"Texas","Midland County",177863
+50,3,7,48,331,"Texas","Milam County",24708
+50,3,7,48,333,"Texas","Mills County",4840
+50,3,7,48,335,"Texas","Mitchell County",8202
+50,3,7,48,337,"Texas","Montague County",19962
+50,3,7,48,339,"Texas","Montgomery County",626351
+50,3,7,48,341,"Texas","Moore County",20654
+50,3,7,48,343,"Texas","Morris County",12393
+50,3,7,48,345,"Texas","Motley County",1185
+50,3,7,48,347,"Texas","Nacogdoches County",64753
+50,3,7,48,349,"Texas","Navarro County",50694
+50,3,7,48,351,"Texas","Newton County",13414
+50,3,7,48,353,"Texas","Nolan County",14835
+50,3,7,48,355,"Texas","Nueces County",363148
+50,3,7,48,357,"Texas","Ochiltree County",9598
+50,3,7,48,359,"Texas","Oldham County",2135
+50,3,7,48,361,"Texas","Orange County",82878
+50,3,7,48,363,"Texas","Palo Pinto County",29320
+50,3,7,48,365,"Texas","Panola County",23187
+50,3,7,48,367,"Texas","Parker County",148198
+50,3,7,48,369,"Texas","Parmer County",9522
+50,3,7,48,371,"Texas","Pecos County",15718
+50,3,7,48,373,"Texas","Polk County",52995
+50,3,7,48,375,"Texas","Potter County",116004
+50,3,7,48,377,"Texas","Presidio County",6508
+50,3,7,48,379,"Texas","Rains County",12552
+50,3,7,48,381,"Texas","Randall County",139899
+50,3,7,48,383,"Texas","Reagan County",3833
+50,3,7,48,385,"Texas","Real County",3411
+50,3,7,48,387,"Texas","Red River County",11995
+50,3,7,48,389,"Texas","Reeves County",15949
+50,3,7,48,391,"Texas","Refugio County",6877
+50,3,7,48,393,"Texas","Roberts County",813
+50,3,7,48,395,"Texas","Robertson County",17155
+50,3,7,48,397,"Texas","Rockwall County",109888
+50,3,7,48,399,"Texas","Runnels County",10401
+50,3,7,48,401,"Texas","Rusk County",54324
+50,3,7,48,403,"Texas","Sabine County",10507
+50,3,7,48,405,"Texas","San Augustine County",8248
+50,3,7,48,407,"Texas","San Jacinto County",29301
+50,3,7,48,409,"Texas","San Patricio County",67069
+50,3,7,48,411,"Texas","San Saba County",6039
+50,3,7,48,413,"Texas","Schleicher County",2761
+50,3,7,48,415,"Texas","Scurry County",16662
+50,3,7,48,417,"Texas","Shackelford County",3300
+50,3,7,48,419,"Texas","Shelby County",24915
+50,3,7,48,421,"Texas","Sherman County",3027
+50,3,7,48,423,"Texas","Smith County",235806
+50,3,7,48,425,"Texas","Somervell County",9139
+50,3,7,48,427,"Texas","Starr County",64266
+50,3,7,48,429,"Texas","Stephens County",9334
+50,3,7,48,431,"Texas","Sterling County",1315
+50,3,7,48,433,"Texas","Stonewall County",1348
+50,3,7,48,435,"Texas","Sutton County",3738
+50,3,7,48,437,"Texas","Swisher County",7340
+50,3,7,48,439,"Texas","Tarrant County",2123347
+50,3,7,48,441,"Texas","Taylor County",139200
+50,3,7,48,443,"Texas","Terrell County",702
+50,3,7,48,445,"Texas","Terry County",12183
+50,3,7,48,447,"Texas","Throckmorton County",1487
+50,3,7,48,449,"Texas","Titus County",32926
+50,3,7,48,451,"Texas","Tom Green County",120010
+50,3,7,48,453,"Texas","Travis County",1300503
+50,3,7,48,455,"Texas","Trinity County",14883
+50,3,7,48,457,"Texas","Tyler County",21591
+50,3,7,48,459,"Texas","Upshur County",42166
+50,3,7,48,461,"Texas","Upton County",3623
+50,3,7,48,463,"Texas","Uvalde County",26742
+50,3,7,48,465,"Texas","Val Verde County",49028
+50,3,7,48,467,"Texas","Van Zandt County",57533
+50,3,7,48,469,"Texas","Victoria County",91936
+50,3,7,48,471,"Texas","Walker County",72164
+50,3,7,48,473,"Texas","Waller County",57452
+50,3,7,48,475,"Texas","Ward County",12097
+50,3,7,48,477,"Texas","Washington County",35771
+50,3,7,48,479,"Texas","Webb County",277681
+50,3,7,48,481,"Texas","Wharton County",41685
+50,3,7,48,483,"Texas","Wheeler County",4946
+50,3,7,48,485,"Texas","Wichita County",133205
+50,3,7,48,487,"Texas","Wilbarger County",12552
+50,3,7,48,489,"Texas","Willacy County",21161
+50,3,7,48,491,"Texas","Williamson County",617855
+50,3,7,48,493,"Texas","Wilson County",52023
+50,3,7,48,495,"Texas","Winkler County",7887
+50,3,7,48,497,"Texas","Wise County",71084
+50,3,7,48,499,"Texas","Wood County",46291
+50,3,7,48,501,"Texas","Yoakum County",8702
+50,3,7,48,503,"Texas","Young County",17904
+50,3,7,48,505,"Texas","Zapata County",14172
+50,3,7,48,507,"Texas","Zavala County",11840
+40,4,8,49,0,"Utah","Utah",3249879
+50,4,8,49,1,"Utah","Beaver County",6761
+50,4,8,49,3,"Utah","Box Elder County",57007
+50,4,8,49,5,"Utah","Cache County",130004
+50,4,8,49,7,"Utah","Carbon County",20760
+50,4,8,49,9,"Utah","Daggett County",1026
+50,4,8,49,11,"Utah","Davis County",359232
+50,4,8,49,13,"Utah","Duchesne County",19894
+50,4,8,49,15,"Utah","Emery County",10147
+50,4,8,49,17,"Utah","Garfield County",5050
+50,4,8,49,19,"Utah","Grand County",9796
+50,4,8,49,21,"Utah","Iron County",56814
+50,4,8,49,23,"Utah","Juab County",12122
+50,4,8,49,25,"Utah","Kane County",7914
+50,4,8,49,27,"Utah","Millard County",13327
+50,4,8,49,29,"Utah","Morgan County",12462
+50,4,8,49,31,"Utah","Piute County",1473
+50,4,8,49,33,"Utah","Rich County",2452
+50,4,8,49,35,"Utah","Salt Lake County",1165517
+50,4,8,49,37,"Utah","San Juan County",15278
+50,4,8,49,39,"Utah","Sanpete County",31393
+50,4,8,49,41,"Utah","Sevier County",21780
+50,4,8,49,43,"Utah","Summit County",42499
+50,4,8,49,45,"Utah","Tooele County",74512
+50,4,8,49,47,"Utah","Uintah County",35970
+50,4,8,49,49,"Utah","Utah County",651059
+50,4,8,49,51,"Utah","Wasatch County",35300
+50,4,8,49,53,"Utah","Washington County",184913
+50,4,8,49,55,"Utah","Wayne County",2759
+50,4,8,49,57,"Utah","Weber County",262658
+40,1,1,50,0,"Vermont","Vermont",623347
+50,1,1,50,1,"Vermont","Addison County",36851
+50,1,1,50,3,"Vermont","Bennington County",35338
+50,1,1,50,5,"Vermont","Caledonia County",29705
+50,1,1,50,7,"Vermont","Chittenden County",164306
+50,1,1,50,9,"Vermont","Essex County",6123
+50,1,1,50,11,"Vermont","Franklin County",49685
+50,1,1,50,13,"Vermont","Grand Isle County",7169
+50,1,1,50,15,"Vermont","Lamoille County",25341
+50,1,1,50,17,"Vermont","Orange County",28837
+50,1,1,50,19,"Vermont","Orleans County",26897
+50,1,1,50,21,"Vermont","Rutland County",57764
+50,1,1,50,23,"Vermont","Washington County",58328
+50,1,1,50,25,"Vermont","Windham County",42015
+50,1,1,50,27,"Vermont","Windsor County",54988
+40,3,5,51,0,"Virginia","Virginia",8590563
+50,3,5,51,1,"Virginia","Accomack County",32238
+50,3,5,51,3,"Virginia","Albemarle County",110652
+50,3,5,51,5,"Virginia","Alleghany County",14701
+50,3,5,51,7,"Virginia","Amelia County",13014
+50,3,5,51,9,"Virginia","Amherst County",31667
+50,3,5,51,11,"Virginia","Appomattox County",16043
+50,3,5,51,13,"Virginia","Arlington County",240119
+50,3,5,51,15,"Virginia","Augusta County",76544
+50,3,5,51,17,"Virginia","Bath County",4119
+50,3,5,51,19,"Virginia","Bedford County",79811
+50,3,5,51,21,"Virginia","Bland County",6239
+50,3,5,51,23,"Virginia","Botetourt County",33633
+50,3,5,51,25,"Virginia","Brunswick County",16037
+50,3,5,51,27,"Virginia","Buchanan County",20613
+50,3,5,51,29,"Virginia","Buckingham County",17168
+50,3,5,51,31,"Virginia","Campbell County",55304
+50,3,5,51,33,"Virginia","Caroline County",30860
+50,3,5,51,35,"Virginia","Carroll County",30074
+50,3,5,51,36,"Virginia","Charles City County",6821
+50,3,5,51,37,"Virginia","Charlotte County",11820
+50,3,5,51,41,"Virginia","Chesterfield County",358245
+50,3,5,51,43,"Virginia","Clarke County",14622
+50,3,5,51,45,"Virginia","Craig County",5077
+50,3,5,51,47,"Virginia","Culpeper County",53569
+50,3,5,51,49,"Virginia","Cumberland County",9933
+50,3,5,51,51,"Virginia","Dickenson County",14078
+50,3,5,51,53,"Virginia","Dinwiddie County",28688
+50,3,5,51,57,"Virginia","Essex County",10943
+50,3,5,51,59,"Virginia","Fairfax County",1150847
+50,3,5,51,61,"Virginia","Fauquier County",71361
+50,3,5,51,63,"Virginia","Floyd County",15777
+50,3,5,51,65,"Virginia","Fluvanna County",27422
+50,3,5,51,67,"Virginia","Franklin County",56167
+50,3,5,51,69,"Virginia","Frederick County",91119
+50,3,5,51,71,"Virginia","Giles County",16663
+50,3,5,51,73,"Virginia","Gloucester County",37459
+50,3,5,51,75,"Virginia","Goochland County",24431
+50,3,5,51,77,"Virginia","Grayson County",15493
+50,3,5,51,79,"Virginia","Greene County",20131
+50,3,5,51,81,"Virginia","Greensville County",11280
+50,3,5,51,83,"Virginia","Halifax County",33633
+50,3,5,51,85,"Virginia","Hanover County",108262
+50,3,5,51,87,"Virginia","Henrico County",333766
+50,3,5,51,89,"Virginia","Henry County",50309
+50,3,5,51,91,"Virginia","Highland County",2200
+50,3,5,51,93,"Virginia","Isle of Wight County",37725
+50,3,5,51,95,"Virginia","James City County",77612
+50,3,5,51,97,"Virginia","King and Queen County",6942
+50,3,5,51,99,"Virginia","King George County",27381
+50,3,5,51,101,"Virginia","King William County",17641
+50,3,5,51,103,"Virginia","Lancaster County",10618
+50,3,5,51,105,"Virginia","Lee County",23238
+50,3,5,51,107,"Virginia","Loudoun County",422784
+50,3,5,51,109,"Virginia","Louisa County",38132
+50,3,5,51,111,"Virginia","Lunenburg County",12267
+50,3,5,51,113,"Virginia","Madison County",13312
+50,3,5,51,115,"Virginia","Mathews County",8766
+50,3,5,51,117,"Virginia","Mecklenburg County",30679
+50,3,5,51,119,"Virginia","Middlesex County",10569
+50,3,5,51,121,"Virginia","Montgomery County",98391
+50,3,5,51,125,"Virginia","Nelson County",14755
+50,3,5,51,127,"Virginia","New Kent County",23648
+50,3,5,51,131,"Virginia","Northampton County",11673
+50,3,5,51,133,"Virginia","Northumberland County",12069
+50,3,5,51,135,"Virginia","Nottoway County",15160
+50,3,5,51,137,"Virginia","Orange County",37695
+50,3,5,51,139,"Virginia","Page County",23933
+50,3,5,51,141,"Virginia","Patrick County",17493
+50,3,5,51,143,"Virginia","Pittsylvania County",59850
+50,3,5,51,145,"Virginia","Powhatan County",30148
+50,3,5,51,147,"Virginia","Prince Edward County",23006
+50,3,5,51,149,"Virginia","Prince George County",38686
+50,3,5,51,153,"Virginia","Prince William County",475533
+50,3,5,51,155,"Virginia","Pulaski County",33935
+50,3,5,51,157,"Virginia","Rappahannock County",7260
+50,3,5,51,159,"Virginia","Richmond County",9071
+50,3,5,51,161,"Virginia","Roanoke County",94509
+50,3,5,51,163,"Virginia","Rockbridge County",22757
+50,3,5,51,165,"Virginia","Rockingham County",82346
+50,3,5,51,167,"Virginia","Russell County",26647
+50,3,5,51,169,"Virginia","Scott County",21629
+50,3,5,51,171,"Virginia","Shenandoah County",43905
+50,3,5,51,173,"Virginia","Smyth County",30090
+50,3,5,51,175,"Virginia","Southampton County",17636
+50,3,5,51,177,"Virginia","Spotsylvania County",138449
+50,3,5,51,179,"Virginia","Stafford County",156748
+50,3,5,51,181,"Virginia","Surry County",6385
+50,3,5,51,183,"Virginia","Sussex County",10925
+50,3,5,51,185,"Virginia","Tazewell County",40529
+50,3,5,51,187,"Virginia","Warren County",40475
+50,3,5,51,191,"Virginia","Washington County",53695
+50,3,5,51,193,"Virginia","Westmoreland County",18149
+50,3,5,51,195,"Virginia","Wise County",37206
+50,3,5,51,197,"Virginia","Wythe County",28620
+50,3,5,51,199,"Virginia","York County",69199
+50,3,5,51,510,"Virginia","Alexandria city",158726
+50,3,5,51,520,"Virginia","Bristol city",17329
+50,3,5,51,530,"Virginia","Buena Vista city",6402
+50,3,5,51,540,"Virginia","Charlottesville city",46950
+50,3,5,51,550,"Virginia","Chesapeake city",247011
+50,3,5,51,570,"Virginia","Colonial Heights city",17205
+50,3,5,51,580,"Virginia","Covington city",5639
+50,3,5,51,590,"Virginia","Danville city",39869
+50,3,5,51,595,"Virginia","Emporia city",5257
+50,3,5,51,600,"Virginia","Fairfax city",23429
+50,3,5,51,610,"Virginia","Falls Church city",14631
+50,3,5,51,620,"Virginia","Franklin city",7833
+50,3,5,51,630,"Virginia","Fredericksburg city",29492
+50,3,5,51,640,"Virginia","Galax city",6296
+50,3,5,51,650,"Virginia","Hampton city",135464
+50,3,5,51,660,"Virginia","Harrisonburg city",53204
+50,3,5,51,670,"Virginia","Hopewell city",22375
+50,3,5,51,678,"Virginia","Lexington city",7279
+50,3,5,51,680,"Virginia","Lynchburg city",81561
+50,3,5,51,683,"Virginia","Manassas city",40869
+50,3,5,51,685,"Virginia","Manassas Park city",18004
+50,3,5,51,690,"Virginia","Martinsville city",12355
+50,3,5,51,700,"Virginia","Newport News city",179062
+50,3,5,51,710,"Virginia","Norfolk city",242803
+50,3,5,51,720,"Virginia","Norton city",3985
+50,3,5,51,730,"Virginia","Petersburg city",30446
+50,3,5,51,735,"Virginia","Poquoson city",12257
+50,3,5,51,740,"Virginia","Portsmouth city",95094
+50,3,5,51,750,"Virginia","Radford city",18255
+50,3,5,51,760,"Virginia","Richmond city",232226
+50,3,5,51,770,"Virginia","Roanoke city",99058
+50,3,5,51,775,"Virginia","Salem city",25340
+50,3,5,51,790,"Virginia","Staunton city",25190
+50,3,5,51,800,"Virginia","Suffolk city",93913
+50,3,5,51,810,"Virginia","Virginia Beach city",451231
+50,3,5,51,820,"Virginia","Waynesboro city",22741
+50,3,5,51,830,"Virginia","Williamsburg city",15259
+50,3,5,51,840,"Virginia","Winchester city",27700
+40,4,9,53,0,"Washington","Washington",7693612
+50,4,9,53,1,"Washington","Adams County",20027
+50,4,9,53,3,"Washington","Asotin County",22820
+50,4,9,53,5,"Washington","Benton County",206426
+50,4,9,53,7,"Washington","Chelan County",77574
+50,4,9,53,9,"Washington","Clallam County",78067
+50,4,9,53,11,"Washington","Clark County",496865
+50,4,9,53,13,"Washington","Columbia County",4048
+50,4,9,53,15,"Washington","Cowlitz County",111371
+50,4,9,53,17,"Washington","Douglas County",43560
+50,4,9,53,19,"Washington","Ferry County",7759
+50,4,9,53,21,"Washington","Franklin County",97075
+50,4,9,53,23,"Washington","Garfield County",2290
+50,4,9,53,25,"Washington","Grant County",99377
+50,4,9,53,27,"Washington","Grays Harbor County",75950
+50,4,9,53,29,"Washington","Island County",86014
+50,4,9,53,31,"Washington","Jefferson County",32700
+50,4,9,53,33,"Washington","King County",2274315
+50,4,9,53,35,"Washington","Kitsap County",272787
+50,4,9,53,37,"Washington","Kittitas County",49204
+50,4,9,53,39,"Washington","Klickitat County",22697
+50,4,9,53,41,"Washington","Lewis County",82109
+50,4,9,53,43,"Washington","Lincoln County",11090
+50,4,9,53,45,"Washington","Mason County",68224
+50,4,9,53,47,"Washington","Okanogan County",42620
+50,4,9,53,49,"Washington","Pacific County",22984
+50,4,9,53,51,"Washington","Pend Oreille County",14144
+50,4,9,53,53,"Washington","Pierce County",913890
+50,4,9,53,55,"Washington","San Juan County",17492
+50,4,9,53,57,"Washington","Skagit County",130789
+50,4,9,53,59,"Washington","Skamania County",12107
+50,4,9,53,61,"Washington","Snohomish County",830393
+50,4,9,53,63,"Washington","Spokane County",528225
+50,4,9,53,65,"Washington","Stevens County",46360
+50,4,9,53,67,"Washington","Thurston County",294074
+50,4,9,53,69,"Washington","Wahkiakum County",4498
+50,4,9,53,71,"Washington","Walla Walla County",61292
+50,4,9,53,73,"Washington","Whatcom County",231016
+50,4,9,53,75,"Washington","Whitman County",49500
+50,4,9,53,77,"Washington","Yakima County",251879
+40,3,5,54,0,"West Virginia","West Virginia",1784787
+50,3,5,54,1,"West Virginia","Barbour County",16444
+50,3,5,54,3,"West Virginia","Berkeley County",122125
+50,3,5,54,5,"West Virginia","Boone County",21055
+50,3,5,54,7,"West Virginia","Braxton County",13702
+50,3,5,54,9,"West Virginia","Brooke County",21674
+50,3,5,54,11,"West Virginia","Cabell County",91589
+50,3,5,54,13,"West Virginia","Calhoun County",6945
+50,3,5,54,15,"West Virginia","Clay County",8341
+50,3,5,54,17,"West Virginia","Doddridge County",8368
+50,3,5,54,19,"West Virginia","Fayette County",42062
+50,3,5,54,21,"West Virginia","Gilmer County",7811
+50,3,5,54,23,"West Virginia","Grant County",11510
+50,3,5,54,25,"West Virginia","Greenbrier County",34319
+50,3,5,54,27,"West Virginia","Hampshire County",23190
+50,3,5,54,29,"West Virginia","Hancock County",28571
+50,3,5,54,31,"West Virginia","Hardy County",13633
+50,3,5,54,33,"West Virginia","Harrison County",66870
+50,3,5,54,35,"West Virginia","Jackson County",28453
+50,3,5,54,37,"West Virginia","Jefferson County",57486
+50,3,5,54,39,"West Virginia","Kanawha County",176253
+50,3,5,54,41,"West Virginia","Lewis County",15805
+50,3,5,54,43,"West Virginia","Lincoln County",20043
+50,3,5,54,45,"West Virginia","Logan County",31688
+50,3,5,54,47,"West Virginia","McDowell County",16916
+50,3,5,54,49,"West Virginia","Marion County",55962
+50,3,5,54,51,"West Virginia","Marshall County",30103
+50,3,5,54,53,"West Virginia","Mason County",26335
+50,3,5,54,55,"West Virginia","Mercer County",58258
+50,3,5,54,57,"West Virginia","Mineral County",26722
+50,3,5,54,59,"West Virginia","Mingo County",22951
+50,3,5,54,61,"West Virginia","Monongalia County",106819
+50,3,5,54,63,"West Virginia","Monroe County",13229
+50,3,5,54,65,"West Virginia","Morgan County",17873
+50,3,5,54,67,"West Virginia","Nicholas County",24340
+50,3,5,54,69,"West Virginia","Ohio County",41182
+50,3,5,54,71,"West Virginia","Pendleton County",6932
+50,3,5,54,73,"West Virginia","Pleasants County",7438
+50,3,5,54,75,"West Virginia","Pocahontas County",8190
+50,3,5,54,77,"West Virginia","Preston County",33380
+50,3,5,54,79,"West Virginia","Putnam County",56428
+50,3,5,54,81,"West Virginia","Raleigh County",72920
+50,3,5,54,83,"West Virginia","Randolph County",28387
+50,3,5,54,85,"West Virginia","Ritchie County",9499
+50,3,5,54,87,"West Virginia","Roane County",13482
+50,3,5,54,89,"West Virginia","Summers County",12444
+50,3,5,54,91,"West Virginia","Taylor County",16699
+50,3,5,54,93,"West Virginia","Tucker County",6816
+50,3,5,54,95,"West Virginia","Tyler County",8533
+50,3,5,54,97,"West Virginia","Upshur County",24230
+50,3,5,54,99,"West Virginia","Wayne County",39054
+50,3,5,54,101,"West Virginia","Webster County",8058
+50,3,5,54,103,"West Virginia","Wetzel County",14904
+50,3,5,54,105,"West Virginia","Wirt County",5705
+50,3,5,54,107,"West Virginia","Wood County",82938
+50,3,5,54,109,"West Virginia","Wyoming County",20123
+40,2,3,55,0,"Wisconsin","Wisconsin",5832655
+50,2,3,55,1,"Wisconsin","Adams County",20498
+50,2,3,55,3,"Wisconsin","Ashland County",15415
+50,2,3,55,5,"Wisconsin","Barron County",45090
+50,2,3,55,7,"Wisconsin","Bayfield County",15242
+50,2,3,55,9,"Wisconsin","Brown County",264610
+50,2,3,55,11,"Wisconsin","Buffalo County",13033
+50,2,3,55,13,"Wisconsin","Burnett County",15557
+50,2,3,55,15,"Wisconsin","Calumet County",50209
+50,2,3,55,17,"Wisconsin","Chippewa County",64737
+50,2,3,55,19,"Wisconsin","Clark County",34720
+50,2,3,55,21,"Wisconsin","Columbia County",57668
+50,2,3,55,23,"Wisconsin","Crawford County",16021
+50,2,3,55,25,"Wisconsin","Dane County",552536
+50,2,3,55,27,"Wisconsin","Dodge County",87336
+50,2,3,55,29,"Wisconsin","Door County",27889
+50,2,3,55,31,"Wisconsin","Douglas County",43702
+50,2,3,55,33,"Wisconsin","Dunn County",45452
+50,2,3,55,35,"Wisconsin","Eau Claire County",105260
+50,2,3,55,37,"Wisconsin","Florence County",4298
+50,2,3,55,39,"Wisconsin","Fond du Lac County",102902
+50,2,3,55,41,"Wisconsin","Forest County",8960
+50,2,3,55,43,"Wisconsin","Grant County",51021
+50,2,3,55,45,"Wisconsin","Green County",36603
+50,2,3,55,47,"Wisconsin","Green Lake County",18908
+50,2,3,55,49,"Wisconsin","Iowa County",23640
+50,2,3,55,51,"Wisconsin","Iron County",5698
+50,2,3,55,53,"Wisconsin","Jackson County",20630
+50,2,3,55,55,"Wisconsin","Jefferson County",85038
+50,2,3,55,57,"Wisconsin","Juneau County",26908
+50,2,3,55,59,"Wisconsin","Kenosha County",169671
+50,2,3,55,61,"Wisconsin","Kewaunee County",20386
+50,2,3,55,63,"Wisconsin","La Crosse County",118502
+50,2,3,55,65,"Wisconsin","Lafayette County",16646
+50,2,3,55,67,"Wisconsin","Langlade County",19119
+50,2,3,55,69,"Wisconsin","Lincoln County",27566
+50,2,3,55,71,"Wisconsin","Manitowoc County",78757
+50,2,3,55,73,"Wisconsin","Marathon County",135593
+50,2,3,55,75,"Wisconsin","Marinette County",40262
+50,2,3,55,77,"Wisconsin","Marquette County",15585
+50,2,3,55,78,"Wisconsin","Menominee County",4546
+50,2,3,55,79,"Wisconsin","Milwaukee County",945016
+50,2,3,55,81,"Wisconsin","Monroe County",46582
+50,2,3,55,83,"Wisconsin","Oconto County",38383
+50,2,3,55,85,"Wisconsin","Oneida County",35751
+50,2,3,55,87,"Wisconsin","Outagamie County",188766
+50,2,3,55,89,"Wisconsin","Ozaukee County",90043
+50,2,3,55,91,"Wisconsin","Pepin County",7271
+50,2,3,55,93,"Wisconsin","Pierce County",42700
+50,2,3,55,95,"Wisconsin","Polk County",43794
+50,2,3,55,97,"Wisconsin","Portage County",71032
+50,2,3,55,99,"Wisconsin","Price County",13245
+50,2,3,55,101,"Wisconsin","Racine County",195802
+50,2,3,55,103,"Wisconsin","Richland County",17258
+50,2,3,55,105,"Wisconsin","Rock County",163084
+50,2,3,55,107,"Wisconsin","Rusk County",14022
+50,2,3,55,109,"Wisconsin","St. Croix County",91838
+50,2,3,55,111,"Wisconsin","Sauk County",64449
+50,2,3,55,113,"Wisconsin","Sawyer County",16700
+50,2,3,55,115,"Wisconsin","Shawano County",40786
+50,2,3,55,117,"Wisconsin","Sheboygan County",115240
+50,2,3,55,119,"Wisconsin","Taylor County",20318
+50,2,3,55,121,"Wisconsin","Trempealeau County",29681
+50,2,3,55,123,"Wisconsin","Vernon County",30861
+50,2,3,55,125,"Wisconsin","Vilas County",22356
+50,2,3,55,127,"Wisconsin","Walworth County",103953
+50,2,3,55,129,"Wisconsin","Washburn County",15712
+50,2,3,55,131,"Wisconsin","Washington County",136445
+50,2,3,55,133,"Wisconsin","Waukesha County",406172
+50,2,3,55,135,"Wisconsin","Waupaca County",50664
+50,2,3,55,137,"Wisconsin","Waushara County",24326
+50,2,3,55,139,"Wisconsin","Winnebago County",171631
+50,2,3,55,141,"Wisconsin","Wood County",72560
+40,4,8,56,0,"Wyoming","Wyoming",582328
+50,4,8,56,1,"Wyoming","Albany County",38950
+50,4,8,56,3,"Wyoming","Big Horn County",11575
+50,4,8,56,5,"Wyoming","Campbell County",46676
+50,4,8,56,7,"Wyoming","Carbon County",14711
+50,4,8,56,9,"Wyoming","Converse County",13804
+50,4,8,56,11,"Wyoming","Crook County",7593
+50,4,8,56,13,"Wyoming","Fremont County",39317
+50,4,8,56,15,"Wyoming","Goshen County",13235
+50,4,8,56,17,"Wyoming","Hot Springs County",4425
+50,4,8,56,19,"Wyoming","Johnson County",8588
+50,4,8,56,21,"Wyoming","Laramie County",100595
+50,4,8,56,23,"Wyoming","Lincoln County",20253
+50,4,8,56,25,"Wyoming","Natrona County",80815
+50,4,8,56,27,"Wyoming","Niobrara County",2275
+50,4,8,56,29,"Wyoming","Park County",29331
+50,4,8,56,31,"Wyoming","Platte County",8578
+50,4,8,56,33,"Wyoming","Sheridan County",30863
+50,4,8,56,35,"Wyoming","Sublette County",9856
+50,4,8,56,37,"Wyoming","Sweetwater County",42673
+50,4,8,56,39,"Wyoming","Teton County",23497
+50,4,8,56,41,"Wyoming","Uinta County",20215
+50,4,8,56,43,"Wyoming","Washakie County",7760
+50,4,8,56,45,"Wyoming","Weston County",6743
