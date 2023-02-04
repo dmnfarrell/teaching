@@ -1,0 +1,40 @@
+Item,Account,Amount,Date Rcvd.,Deposit,Days to pay,Comment
+1,Office supply,123.45,02/01/2004,10,0,Project X
+2,Office supply,54.4,05/01/2004,0,0,Project Y
+3,Printing,2543.21,05/01/2004,350,45,Feb. brochure
+4,Cleaning,78.83,08/01/2004,0,15,Monthly
+5,Coffee,56.92,09/01/2004,0,15,Monthly
+6,Office supply,914.22,12/01/2004,100,30,Project X
+7,Printing,755,13/01/2004,50,30,Hand bills
+8,Office supply,478.88,16/01/2004,50,30,Computer
+9,Office rent,1632,19/01/2004,0,15,Monthly
+10,Fire insurance,1254.73,22/01/2004,0,60,Quarterly
+11,Cleaning,135.64,22/01/2004,0,15,Water damage
+12,Orphan's,300,27/01/2004,0,0,Charity
+13,Office supply,343.78,30/01/2004,100,15,Laser printer
+14,Printing,2211.82,04/02/2004,350,45,Mar. brochure
+15,Coffee,56.92,05/02/2004,0,15,Monthly
+16,Cleaning,78.83,10/02/2004,0,15,Monthly
+17,Printing,254.17,12/02/2004,50,15,Hand bills
+18,Office supply,412.19,12/02/2004,50,30,Project Y
+19,Office supply,1467.44,13/02/2004,150,30,Project W
+20,Office supply,221.52,16/02/2004,50,15,Project X
+21,Office rent,1632,18/02/2004,0,15,Monthly
+22,Police fund,250,19/02/2004,0,15,Charity
+23,Printing,87.34,23/02/2004,25,0,Posters
+24,Printing,94.12,23/02/2004,25,0,Posters
+25,Entertaining,298.32,26/02/2004,0,0,Project Y
+26,Orphan's,300,27/02/2004,0,0,Charity
+27,Office supply,1669.76,01/03/2004,150,45,Project Z
+28,Office supply,1111.02,02/03/2004,150,30,Project W
+29,Office supply,76.21,04/03/2004,25,0,Project W
+30,Coffee,56.92,05/03/2004,0,15,Monthly
+31,Office supply,914.22,08/03/2004,100,30,Project X
+32,Cleaning,78.83,09/03/2004,0,15,Monthly
+33,Printing,455.1,12/03/2002,100,15,Hand bills
+34,Office supply,1572.31,15/03/2002,150,45,Project Y
+35,Office rent,1632,17/03/2002,0,15,Monthly
+36,Police fund,250,23/03/2002,0,15,Charity
+37,Office supply,642.11,26/03/2002,100,30,Project W
+38,Office supply,712.16,29/03/2002,100,30,Project Z
+39,Orphan's,300,29/03/2002,0,0,Charity
